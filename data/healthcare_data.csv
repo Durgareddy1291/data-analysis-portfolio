@@ -1,0 +1,2001 @@
+Patient_ID,Age,Gender,Department,Diagnosis,Length_of_Stay,Treatment_Cost,Satisfaction_Score,Readmission,Age_Group,Cost_per_Day,Satisfaction_Level
+1,56,Male,Orthopedics,Fracture,11,11165.43,8.3,No,46-60,1015.04,High
+2,69,Female,Neurology,Migraine,8,49243.93,2.2,No,61-80,6155.49,Low
+3,46,Male,General Medicine,Hypertension,3,27823.28,3.1,No,46-60,9274.43,Low
+4,32,Male,Pediatrics,Fracture,14,49631.41,5.1,No,31-45,3545.1,Medium
+5,60,Female,Orthopedics,Infection,10,48269.23,5.7,Yes,46-60,4826.92,Medium
+6,25,Male,Orthopedics,Infection,6,60303.76,7.9,No,18-30,10050.63,High
+7,78,Female,General Medicine,Migraine,7,38893.2,5.0,No,61-80,5556.17,Medium
+8,38,Female,Cardiology,Hypertension,10,20605.69,8.1,No,31-45,2060.57,High
+9,56,Female,Pediatrics,Hypertension,1,52853.35,6.6,No,46-60,52853.35,Medium
+10,75,Female,Orthopedics,Infection,14,83869.27,2.0,No,61-80,5990.66,Low
+11,36,Female,Pediatrics,Diabetes,6,68081.16,2.4,No,31-45,11346.86,Low
+12,40,Male,Orthopedics,Migraine,7,37144.95,4.9,No,31-45,5306.42,Medium
+13,28,Male,Pediatrics,Migraine,6,93874.69,4.6,No,18-30,15645.78,Medium
+14,28,Male,Neurology,Infection,4,91659.72,7.7,No,18-30,22914.93,High
+15,41,Female,Orthopedics,Infection,1,24888.1,6.2,No,31-45,24888.1,Medium
+16,70,Female,Pediatrics,Diabetes,11,8744.67,4.5,No,61-80,794.97,Medium
+17,53,Female,Cardiology,Diabetes,9,75424.33,2.5,No,46-60,8380.48,Low
+18,57,Male,Neurology,Hypertension,4,83622.97,3.0,No,46-60,20905.74,Low
+19,41,Female,Neurology,Migraine,7,96947.13,6.2,No,31-45,13849.59,Medium
+20,20,Male,Cardiology,Migraine,7,89534.46,4.8,No,18-30,12790.64,Medium
+21,39,Male,Pediatrics,Infection,2,62050.8,5.6,No,31-45,31025.4,Medium
+22,70,Female,General Medicine,Hypertension,1,55354.97,2.5,No,61-80,55354.97,Low
+23,19,Female,Cardiology,Migraine,8,7644.9,7.0,No,18-30,955.61,Medium
+24,41,Male,Pediatrics,Hypertension,8,28432.36,8.7,No,31-45,3554.04,High
+25,61,Female,Cardiology,Hypertension,7,48663.4,3.3,No,61-80,6951.91,Low
+26,47,Male,Cardiology,Infection,14,64707.87,5.4,No,46-60,4621.99,Medium
+27,55,Female,Orthopedics,Hypertension,8,57938.92,9.8,Yes,46-60,7242.36,High
+28,19,Female,Pediatrics,Diabetes,3,75550.42,4.0,No,18-30,25183.47,Low
+29,77,Male,General Medicine,Diabetes,11,31577.86,6.4,No,61-80,2870.71,Medium
+30,38,Female,Orthopedics,Fracture,2,58670.5,1.8,No,31-45,29335.25,Low
+31,50,Male,Cardiology,Infection,7,13373.51,6.5,No,46-60,1910.5,Medium
+32,29,Female,Cardiology,Fracture,8,44298.22,1.8,No,18-30,5537.28,Low
+33,75,Male,Cardiology,Diabetes,1,76265.28,9.6,No,61-80,76265.28,High
+34,39,Male,Pediatrics,Fracture,12,70873.08,7.4,No,31-45,5906.09,High
+35,78,Female,Pediatrics,Infection,10,99111.06,8.1,Yes,61-80,9911.11,High
+36,61,Male,Orthopedics,Infection,9,31399.66,7.3,No,61-80,3488.85,High
+37,42,Female,General Medicine,Hypertension,13,52327.98,6.3,No,31-45,4025.23,Medium
+38,66,Female,Orthopedics,Migraine,11,36305.39,5.0,No,61-80,3300.49,Medium
+39,44,Female,Neurology,Hypertension,4,46857.3,8.7,No,31-45,11714.32,High
+40,76,Male,Cardiology,Infection,14,86410.26,9.6,No,61-80,6172.16,High
+41,80,Male,Cardiology,Diabetes,12,69999.86,5.5,No,61-80,5833.32,Medium
+42,59,Female,Cardiology,Diabetes,14,88831.91,9.4,No,46-60,6345.14,High
+43,45,Female,Orthopedics,Hypertension,4,24333.56,6.2,No,31-45,6083.39,Medium
+44,77,Male,Orthopedics,Infection,3,87969.31,5.8,No,61-80,29323.1,Medium
+45,33,Female,Cardiology,Diabetes,6,10677.42,5.1,No,31-45,1779.57,Medium
+46,32,Female,Orthopedics,Infection,1,89416.93,2.9,No,31-45,89416.93,Low
+47,79,Male,Pediatrics,Diabetes,6,36262.01,1.0,No,61-80,6043.67,Low
+48,79,Female,Pediatrics,Infection,2,34885.83,3.2,No,61-80,17442.92,Low
+49,64,Male,Orthopedics,Fracture,9,53648.41,5.6,No,61-80,5960.93,Medium
+50,79,Female,Cardiology,Infection,2,94365.57,4.4,No,61-80,47182.78,Medium
+51,68,Male,Orthopedics,Infection,7,9539.23,5.0,No,61-80,1362.75,Medium
+52,61,Female,Orthopedics,Hypertension,12,38461.94,9.8,No,61-80,3205.16,High
+53,72,Female,Orthopedics,Fracture,1,86374.34,4.2,No,61-80,86374.34,Medium
+54,69,Male,Neurology,Migraine,12,42625.18,5.1,No,61-80,3552.1,Medium
+55,74,Female,Pediatrics,Hypertension,7,23919.91,2.2,No,61-80,3417.13,Low
+56,20,Male,General Medicine,Migraine,5,45355.45,1.4,No,18-30,9071.09,Low
+57,54,Female,General Medicine,Diabetes,8,41627.49,8.0,No,46-60,5203.44,High
+58,68,Male,Neurology,Migraine,4,91964.54,6.1,Yes,61-80,22991.14,Medium
+59,24,Male,Orthopedics,Infection,12,77383.77,7.8,No,18-30,6448.65,High
+60,38,Male,Neurology,Migraine,10,52985.98,2.3,No,31-45,5298.6,Low
+61,26,Male,Neurology,Hypertension,7,98895.2,6.1,No,18-30,14127.89,Medium
+62,56,Female,Cardiology,Hypertension,6,49201.37,3.3,No,46-60,8200.23,Low
+63,35,Female,Pediatrics,Migraine,5,10532.59,3.1,No,31-45,2106.52,Low
+64,21,Male,General Medicine,Hypertension,4,29916.06,1.1,No,18-30,7479.02,Low
+65,42,Male,Orthopedics,Hypertension,7,46426.7,2.2,No,31-45,6632.39,Low
+66,77,Male,General Medicine,Migraine,12,19905.75,3.8,No,61-80,1658.81,Low
+67,31,Female,General Medicine,Fracture,5,95018.69,2.1,No,31-45,19003.74,Low
+68,67,Female,Pediatrics,Fracture,5,77850.65,9.9,No,61-80,15570.13,High
+69,75,Female,General Medicine,Diabetes,1,30487.28,3.8,Yes,61-80,30487.28,Low
+70,26,Female,General Medicine,Hypertension,2,61126.43,2.2,No,18-30,30563.22,Low
+71,43,Male,Neurology,Migraine,5,73537.67,2.8,No,31-45,14707.53,Low
+72,70,Male,Pediatrics,Hypertension,13,94421.5,6.3,Yes,61-80,7263.19,Medium
+73,19,Male,Cardiology,Infection,3,88755.36,1.6,No,18-30,29585.12,Low
+74,37,Female,Orthopedics,Hypertension,14,53943.26,8.8,No,31-45,3853.09,High
+75,45,Female,General Medicine,Hypertension,13,78592.0,9.7,No,31-45,6045.54,High
+76,64,Female,Orthopedics,Fracture,2,58403.75,3.2,No,61-80,29201.88,Low
+77,77,Male,Cardiology,Migraine,14,57506.87,5.1,No,61-80,4107.63,Medium
+78,24,Male,Orthopedics,Hypertension,14,15900.49,1.2,No,18-30,1135.75,Low
+79,61,Female,Cardiology,Fracture,4,16983.08,6.8,No,61-80,4245.77,Medium
+80,78,Male,Neurology,Diabetes,4,55305.69,4.7,No,61-80,13826.42,Medium
+81,25,Female,General Medicine,Fracture,4,30541.85,3.4,No,18-30,7635.46,Low
+82,64,Female,Cardiology,Fracture,4,6998.51,2.9,No,61-80,1749.63,Low
+83,52,Male,Orthopedics,Fracture,3,73669.72,6.9,No,46-60,24556.57,Medium
+84,31,Female,General Medicine,Hypertension,13,8086.23,4.7,No,31-45,622.02,Medium
+85,34,Male,Neurology,Hypertension,12,61551.3,2.6,No,31-45,5129.28,Low
+86,53,Female,General Medicine,Diabetes,7,56223.41,7.2,No,46-60,8031.92,High
+87,67,Male,Cardiology,Infection,9,97037.4,6.1,No,61-80,10781.93,Medium
+88,57,Male,Neurology,Infection,12,51000.25,8.7,No,46-60,4250.02,High
+89,21,Male,Orthopedics,Infection,5,11042.14,2.1,No,18-30,2208.43,Low
+90,19,Female,Neurology,Diabetes,4,57410.36,8.1,No,18-30,14352.59,High
+91,79,Female,Neurology,Infection,11,84904.14,7.1,No,61-80,7718.56,High
+92,23,Male,Pediatrics,Infection,2,99700.68,2.0,No,18-30,49850.34,Low
+93,71,Male,Neurology,Fracture,2,45882.6,7.3,No,61-80,22941.3,High
+94,59,Female,Neurology,Hypertension,5,35428.38,5.0,No,46-60,7085.68,Medium
+95,21,Female,General Medicine,Hypertension,7,91132.06,9.5,No,18-30,13018.87,High
+96,71,Female,Orthopedics,Fracture,10,23168.0,2.3,No,61-80,2316.8,Low
+97,46,Male,General Medicine,Fracture,10,63465.75,6.8,No,46-60,6346.58,Medium
+98,80,Female,General Medicine,Fracture,9,43542.87,4.4,No,61-80,4838.1,Medium
+99,35,Female,Cardiology,Hypertension,13,8902.82,9.6,Yes,31-45,684.83,High
+100,43,Male,General Medicine,Infection,7,37992.41,4.0,No,31-45,5427.49,Low
+101,61,Female,Pediatrics,Fracture,5,30196.71,9.7,No,61-80,6039.34,High
+102,51,Female,Pediatrics,Diabetes,10,70178.66,9.1,No,46-60,7017.87,High
+103,27,Female,Cardiology,Fracture,10,95135.1,3.4,No,18-30,9513.51,Low
+104,79,Male,Orthopedics,Migraine,10,30464.48,8.2,No,61-80,3046.45,High
+105,53,Male,Orthopedics,Fracture,6,82089.26,10.0,No,46-60,13681.54,High
+106,31,Male,General Medicine,Hypertension,11,10259.18,3.3,No,31-45,932.65,Low
+107,48,Male,General Medicine,Fracture,12,56121.5,4.9,No,46-60,4676.79,Medium
+108,65,Male,General Medicine,Migraine,3,11702.26,5.7,No,61-80,3900.75,Medium
+109,32,Male,Orthopedics,Diabetes,5,93733.13,3.7,No,31-45,18746.63,Low
+110,25,Male,Neurology,Infection,8,77803.37,1.1,No,18-30,9725.42,Low
+111,31,Female,Pediatrics,Fracture,1,67505.24,3.0,No,31-45,67505.24,Low
+112,40,Female,Neurology,Migraine,12,83270.16,3.5,No,31-45,6939.18,Low
+113,77,Male,Neurology,Migraine,1,66514.38,5.0,No,61-80,66514.38,Medium
+114,74,Female,Orthopedics,Diabetes,7,97049.72,2.5,Yes,61-80,13864.25,Low
+115,79,Female,Neurology,Hypertension,14,72826.01,8.9,No,61-80,5201.86,High
+116,57,Male,Cardiology,Fracture,5,92842.57,7.3,No,46-60,18568.51,High
+117,38,Female,General Medicine,Migraine,14,54127.53,1.8,No,31-45,3866.25,Low
+118,33,Female,Cardiology,Diabetes,5,16121.12,6.9,Yes,31-45,3224.22,Medium
+119,62,Female,Pediatrics,Infection,1,55176.88,6.9,No,61-80,55176.88,Medium
+120,35,Female,General Medicine,Migraine,9,17052.92,9.6,No,31-45,1894.77,High
+121,64,Female,Neurology,Diabetes,1,61286.88,1.0,No,61-80,61286.88,Low
+122,70,Male,Pediatrics,Hypertension,5,50836.84,3.2,No,61-80,10167.37,Low
+123,41,Male,General Medicine,Hypertension,10,64144.66,9.4,No,31-45,6414.47,High
+124,43,Male,Neurology,Migraine,9,5954.46,9.4,No,31-45,661.61,High
+125,42,Female,Cardiology,Migraine,14,23509.85,7.5,Yes,31-45,1679.28,High
+126,77,Male,General Medicine,Fracture,4,51676.39,7.9,No,61-80,12919.1,High
+127,77,Female,Neurology,Diabetes,13,95297.84,1.8,Yes,61-80,7330.6,Low
+128,77,Female,Cardiology,Migraine,8,41442.86,5.6,No,61-80,5180.36,Medium
+129,62,Female,Pediatrics,Fracture,6,45315.34,3.1,No,61-80,7552.56,Low
+130,58,Female,Pediatrics,Fracture,11,72896.13,2.6,No,46-60,6626.92,Low
+131,46,Male,Pediatrics,Migraine,3,62360.31,8.3,No,46-60,20786.77,High
+132,32,Male,Pediatrics,Hypertension,4,33397.98,2.2,Yes,31-45,8349.5,Low
+133,62,Female,Orthopedics,Diabetes,2,44027.56,5.2,No,61-80,22013.78,Medium
+134,18,Male,General Medicine,Diabetes,1,25681.48,9.4,Yes,18-30,25681.48,High
+135,42,Female,General Medicine,Hypertension,13,96772.04,2.7,No,31-45,7444.0,Low
+136,24,Male,Orthopedics,Migraine,14,17410.27,9.8,No,18-30,1243.59,High
+137,26,Male,Neurology,Diabetes,8,40324.49,9.9,No,18-30,5040.56,High
+138,41,Female,Neurology,Migraine,1,7454.7,6.0,No,31-45,7454.7,Medium
+139,18,Male,Pediatrics,Migraine,14,26069.05,2.5,No,18-30,1862.08,Low
+140,61,Female,Cardiology,Fracture,13,79144.76,3.8,Yes,61-80,6088.06,Low
+141,25,Male,Neurology,Hypertension,11,24111.65,4.8,Yes,18-30,2191.97,Medium
+142,41,Female,Cardiology,Migraine,1,12606.02,3.8,Yes,31-45,12606.02,Low
+143,80,Female,General Medicine,Infection,4,50073.05,3.5,No,61-80,12518.26,Low
+144,28,Male,Cardiology,Hypertension,10,5947.08,9.8,No,18-30,594.71,High
+145,68,Male,General Medicine,Diabetes,12,13052.78,2.4,No,61-80,1087.73,Low
+146,34,Female,Orthopedics,Fracture,10,81724.46,7.6,No,31-45,8172.45,High
+147,25,Male,Orthopedics,Diabetes,6,78289.97,1.0,No,18-30,13048.33,Low
+148,52,Male,Pediatrics,Diabetes,9,91938.19,6.4,No,46-60,10215.35,Medium
+149,52,Female,Neurology,Hypertension,1,86178.97,9.2,No,46-60,86178.97,High
+150,50,Female,Pediatrics,Diabetes,7,69901.68,3.6,No,46-60,9985.95,Low
+151,76,Male,General Medicine,Migraine,10,9971.62,2.7,Yes,61-80,997.16,Low
+152,22,Female,Pediatrics,Diabetes,11,79370.62,6.9,No,18-30,7215.51,Medium
+153,59,Female,Cardiology,Fracture,5,85323.53,7.4,No,46-60,17064.71,High
+154,56,Female,General Medicine,Fracture,12,80912.8,7.2,No,46-60,6742.73,High
+155,75,Male,Orthopedics,Infection,8,53305.51,3.9,No,61-80,6663.19,Low
+156,58,Male,Neurology,Fracture,14,27125.67,3.3,No,46-60,1937.55,Low
+157,45,Female,General Medicine,Diabetes,7,85306.35,9.6,No,31-45,12186.62,High
+158,24,Male,General Medicine,Fracture,4,74080.47,9.3,No,18-30,18520.12,High
+159,26,Female,Cardiology,Hypertension,4,98172.31,5.1,No,18-30,24543.08,Medium
+160,25,Male,Neurology,Fracture,6,19790.8,8.6,No,18-30,3298.47,High
+161,29,Female,Orthopedics,Migraine,6,26438.14,5.1,No,18-30,4406.36,Medium
+162,51,Female,General Medicine,Hypertension,9,25120.82,4.8,No,46-60,2791.2,Medium
+163,50,Male,General Medicine,Infection,12,80291.28,2.4,No,46-60,6690.94,Low
+164,65,Female,Cardiology,Migraine,5,22756.19,4.8,No,61-80,4551.24,Medium
+165,72,Male,Pediatrics,Diabetes,8,11332.68,5.8,No,61-80,1416.58,Medium
+166,40,Male,Orthopedics,Diabetes,5,99863.28,1.2,No,31-45,19972.66,Low
+167,79,Female,Neurology,Diabetes,2,7357.64,5.0,No,61-80,3678.82,Medium
+168,41,Female,General Medicine,Migraine,6,84348.19,8.0,Yes,31-45,14058.03,High
+169,54,Male,General Medicine,Migraine,9,39709.85,7.1,No,46-60,4412.21,High
+170,52,Female,Orthopedics,Migraine,13,84953.47,6.7,Yes,46-60,6534.88,Medium
+171,61,Female,Pediatrics,Hypertension,3,57688.95,9.2,No,61-80,19229.65,High
+172,57,Female,General Medicine,Hypertension,1,90654.97,1.2,No,46-60,90654.97,Low
+173,39,Female,Orthopedics,Diabetes,1,92988.33,6.0,No,31-45,92988.33,Medium
+174,44,Female,Cardiology,Fracture,13,5864.33,8.1,Yes,31-45,451.1,High
+175,52,Male,Pediatrics,Diabetes,3,12164.16,5.9,No,46-60,4054.72,Medium
+176,18,Male,Neurology,Infection,10,28784.08,3.9,No,18-30,2878.41,Low
+177,52,Female,General Medicine,Hypertension,5,68584.96,2.2,No,46-60,13716.99,Low
+178,54,Female,Orthopedics,Migraine,3,89385.86,9.0,Yes,46-60,29795.29,High
+179,64,Female,Cardiology,Hypertension,9,48694.49,5.2,No,61-80,5410.5,Medium
+180,31,Male,Neurology,Migraine,8,62662.45,8.9,No,31-45,7832.81,High
+181,20,Female,Orthopedics,Infection,3,22907.49,6.3,Yes,18-30,7635.83,Medium
+182,18,Male,Orthopedics,Infection,9,81471.85,7.1,No,18-30,9052.43,High
+183,22,Male,Neurology,Hypertension,13,96896.17,8.2,No,18-30,7453.55,High
+184,43,Male,Cardiology,Migraine,6,30516.9,6.9,No,31-45,5086.15,Medium
+185,72,Female,Cardiology,Infection,13,52008.47,4.6,No,61-80,4000.65,Medium
+186,80,Male,Pediatrics,Diabetes,7,13181.03,5.6,No,61-80,1883.0,Medium
+187,31,Female,General Medicine,Diabetes,4,58117.98,8.2,No,31-45,14529.5,High
+188,56,Male,Neurology,Migraine,4,52764.43,4.4,No,46-60,13191.11,Medium
+189,44,Female,Neurology,Hypertension,12,18721.47,4.5,No,31-45,1560.12,Medium
+190,26,Male,Neurology,Infection,13,46996.29,1.9,No,18-30,3615.1,Low
+191,32,Female,Cardiology,Hypertension,2,36739.94,9.2,No,31-45,18369.97,High
+192,32,Male,General Medicine,Diabetes,5,54573.93,1.8,No,31-45,10914.79,Low
+193,43,Female,Pediatrics,Infection,8,60637.16,6.8,No,31-45,7579.64,Medium
+194,59,Female,Orthopedics,Hypertension,7,5807.08,4.7,No,46-60,829.58,Medium
+195,77,Female,Orthopedics,Fracture,7,77295.57,4.7,No,61-80,11042.22,Medium
+196,30,Female,Neurology,Migraine,6,72736.36,7.1,No,18-30,12122.73,High
+197,68,Male,General Medicine,Migraine,3,39797.21,1.6,Yes,61-80,13265.74,Low
+198,80,Male,Cardiology,Fracture,5,10028.91,6.3,No,61-80,2005.78,Medium
+199,49,Female,General Medicine,Diabetes,13,76718.59,7.9,No,46-60,5901.43,High
+200,56,Male,General Medicine,Infection,1,95741.64,8.5,No,46-60,95741.64,High
+201,66,Female,Cardiology,Migraine,7,27814.4,2.5,Yes,61-80,3973.49,Low
+202,69,Female,Neurology,Fracture,9,35734.84,9.1,No,61-80,3970.54,High
+203,78,Male,General Medicine,Fracture,1,22462.22,6.9,Yes,61-80,22462.22,Medium
+204,49,Female,Orthopedics,Diabetes,13,59808.93,8.9,No,46-60,4600.69,High
+205,21,Female,Cardiology,Diabetes,2,19709.93,5.4,Yes,18-30,9854.96,Medium
+206,47,Male,Pediatrics,Hypertension,3,38838.42,5.9,No,46-60,12946.14,Medium
+207,54,Female,Neurology,Migraine,3,71216.24,9.3,No,46-60,23738.75,High
+208,40,Female,Cardiology,Hypertension,8,58211.02,9.1,No,31-45,7276.38,High
+209,56,Female,Pediatrics,Fracture,7,41713.94,5.0,No,46-60,5959.13,Medium
+210,62,Female,Pediatrics,Infection,6,44923.71,3.5,No,61-80,7487.28,Low
+211,32,Male,General Medicine,Infection,10,58400.53,4.5,No,31-45,5840.05,Medium
+212,60,Male,General Medicine,Diabetes,10,5557.15,4.5,No,46-60,555.71,Medium
+213,46,Male,General Medicine,Infection,11,12458.44,3.6,No,46-60,1132.59,Low
+214,53,Female,Cardiology,Infection,4,88719.52,3.4,No,46-60,22179.88,Low
+215,30,Female,Cardiology,Infection,9,12398.5,8.7,No,18-30,1377.61,High
+216,49,Male,Neurology,Fracture,1,72146.34,1.6,No,46-60,72146.34,Low
+217,24,Female,General Medicine,Infection,11,92403.63,7.1,No,18-30,8400.33,High
+218,76,Female,Pediatrics,Infection,2,30714.94,2.6,No,61-80,15357.47,Low
+219,68,Female,Orthopedics,Infection,14,40196.69,4.1,Yes,61-80,2871.19,Medium
+220,39,Female,Neurology,Hypertension,4,59047.53,1.6,No,31-45,14761.88,Low
+221,45,Male,Cardiology,Fracture,3,88762.35,3.4,No,31-45,29587.45,Low
+222,19,Male,Neurology,Diabetes,1,94481.03,7.9,No,18-30,94481.03,High
+223,59,Male,Neurology,Hypertension,5,75258.51,9.0,No,46-60,15051.7,High
+224,62,Female,Neurology,Migraine,7,13228.88,3.0,No,61-80,1889.84,Low
+225,79,Male,Neurology,Fracture,2,68569.64,5.2,No,61-80,34284.82,Medium
+226,74,Male,Orthopedics,Fracture,5,43978.85,5.2,No,61-80,8795.77,Medium
+227,70,Female,General Medicine,Migraine,6,49716.59,8.9,Yes,61-80,8286.1,High
+228,23,Female,Pediatrics,Migraine,11,9669.1,7.9,No,18-30,879.01,High
+229,45,Male,Neurology,Migraine,7,23150.9,5.6,No,31-45,3307.27,Medium
+230,45,Male,Neurology,Diabetes,1,80098.79,7.0,Yes,31-45,80098.79,Medium
+231,61,Male,Neurology,Infection,7,48126.09,8.6,No,61-80,6875.16,High
+232,61,Male,General Medicine,Fracture,4,33657.91,1.1,No,61-80,8414.48,Low
+233,37,Female,Cardiology,Infection,8,41481.81,4.6,No,31-45,5185.23,Medium
+234,47,Male,Cardiology,Infection,13,86167.95,9.2,No,46-60,6628.3,High
+235,79,Male,Orthopedics,Migraine,4,76154.91,7.7,No,61-80,19038.73,High
+236,28,Female,Cardiology,Diabetes,6,30869.96,5.9,No,18-30,5144.99,Medium
+237,75,Male,Neurology,Hypertension,9,16162.67,5.8,No,61-80,1795.85,Medium
+238,72,Female,Neurology,Diabetes,5,28939.83,4.1,No,61-80,5787.97,Medium
+239,45,Female,Neurology,Infection,14,92471.86,5.7,Yes,31-45,6605.13,Medium
+240,42,Female,Orthopedics,Diabetes,12,60250.94,6.9,No,31-45,5020.91,Medium
+241,56,Male,Neurology,Migraine,4,55680.62,4.8,No,46-60,13920.16,Medium
+242,79,Male,Cardiology,Hypertension,8,61657.39,7.4,No,61-80,7707.17,High
+243,50,Female,General Medicine,Migraine,13,39772.69,8.8,No,46-60,3059.44,High
+244,18,Male,General Medicine,Hypertension,9,81675.17,2.4,No,18-30,9075.02,Low
+245,74,Male,Pediatrics,Infection,4,54712.19,5.1,No,61-80,13678.05,Medium
+246,44,Female,Cardiology,Hypertension,3,16091.05,4.7,No,31-45,5363.68,Medium
+247,79,Female,Neurology,Hypertension,8,17261.19,7.2,No,61-80,2157.65,High
+248,74,Male,General Medicine,Hypertension,14,56001.62,3.2,No,61-80,4000.12,Low
+249,69,Female,Cardiology,Diabetes,5,93974.17,6.8,No,61-80,18794.83,Medium
+250,30,Male,General Medicine,Diabetes,2,34293.45,8.9,No,18-30,17146.72,High
+251,58,Male,Neurology,Infection,10,87606.41,4.8,No,46-60,8760.64,Medium
+252,20,Male,General Medicine,Hypertension,9,77589.08,9.2,No,18-30,8621.01,High
+253,56,Male,Pediatrics,Fracture,3,28542.18,9.9,Yes,46-60,9514.06,High
+254,23,Female,Pediatrics,Infection,12,8452.37,2.0,No,18-30,704.36,Low
+255,25,Female,General Medicine,Hypertension,2,14675.49,3.1,No,18-30,7337.74,Low
+256,44,Female,Cardiology,Hypertension,1,74206.92,9.6,No,31-45,74206.92,High
+257,26,Female,Cardiology,Diabetes,14,23968.63,9.6,No,18-30,1712.04,High
+258,79,Male,Cardiology,Infection,8,40270.74,1.9,No,61-80,5033.84,Low
+259,54,Male,General Medicine,Hypertension,11,52661.42,1.1,Yes,46-60,4787.4,Low
+260,50,Female,Cardiology,Hypertension,3,73919.48,2.4,No,46-60,24639.83,Low
+261,68,Male,Neurology,Infection,7,15756.97,10.0,No,61-80,2251.0,High
+262,59,Male,Pediatrics,Fracture,1,43604.81,2.6,No,46-60,43604.81,Low
+263,61,Male,Neurology,Infection,1,51081.93,5.5,No,61-80,51081.93,Medium
+264,41,Female,Cardiology,Infection,12,56378.57,8.6,No,31-45,4698.21,High
+265,32,Female,Neurology,Fracture,9,82744.26,1.2,No,31-45,9193.81,Low
+266,76,Female,Cardiology,Infection,12,21309.43,6.4,No,61-80,1775.79,Medium
+267,71,Male,General Medicine,Hypertension,8,81743.99,3.5,No,61-80,10218.0,Low
+268,49,Female,Neurology,Infection,12,70823.45,8.8,No,46-60,5901.95,High
+269,49,Female,General Medicine,Fracture,13,57807.73,3.6,No,46-60,4446.75,Low
+270,41,Female,General Medicine,Migraine,3,71455.15,7.2,No,31-45,23818.38,High
+271,58,Female,Orthopedics,Infection,6,44141.69,7.1,No,46-60,7356.95,High
+272,69,Female,Cardiology,Diabetes,11,18147.77,3.0,No,61-80,1649.8,Low
+273,66,Female,Pediatrics,Hypertension,3,68247.7,1.3,No,61-80,22749.23,Low
+274,79,Male,Cardiology,Hypertension,13,54843.87,4.7,No,61-80,4218.76,Medium
+275,66,Male,Pediatrics,Diabetes,12,65740.61,3.6,No,61-80,5478.38,Low
+276,75,Female,Cardiology,Diabetes,4,37109.88,8.3,No,61-80,9277.47,High
+277,69,Female,General Medicine,Infection,1,91152.32,8.2,No,61-80,91152.32,High
+278,29,Male,Neurology,Diabetes,5,60800.14,5.1,No,18-30,12160.03,Medium
+279,79,Male,Neurology,Migraine,1,13113.24,6.5,No,61-80,13113.24,Medium
+280,56,Female,Orthopedics,Fracture,13,47731.38,6.4,No,46-60,3671.64,Medium
+281,19,Female,Pediatrics,Diabetes,1,76853.83,8.4,No,18-30,76853.83,High
+282,20,Female,Pediatrics,Diabetes,10,80442.78,4.8,No,18-30,8044.28,Medium
+283,66,Female,Pediatrics,Migraine,11,51986.72,3.5,No,61-80,4726.07,Low
+284,54,Male,General Medicine,Hypertension,11,90001.02,3.4,No,46-60,8181.91,Low
+285,66,Female,Pediatrics,Hypertension,14,30428.5,5.8,No,61-80,2173.46,Medium
+286,73,Female,Neurology,Infection,7,44006.88,5.0,Yes,61-80,6286.7,Medium
+287,34,Female,General Medicine,Migraine,12,90366.71,5.0,No,31-45,7530.56,Medium
+288,76,Female,Cardiology,Fracture,6,90144.39,1.8,No,61-80,15024.06,Low
+289,66,Male,Pediatrics,Fracture,2,70142.71,7.5,No,61-80,35071.36,High
+290,19,Male,Pediatrics,Migraine,14,86603.15,2.9,No,18-30,6185.94,Low
+291,19,Male,Cardiology,Fracture,11,13433.46,2.8,No,18-30,1221.22,Low
+292,45,Female,Pediatrics,Hypertension,12,87174.52,4.7,No,31-45,7264.54,Medium
+293,71,Female,Cardiology,Fracture,2,35458.89,3.1,No,61-80,17729.44,Low
+294,40,Male,General Medicine,Fracture,11,21941.49,6.3,No,31-45,1994.68,Medium
+295,54,Female,Neurology,Migraine,7,27740.13,4.3,No,46-60,3962.88,Medium
+296,49,Female,Cardiology,Migraine,1,44707.01,5.0,No,46-60,44707.01,Medium
+297,50,Male,Orthopedics,Fracture,13,28863.24,5.8,No,46-60,2220.25,Medium
+298,18,Male,Cardiology,Diabetes,2,35453.92,2.8,No,18-30,17726.96,Low
+299,36,Male,Pediatrics,Migraine,12,17822.96,2.4,No,31-45,1485.25,Low
+300,79,Male,General Medicine,Infection,8,33136.79,8.9,No,61-80,4142.1,High
+301,19,Female,General Medicine,Infection,6,59366.96,4.9,No,18-30,9894.49,Medium
+302,70,Female,Cardiology,Hypertension,14,46976.1,4.7,Yes,61-80,3355.44,Medium
+303,61,Male,Neurology,Fracture,2,37938.28,1.3,No,61-80,18969.14,Low
+304,43,Female,Orthopedics,Diabetes,7,75912.95,5.5,No,31-45,10844.71,Medium
+305,49,Male,General Medicine,Hypertension,4,89883.45,6.0,No,46-60,22470.86,Medium
+306,23,Male,Pediatrics,Fracture,2,76894.98,6.0,Yes,18-30,38447.49,Medium
+307,49,Female,Pediatrics,Migraine,12,36540.07,7.4,Yes,46-60,3045.01,High
+308,72,Male,Neurology,Infection,6,75722.01,2.6,No,61-80,12620.34,Low
+309,21,Female,General Medicine,Diabetes,11,19438.12,3.3,No,18-30,1767.1,Low
+310,72,Female,Cardiology,Infection,9,17380.21,8.3,Yes,61-80,1931.13,High
+311,28,Female,Pediatrics,Migraine,11,37834.57,9.5,No,18-30,3439.51,High
+312,73,Female,Neurology,Fracture,9,81731.73,2.2,No,61-80,9081.3,Low
+313,76,Male,General Medicine,Migraine,14,28403.08,5.5,No,61-80,2028.79,Medium
+314,34,Female,General Medicine,Migraine,8,11009.07,2.9,No,31-45,1376.13,Low
+315,80,Male,General Medicine,Infection,3,17512.41,1.5,Yes,61-80,5837.47,Low
+316,55,Male,General Medicine,Diabetes,3,86580.77,3.9,No,46-60,28860.26,Low
+317,41,Male,General Medicine,Migraine,2,65209.41,2.3,No,31-45,32604.7,Low
+318,22,Male,Pediatrics,Infection,5,29054.11,7.4,No,18-30,5810.82,High
+319,69,Female,Neurology,Diabetes,14,57753.1,5.8,No,61-80,4125.22,Medium
+320,51,Female,General Medicine,Fracture,12,55120.06,2.3,No,46-60,4593.34,Low
+321,23,Male,Orthopedics,Fracture,14,67266.42,1.1,No,18-30,4804.74,Low
+322,39,Male,Orthopedics,Hypertension,4,27152.82,8.3,No,31-45,6788.2,High
+323,28,Female,Neurology,Infection,7,87118.28,2.6,No,18-30,12445.47,Low
+324,80,Male,Cardiology,Diabetes,4,34390.01,6.5,No,61-80,8597.5,Medium
+325,65,Female,Cardiology,Migraine,9,70942.51,4.0,No,61-80,7882.5,Low
+326,33,Male,Cardiology,Fracture,12,6531.84,6.3,No,31-45,544.32,Medium
+327,50,Female,Orthopedics,Diabetes,12,40402.43,3.8,No,46-60,3366.87,Low
+328,26,Male,Cardiology,Infection,2,38412.43,1.8,Yes,18-30,19206.22,Low
+329,77,Male,Pediatrics,Hypertension,11,56631.02,3.0,No,61-80,5148.27,Low
+330,76,Female,General Medicine,Fracture,14,11909.94,2.7,No,61-80,850.71,Low
+331,23,Male,Orthopedics,Diabetes,6,80062.48,4.9,No,18-30,13343.75,Medium
+332,33,Male,Neurology,Diabetes,7,25689.18,6.9,Yes,31-45,3669.88,Medium
+333,46,Female,Neurology,Diabetes,4,69318.59,3.4,No,46-60,17329.65,Low
+334,20,Male,General Medicine,Infection,13,81305.15,1.1,No,18-30,6254.24,Low
+335,37,Female,Orthopedics,Infection,6,58378.31,5.7,No,31-45,9729.72,Medium
+336,77,Female,Cardiology,Infection,7,75383.9,6.5,No,61-80,10769.13,Medium
+337,76,Male,Cardiology,Migraine,4,67876.73,9.7,No,61-80,16969.18,High
+338,53,Male,Pediatrics,Diabetes,8,38775.33,6.3,No,46-60,4846.92,Medium
+339,36,Male,Pediatrics,Fracture,9,81841.56,5.2,No,31-45,9093.51,Medium
+340,43,Male,Cardiology,Infection,1,32996.63,6.2,No,31-45,32996.63,Medium
+341,20,Male,Neurology,Infection,7,59265.23,9.4,No,18-30,8466.46,High
+342,80,Male,Neurology,Diabetes,9,75812.79,8.5,No,61-80,8423.64,High
+343,36,Male,Pediatrics,Infection,12,41000.81,3.9,No,31-45,3416.73,Low
+344,37,Female,General Medicine,Migraine,10,33762.92,3.1,No,31-45,3376.29,Low
+345,49,Male,Cardiology,Migraine,5,48637.87,3.4,Yes,46-60,9727.57,Low
+346,24,Female,Pediatrics,Infection,12,82706.53,5.5,No,18-30,6892.21,Medium
+347,69,Male,Pediatrics,Diabetes,2,93342.57,7.7,No,61-80,46671.28,High
+348,58,Male,Cardiology,Diabetes,10,56782.92,5.5,No,46-60,5678.29,Medium
+349,50,Female,Cardiology,Diabetes,6,67839.29,1.6,No,46-60,11306.55,Low
+350,57,Male,Neurology,Hypertension,12,90810.99,7.5,Yes,46-60,7567.58,High
+351,56,Male,General Medicine,Infection,12,14361.95,8.3,No,46-60,1196.83,High
+352,35,Female,General Medicine,Diabetes,7,27047.46,3.6,No,31-45,3863.92,Low
+353,57,Male,Cardiology,Migraine,2,72345.5,7.0,No,46-60,36172.75,Medium
+354,18,Male,Orthopedics,Fracture,2,83255.72,4.8,No,18-30,41627.86,Medium
+355,28,Male,Pediatrics,Fracture,10,86417.76,9.0,No,18-30,8641.78,High
+356,45,Female,Pediatrics,Diabetes,14,44435.18,8.6,Yes,31-45,3173.94,High
+357,74,Male,Cardiology,Fracture,12,13487.29,5.7,No,61-80,1123.94,Medium
+358,42,Male,Orthopedics,Fracture,10,46589.24,7.2,No,31-45,4658.92,High
+359,67,Male,Neurology,Hypertension,1,26919.79,9.0,Yes,61-80,26919.79,High
+360,40,Male,Cardiology,Migraine,4,32663.66,5.5,No,31-45,8165.92,Medium
+361,48,Female,Cardiology,Migraine,7,78365.42,3.8,No,46-60,11195.06,Low
+362,47,Female,Pediatrics,Hypertension,14,12175.07,7.8,No,46-60,869.65,High
+363,59,Male,Cardiology,Hypertension,9,83620.22,3.0,No,46-60,9291.14,Low
+364,52,Male,Cardiology,Fracture,3,45628.56,4.5,No,46-60,15209.52,Medium
+365,24,Female,Cardiology,Infection,12,61626.07,8.8,No,18-30,5135.51,High
+366,77,Female,Pediatrics,Fracture,11,13516.96,7.5,No,61-80,1228.81,High
+367,33,Male,Neurology,Hypertension,7,37049.11,4.6,No,31-45,5292.73,Medium
+368,43,Female,Neurology,Migraine,7,13521.59,2.9,No,31-45,1931.66,Low
+369,65,Male,Cardiology,Fracture,7,96346.65,4.2,No,61-80,13763.81,Medium
+370,74,Female,Pediatrics,Infection,2,81689.86,3.6,No,61-80,40844.93,Low
+371,69,Female,Neurology,Fracture,6,48665.11,2.6,No,61-80,8110.85,Low
+372,77,Female,Neurology,Diabetes,2,26242.24,7.7,No,61-80,13121.12,High
+373,66,Female,Neurology,Fracture,6,93678.23,3.3,No,61-80,15613.04,Low
+374,19,Male,Pediatrics,Hypertension,13,37736.68,5.1,No,18-30,2902.82,Medium
+375,18,Female,Pediatrics,Migraine,10,20293.52,4.5,No,18-30,2029.35,Medium
+376,65,Female,Cardiology,Migraine,3,58500.62,9.8,No,61-80,19500.21,High
+377,79,Male,General Medicine,Hypertension,14,94658.54,4.5,No,61-80,6761.32,Medium
+378,29,Female,Neurology,Diabetes,2,5363.88,1.7,No,18-30,2681.94,Low
+379,22,Female,General Medicine,Hypertension,12,27621.86,1.8,No,18-30,2301.82,Low
+380,54,Male,Pediatrics,Fracture,14,94152.53,6.3,No,46-60,6725.18,Medium
+381,49,Female,Pediatrics,Hypertension,6,21253.17,6.4,No,46-60,3542.2,Medium
+382,76,Male,Pediatrics,Hypertension,2,15758.13,4.8,No,61-80,7879.06,Medium
+383,72,Male,General Medicine,Diabetes,5,59167.79,4.9,No,61-80,11833.56,Medium
+384,26,Male,Pediatrics,Fracture,2,86875.16,1.5,No,18-30,43437.58,Low
+385,58,Male,Cardiology,Infection,3,50325.43,5.6,No,46-60,16775.14,Medium
+386,52,Female,Pediatrics,Infection,3,99483.6,5.5,No,46-60,33161.2,Medium
+387,36,Male,Orthopedics,Migraine,6,69521.31,2.3,No,31-45,11586.88,Low
+388,65,Female,General Medicine,Hypertension,6,12037.12,1.9,No,61-80,2006.19,Low
+389,33,Female,Orthopedics,Migraine,10,99319.05,2.1,No,31-45,9931.91,Low
+390,20,Female,Pediatrics,Diabetes,3,43749.95,1.9,Yes,18-30,14583.32,Low
+391,37,Female,Cardiology,Infection,3,32303.24,6.5,No,31-45,10767.75,Medium
+392,41,Female,Neurology,Hypertension,13,57998.52,2.8,No,31-45,4461.42,Low
+393,71,Female,Pediatrics,Diabetes,12,33909.22,3.3,No,61-80,2825.77,Low
+394,73,Female,Cardiology,Diabetes,13,13213.46,2.6,No,61-80,1016.42,Low
+395,50,Female,General Medicine,Hypertension,1,5135.69,9.6,No,46-60,5135.69,High
+396,41,Female,Orthopedics,Diabetes,7,47710.42,8.7,No,31-45,6815.77,High
+397,69,Female,Orthopedics,Hypertension,13,84502.03,3.1,No,61-80,6500.16,Low
+398,28,Male,Orthopedics,Hypertension,8,59369.94,3.9,No,18-30,7421.24,Low
+399,66,Male,General Medicine,Fracture,2,99924.69,2.9,No,61-80,49962.34,Low
+400,25,Male,Cardiology,Migraine,4,32250.43,5.4,No,18-30,8062.61,Medium
+401,53,Female,General Medicine,Diabetes,10,31643.23,1.2,Yes,46-60,3164.32,Low
+402,55,Male,Orthopedics,Diabetes,7,20176.2,7.0,No,46-60,2882.31,Medium
+403,57,Male,Pediatrics,Fracture,8,20586.04,5.7,No,46-60,2573.26,Medium
+404,37,Male,Neurology,Fracture,1,32092.73,9.1,No,31-45,32092.73,High
+405,79,Female,General Medicine,Fracture,4,80319.8,2.5,No,61-80,20079.95,Low
+406,52,Female,General Medicine,Infection,6,91046.9,8.2,No,46-60,15174.48,High
+407,65,Female,Cardiology,Infection,3,97633.28,8.1,No,61-80,32544.43,High
+408,79,Female,Cardiology,Infection,5,27067.52,2.1,No,61-80,5413.5,Low
+409,42,Male,General Medicine,Hypertension,10,88723.27,4.6,No,31-45,8872.33,Medium
+410,52,Male,Orthopedics,Diabetes,9,36184.23,2.5,No,46-60,4020.47,Low
+411,42,Male,Neurology,Migraine,11,15719.85,3.3,No,31-45,1429.08,Low
+412,46,Male,Cardiology,Hypertension,13,87652.37,3.4,No,46-60,6742.49,Low
+413,35,Female,Orthopedics,Diabetes,3,65430.04,6.0,No,31-45,21810.01,Medium
+414,63,Female,Pediatrics,Diabetes,5,20649.44,4.7,No,61-80,4129.89,Medium
+415,35,Female,Cardiology,Fracture,8,45833.97,9.5,No,31-45,5729.25,High
+416,19,Male,Orthopedics,Fracture,6,32289.48,2.1,Yes,18-30,5381.58,Low
+417,71,Female,Orthopedics,Hypertension,4,74995.48,9.8,No,61-80,18748.87,High
+418,52,Female,Neurology,Fracture,8,48074.54,3.1,No,46-60,6009.32,Low
+419,33,Male,Neurology,Diabetes,11,98981.59,8.0,No,31-45,8998.33,High
+420,78,Male,Pediatrics,Fracture,3,10200.77,4.1,No,61-80,3400.26,Medium
+421,58,Female,Orthopedics,Infection,3,38726.45,2.3,No,46-60,12908.82,Low
+422,53,Female,Orthopedics,Fracture,4,50780.52,8.7,No,46-60,12695.13,High
+423,50,Female,Neurology,Diabetes,9,52797.69,3.8,No,46-60,5866.41,Low
+424,21,Female,Cardiology,Hypertension,5,35013.9,6.9,No,18-30,7002.78,Medium
+425,50,Female,Cardiology,Migraine,8,74277.82,6.1,No,46-60,9284.73,Medium
+426,31,Female,General Medicine,Fracture,6,88100.97,5.2,Yes,31-45,14683.5,Medium
+427,38,Male,Neurology,Diabetes,3,94178.33,5.5,No,31-45,31392.78,Medium
+428,65,Male,General Medicine,Migraine,8,81483.87,7.6,Yes,61-80,10185.48,High
+429,37,Male,Neurology,Migraine,12,85805.12,1.8,No,31-45,7150.43,Low
+430,73,Female,Pediatrics,Infection,9,57301.8,7.0,No,61-80,6366.87,Medium
+431,25,Male,Orthopedics,Migraine,8,83459.38,9.1,No,18-30,10432.42,High
+432,24,Female,Pediatrics,Diabetes,13,33832.87,1.5,No,18-30,2602.53,Low
+433,20,Female,Neurology,Diabetes,4,42855.48,2.3,No,18-30,10713.87,Low
+434,34,Male,Orthopedics,Fracture,14,35106.74,7.4,Yes,31-45,2507.62,High
+435,50,Female,Cardiology,Fracture,14,49401.8,4.9,No,46-60,3528.7,Medium
+436,65,Female,Cardiology,Fracture,13,32130.06,4.6,No,61-80,2471.54,Medium
+437,29,Male,General Medicine,Migraine,11,96353.09,2.2,No,18-30,8759.37,Low
+438,76,Male,Neurology,Migraine,6,34720.24,5.6,No,61-80,5786.71,Medium
+439,68,Male,Neurology,Infection,1,14314.23,2.1,No,61-80,14314.23,Low
+440,39,Female,Cardiology,Fracture,4,55047.63,5.3,Yes,31-45,13761.91,Medium
+441,72,Male,Pediatrics,Hypertension,8,10424.41,7.9,No,61-80,1303.05,High
+442,39,Male,Orthopedics,Infection,1,15501.6,3.3,No,31-45,15501.6,Low
+443,63,Female,Pediatrics,Hypertension,3,25841.99,5.3,Yes,61-80,8614.0,Medium
+444,47,Male,Pediatrics,Migraine,1,49113.27,9.9,No,46-60,49113.27,High
+445,55,Male,Cardiology,Infection,9,46158.84,7.2,No,46-60,5128.76,High
+446,55,Male,Cardiology,Infection,2,80970.73,8.6,Yes,46-60,40485.36,High
+447,62,Female,Cardiology,Diabetes,9,75250.09,4.7,No,61-80,8361.12,Medium
+448,68,Female,General Medicine,Migraine,13,45500.24,7.9,No,61-80,3500.02,High
+449,71,Female,Pediatrics,Migraine,4,36701.9,1.4,No,61-80,9175.48,Low
+450,25,Female,Neurology,Infection,2,35064.53,2.1,No,18-30,17532.26,Low
+451,44,Male,Orthopedics,Migraine,4,78529.53,2.8,No,31-45,19632.38,Low
+452,44,Female,General Medicine,Infection,12,9946.88,4.6,No,31-45,828.91,Medium
+453,51,Female,Neurology,Diabetes,11,6218.06,8.6,Yes,46-60,565.28,High
+454,38,Male,Pediatrics,Infection,11,80576.72,4.1,No,31-45,7325.16,Medium
+455,47,Male,Cardiology,Migraine,10,50328.91,6.9,No,46-60,5032.89,Medium
+456,50,Male,Pediatrics,Migraine,6,17433.71,7.4,No,46-60,2905.62,High
+457,45,Female,Orthopedics,Infection,11,27378.76,6.3,No,31-45,2488.98,Medium
+458,64,Female,General Medicine,Infection,7,93587.88,4.2,No,61-80,13369.7,Medium
+459,50,Female,General Medicine,Infection,3,86652.78,6.2,No,46-60,28884.26,Medium
+460,22,Male,Orthopedics,Fracture,3,72429.58,4.1,No,18-30,24143.19,Medium
+461,77,Male,Neurology,Migraine,12,50811.4,1.8,No,61-80,4234.28,Low
+462,78,Female,Neurology,Migraine,10,54430.74,9.9,Yes,61-80,5443.07,High
+463,65,Male,General Medicine,Fracture,12,97648.23,2.1,No,61-80,8137.35,Low
+464,36,Male,General Medicine,Infection,8,96748.19,1.7,Yes,31-45,12093.52,Low
+465,21,Male,Cardiology,Diabetes,5,25450.56,8.9,No,18-30,5090.11,High
+466,52,Female,Neurology,Infection,4,82054.93,3.7,No,46-60,20513.73,Low
+467,66,Male,Orthopedics,Infection,7,23738.05,6.9,Yes,61-80,3391.15,Medium
+468,34,Male,Neurology,Fracture,7,25286.06,4.0,No,31-45,3612.29,Low
+469,61,Female,Cardiology,Migraine,13,69228.84,4.5,No,61-80,5325.3,Medium
+470,45,Female,General Medicine,Infection,9,43475.1,3.4,No,31-45,4830.57,Low
+471,47,Male,General Medicine,Migraine,9,93496.72,4.1,No,46-60,10388.52,Medium
+472,46,Male,Cardiology,Hypertension,5,13455.92,4.7,Yes,46-60,2691.18,Medium
+473,63,Female,Orthopedics,Migraine,13,53594.94,7.5,No,61-80,4122.69,High
+474,70,Female,General Medicine,Diabetes,12,92259.55,5.6,No,61-80,7688.3,Medium
+475,23,Male,Pediatrics,Diabetes,13,90890.8,9.5,No,18-30,6991.6,High
+476,52,Male,General Medicine,Infection,8,19870.28,1.4,No,46-60,2483.78,Low
+477,77,Male,Pediatrics,Migraine,10,39830.58,5.5,No,61-80,3983.06,Medium
+478,58,Male,Cardiology,Infection,1,63816.53,6.3,No,46-60,63816.53,Medium
+479,54,Female,Cardiology,Fracture,9,20142.51,9.3,No,46-60,2238.06,High
+480,41,Male,General Medicine,Diabetes,8,96962.11,1.4,No,31-45,12120.26,Low
+481,46,Male,Neurology,Infection,6,91901.19,6.2,No,46-60,15316.86,Medium
+482,66,Female,Pediatrics,Fracture,13,20860.27,8.7,No,61-80,1604.64,High
+483,63,Male,Orthopedics,Infection,3,16509.77,3.2,No,61-80,5503.26,Low
+484,70,Female,General Medicine,Migraine,3,13113.81,8.9,No,61-80,4371.27,High
+485,48,Male,Orthopedics,Migraine,8,91397.15,1.2,Yes,46-60,11424.64,Low
+486,52,Male,General Medicine,Migraine,5,23394.26,7.6,No,46-60,4678.85,High
+487,77,Female,Neurology,Migraine,10,44547.07,9.4,No,61-80,4454.71,High
+488,50,Female,Neurology,Hypertension,11,47640.88,6.9,No,46-60,4330.99,Medium
+489,69,Male,Neurology,Fracture,14,61906.05,5.0,No,61-80,4421.86,Medium
+490,80,Male,Neurology,Fracture,7,11814.86,1.4,Yes,61-80,1687.84,Low
+491,78,Male,Cardiology,Migraine,5,26542.07,9.3,No,61-80,5308.41,High
+492,38,Female,Cardiology,Hypertension,8,93491.59,5.2,No,31-45,11686.45,Medium
+493,49,Male,Pediatrics,Migraine,10,91298.96,1.3,No,46-60,9129.9,Low
+494,40,Female,Orthopedics,Hypertension,10,79222.61,7.2,No,31-45,7922.26,High
+495,50,Female,General Medicine,Migraine,4,6843.12,5.3,No,46-60,1710.78,Medium
+496,20,Male,General Medicine,Diabetes,2,36065.64,2.1,No,18-30,18032.82,Low
+497,35,Female,Cardiology,Diabetes,3,64656.08,2.9,No,31-45,21552.03,Low
+498,42,Male,General Medicine,Infection,8,31143.07,1.6,Yes,31-45,3892.88,Low
+499,59,Male,Cardiology,Migraine,11,91410.74,6.2,No,46-60,8310.07,Medium
+500,48,Male,Pediatrics,Fracture,13,65219.5,6.6,No,46-60,5016.88,Medium
+501,71,Male,Orthopedics,Infection,7,11831.14,5.6,No,61-80,1690.16,Medium
+502,75,Male,Pediatrics,Diabetes,13,91355.53,8.4,No,61-80,7027.35,High
+503,20,Female,Neurology,Migraine,2,95987.83,8.7,Yes,18-30,47993.92,High
+504,57,Female,Neurology,Infection,6,12382.68,6.5,No,46-60,2063.78,Medium
+505,63,Male,Neurology,Migraine,9,55574.22,1.1,Yes,61-80,6174.91,Low
+506,41,Male,Pediatrics,Diabetes,4,33819.61,7.3,No,31-45,8454.9,High
+507,67,Female,General Medicine,Infection,9,42319.71,4.8,Yes,61-80,4702.19,Medium
+508,49,Female,Orthopedics,Diabetes,2,22066.87,6.1,No,46-60,11033.44,Medium
+509,64,Female,Neurology,Hypertension,2,59916.85,6.8,No,61-80,29958.42,Medium
+510,39,Female,Neurology,Diabetes,9,96008.04,4.2,No,31-45,10667.56,Medium
+511,40,Male,Neurology,Migraine,12,52791.9,9.3,Yes,31-45,4399.32,High
+512,19,Male,Orthopedics,Fracture,7,12876.89,2.2,No,18-30,1839.56,Low
+513,80,Female,Neurology,Diabetes,7,63900.13,7.0,No,61-80,9128.59,Medium
+514,44,Male,Orthopedics,Fracture,1,37321.18,1.0,No,31-45,37321.18,Low
+515,59,Female,Neurology,Hypertension,13,86312.89,9.3,No,46-60,6639.45,High
+516,19,Male,Pediatrics,Infection,11,46294.42,2.0,No,18-30,4208.58,Low
+517,43,Female,Pediatrics,Infection,6,23319.76,1.9,No,31-45,3886.63,Low
+518,34,Male,Orthopedics,Fracture,13,23155.03,4.0,No,31-45,1781.16,Low
+519,57,Female,Pediatrics,Infection,7,78032.6,4.4,Yes,46-60,11147.51,Medium
+520,50,Female,Orthopedics,Diabetes,11,30230.82,2.9,No,46-60,2748.26,Low
+521,26,Male,Pediatrics,Fracture,14,77887.17,6.3,No,18-30,5563.37,Medium
+522,60,Female,Pediatrics,Migraine,6,24559.29,5.0,Yes,46-60,4093.22,Medium
+523,71,Male,Orthopedics,Diabetes,6,35560.21,1.3,No,61-80,5926.7,Low
+524,65,Male,General Medicine,Diabetes,2,49221.26,3.9,No,61-80,24610.63,Low
+525,56,Female,Pediatrics,Diabetes,6,94603.61,8.3,No,46-60,15767.27,High
+526,46,Male,Neurology,Migraine,4,93514.49,7.2,No,46-60,23378.62,High
+527,59,Male,General Medicine,Hypertension,9,24652.83,7.5,Yes,46-60,2739.2,High
+528,72,Male,Orthopedics,Infection,12,39030.81,7.3,No,61-80,3252.57,High
+529,43,Male,General Medicine,Fracture,1,19192.94,3.8,No,31-45,19192.94,Low
+530,52,Male,Cardiology,Hypertension,13,53448.58,1.9,Yes,46-60,4111.43,Low
+531,67,Female,Cardiology,Fracture,8,48755.34,3.5,No,61-80,6094.42,Low
+532,42,Male,Pediatrics,Infection,5,90572.22,8.5,Yes,31-45,18114.44,High
+533,41,Male,Pediatrics,Migraine,1,93350.51,9.8,No,31-45,93350.51,High
+534,30,Male,Neurology,Diabetes,4,41438.9,5.4,No,18-30,10359.72,Medium
+535,77,Male,General Medicine,Diabetes,1,51715.1,1.1,No,61-80,51715.1,Low
+536,75,Male,Cardiology,Migraine,6,90142.44,2.3,No,61-80,15023.74,Low
+537,24,Female,Pediatrics,Hypertension,2,81637.24,3.9,Yes,18-30,40818.62,Low
+538,74,Male,General Medicine,Hypertension,5,5347.35,6.2,No,61-80,1069.47,Medium
+539,53,Female,Pediatrics,Fracture,7,35405.66,1.7,Yes,46-60,5057.95,Low
+540,62,Female,Pediatrics,Migraine,2,45068.55,9.5,No,61-80,22534.28,High
+541,37,Female,Cardiology,Hypertension,6,26823.05,4.3,No,31-45,4470.51,Medium
+542,18,Female,Cardiology,Migraine,6,23959.3,9.2,No,18-30,3993.22,High
+543,25,Male,Pediatrics,Infection,5,8589.53,8.0,No,18-30,1717.91,High
+544,63,Female,Orthopedics,Diabetes,5,66120.12,7.8,No,61-80,13224.02,High
+545,33,Female,Pediatrics,Diabetes,14,29938.48,6.5,No,31-45,2138.46,Medium
+546,31,Male,Pediatrics,Diabetes,3,9972.98,6.6,No,31-45,3324.33,Medium
+547,29,Male,Neurology,Migraine,10,26943.03,6.7,No,18-30,2694.3,Medium
+548,68,Male,Neurology,Migraine,10,81181.83,6.7,No,61-80,8118.18,Medium
+549,40,Female,Neurology,Fracture,11,85891.47,6.0,No,31-45,7808.32,Medium
+550,32,Male,Orthopedics,Diabetes,12,50891.29,9.9,No,31-45,4240.94,High
+551,45,Male,Orthopedics,Fracture,2,44526.71,7.6,Yes,31-45,22263.36,High
+552,51,Female,Pediatrics,Diabetes,7,97896.1,8.0,No,46-60,13985.16,High
+553,19,Male,Neurology,Fracture,1,24053.64,8.9,No,18-30,24053.64,High
+554,49,Male,Orthopedics,Fracture,6,25459.13,2.9,No,46-60,4243.19,Low
+555,40,Male,Cardiology,Infection,6,32727.38,1.8,No,31-45,5454.56,Low
+556,80,Male,Pediatrics,Fracture,3,21411.95,5.3,Yes,61-80,7137.32,Medium
+557,39,Female,General Medicine,Migraine,2,41039.73,5.6,Yes,31-45,20519.87,Medium
+558,68,Male,Pediatrics,Fracture,12,91529.25,8.5,No,61-80,7627.44,High
+559,42,Male,General Medicine,Diabetes,2,63458.04,5.0,No,31-45,31729.02,Medium
+560,75,Female,Neurology,Fracture,14,44134.92,6.1,No,61-80,3152.49,Medium
+561,80,Male,General Medicine,Hypertension,13,93769.03,5.7,No,61-80,7213.0,Medium
+562,79,Female,Neurology,Diabetes,9,9604.1,1.3,No,61-80,1067.12,Low
+563,78,Male,Cardiology,Hypertension,11,24976.24,6.5,No,61-80,2270.57,Medium
+564,39,Female,General Medicine,Diabetes,5,58759.42,8.5,Yes,31-45,11751.88,High
+565,75,Female,Pediatrics,Migraine,7,63477.5,2.4,No,61-80,9068.21,Low
+566,75,Female,Neurology,Migraine,12,8757.96,6.3,No,61-80,729.83,Medium
+567,39,Female,Pediatrics,Migraine,5,43288.68,6.3,No,31-45,8657.74,Medium
+568,66,Male,Orthopedics,Hypertension,7,66669.63,2.5,No,61-80,9524.23,Low
+569,69,Female,Neurology,Infection,13,71316.7,2.1,No,61-80,5485.9,Low
+570,59,Male,General Medicine,Diabetes,4,65623.29,9.8,No,46-60,16405.82,High
+571,23,Female,Neurology,Migraine,8,35453.51,4.5,No,18-30,4431.69,Medium
+572,32,Female,Pediatrics,Diabetes,13,13884.41,3.0,No,31-45,1068.03,Low
+573,71,Female,Cardiology,Hypertension,11,45575.68,2.5,No,61-80,4143.24,Low
+574,60,Male,Neurology,Infection,14,17231.67,7.0,No,46-60,1230.83,Medium
+575,77,Female,General Medicine,Hypertension,10,95024.25,6.5,No,61-80,9502.42,Medium
+576,54,Male,Orthopedics,Diabetes,13,50141.23,6.8,No,46-60,3857.02,Medium
+577,50,Male,Cardiology,Infection,11,35139.62,1.8,No,46-60,3194.51,Low
+578,25,Male,Orthopedics,Infection,10,77798.89,9.0,No,18-30,7779.89,High
+579,70,Male,Neurology,Hypertension,7,52305.12,4.5,Yes,61-80,7472.16,Medium
+580,77,Male,Pediatrics,Migraine,10,34453.23,3.8,Yes,61-80,3445.32,Low
+581,61,Male,Pediatrics,Diabetes,5,82136.94,5.2,No,61-80,16427.39,Medium
+582,61,Male,General Medicine,Fracture,11,87379.45,4.5,No,61-80,7943.59,Medium
+583,22,Male,Pediatrics,Fracture,6,68935.78,8.8,No,18-30,11489.3,High
+584,56,Male,Cardiology,Hypertension,5,9461.62,9.4,No,46-60,1892.32,High
+585,21,Female,Pediatrics,Diabetes,7,58800.67,3.7,No,18-30,8400.1,Low
+586,23,Female,General Medicine,Diabetes,12,77513.02,8.8,No,18-30,6459.42,High
+587,62,Female,Neurology,Hypertension,2,17967.79,8.0,Yes,61-80,8983.9,High
+588,49,Female,Neurology,Diabetes,5,26723.72,9.4,No,46-60,5344.74,High
+589,69,Female,Pediatrics,Migraine,10,88837.03,3.2,No,61-80,8883.7,Low
+590,47,Male,Orthopedics,Hypertension,3,6911.56,6.2,No,46-60,2303.85,Medium
+591,64,Male,Neurology,Migraine,9,76509.08,3.5,No,61-80,8501.01,Low
+592,52,Male,Pediatrics,Diabetes,13,50008.46,8.4,No,46-60,3846.8,High
+593,72,Male,General Medicine,Hypertension,6,47443.36,1.0,No,61-80,7907.23,Low
+594,57,Male,Pediatrics,Diabetes,13,5674.17,6.1,Yes,46-60,436.47,Medium
+595,69,Male,Neurology,Hypertension,10,82842.83,4.1,No,61-80,8284.28,Medium
+596,33,Male,General Medicine,Diabetes,3,39183.37,3.9,No,31-45,13061.12,Low
+597,30,Female,Pediatrics,Migraine,7,56372.73,6.8,No,18-30,8053.25,Medium
+598,67,Female,Cardiology,Migraine,4,69343.57,8.7,No,61-80,17335.89,High
+599,77,Female,General Medicine,Diabetes,14,71749.81,6.5,No,61-80,5124.99,Medium
+600,59,Female,Cardiology,Hypertension,3,95818.11,8.7,No,46-60,31939.37,High
+601,47,Male,Orthopedics,Fracture,8,55477.3,3.4,No,46-60,6934.66,Low
+602,36,Male,General Medicine,Migraine,13,42973.36,5.7,No,31-45,3305.64,Medium
+603,34,Male,Cardiology,Migraine,4,95601.84,5.1,No,31-45,23900.46,Medium
+604,73,Female,Neurology,Fracture,11,66000.47,1.1,No,61-80,6000.04,Low
+605,80,Male,Neurology,Diabetes,1,33324.28,6.0,No,61-80,33324.28,Medium
+606,36,Male,Orthopedics,Hypertension,6,17014.1,7.0,No,31-45,2835.68,Medium
+607,45,Male,General Medicine,Diabetes,10,85042.68,6.3,Yes,31-45,8504.27,Medium
+608,75,Female,General Medicine,Infection,11,39407.25,7.6,No,61-80,3582.48,High
+609,72,Male,General Medicine,Migraine,11,67744.62,6.1,No,61-80,6158.6,Medium
+610,43,Female,Orthopedics,Infection,1,49727.56,1.6,No,31-45,49727.56,Low
+611,54,Female,General Medicine,Migraine,5,23898.33,2.0,No,46-60,4779.67,Low
+612,43,Female,Neurology,Migraine,7,62160.23,6.4,No,31-45,8880.03,Medium
+613,70,Female,Cardiology,Infection,6,10764.89,3.5,No,61-80,1794.15,Low
+614,79,Male,Neurology,Infection,14,44267.53,1.7,No,61-80,3161.97,Low
+615,40,Female,Neurology,Diabetes,2,56928.42,4.9,No,31-45,28464.21,Medium
+616,80,Female,Cardiology,Infection,11,46424.46,6.0,No,61-80,4220.41,Medium
+617,26,Male,Neurology,Diabetes,4,76123.86,4.0,No,18-30,19030.96,Low
+618,29,Male,Orthopedics,Diabetes,11,83652.87,7.5,No,18-30,7604.81,High
+619,70,Female,Cardiology,Diabetes,2,78268.09,6.8,No,61-80,39134.04,Medium
+620,18,Male,Neurology,Migraine,11,8687.23,4.0,No,18-30,789.75,Low
+621,75,Female,Pediatrics,Migraine,1,23442.23,7.8,No,61-80,23442.23,High
+622,75,Female,Neurology,Infection,3,55977.71,6.8,No,61-80,18659.24,Medium
+623,18,Female,Orthopedics,Migraine,3,93808.09,6.7,No,18-30,31269.36,Medium
+624,64,Female,General Medicine,Infection,12,84320.89,6.0,No,61-80,7026.74,Medium
+625,51,Male,Neurology,Migraine,7,85040.78,1.1,No,46-60,12148.68,Low
+626,49,Female,General Medicine,Hypertension,1,33804.78,7.3,No,46-60,33804.78,High
+627,79,Male,Pediatrics,Hypertension,9,45797.55,4.4,Yes,61-80,5088.62,Medium
+628,71,Male,Neurology,Infection,11,49717.06,9.5,Yes,61-80,4519.73,High
+629,65,Male,Cardiology,Migraine,6,19950.3,8.4,No,61-80,3325.05,High
+630,42,Male,General Medicine,Migraine,4,7951.47,6.3,No,31-45,1987.87,Medium
+631,57,Female,Pediatrics,Diabetes,3,94955.78,3.3,No,46-60,31651.93,Low
+632,62,Male,Cardiology,Fracture,3,27867.7,2.8,No,61-80,9289.23,Low
+633,70,Female,Cardiology,Infection,2,27795.15,4.1,No,61-80,13897.58,Medium
+634,18,Male,Cardiology,Fracture,2,12921.01,5.3,No,18-30,6460.5,Medium
+635,33,Male,Cardiology,Fracture,14,93208.24,3.7,No,31-45,6657.73,Low
+636,78,Female,Neurology,Infection,12,60075.03,5.6,No,61-80,5006.25,Medium
+637,56,Female,Neurology,Migraine,13,68368.5,2.5,No,46-60,5259.12,Low
+638,80,Female,Neurology,Infection,10,91599.8,9.8,No,61-80,9159.98,High
+639,22,Male,Pediatrics,Fracture,5,37833.92,2.0,No,18-30,7566.78,Low
+640,39,Male,Pediatrics,Migraine,9,64043.19,9.4,No,31-45,7115.91,High
+641,46,Female,Pediatrics,Hypertension,2,8685.95,9.2,No,46-60,4342.98,High
+642,72,Female,Orthopedics,Infection,2,22743.39,5.7,Yes,61-80,11371.7,Medium
+643,20,Female,Pediatrics,Infection,12,83968.35,7.5,No,18-30,6997.36,High
+644,29,Female,Neurology,Migraine,6,77842.99,4.9,No,18-30,12973.83,Medium
+645,43,Male,Neurology,Hypertension,13,38311.06,6.7,Yes,31-45,2947.0,Medium
+646,33,Female,Orthopedics,Hypertension,10,40797.01,4.1,No,31-45,4079.7,Medium
+647,68,Female,Orthopedics,Migraine,2,55687.67,3.7,No,61-80,27843.84,Low
+648,54,Female,Pediatrics,Diabetes,12,5022.9,6.2,No,46-60,418.58,Medium
+649,39,Female,General Medicine,Infection,4,27918.21,5.5,No,31-45,6979.55,Medium
+650,74,Male,Orthopedics,Infection,6,24782.02,6.2,No,61-80,4130.34,Medium
+651,46,Female,Cardiology,Fracture,5,28795.88,3.6,No,46-60,5759.18,Low
+652,31,Male,Neurology,Migraine,1,81561.06,4.3,No,31-45,81561.06,Medium
+653,45,Female,Cardiology,Fracture,6,31569.02,1.8,No,31-45,5261.5,Low
+654,22,Female,Neurology,Fracture,1,23194.53,1.5,No,18-30,23194.53,Low
+655,64,Male,Neurology,Hypertension,3,52905.03,3.3,No,61-80,17635.01,Low
+656,66,Female,Orthopedics,Infection,10,87236.28,1.7,No,61-80,8723.63,Low
+657,47,Male,Orthopedics,Fracture,5,27928.22,1.9,No,46-60,5585.64,Low
+658,63,Male,Cardiology,Hypertension,14,12460.94,8.3,No,61-80,890.07,High
+659,79,Female,Neurology,Migraine,10,38858.45,1.3,No,61-80,3885.84,Low
+660,69,Male,Cardiology,Fracture,13,76026.92,6.9,No,61-80,5848.22,Medium
+661,22,Male,General Medicine,Infection,5,57315.6,3.5,No,18-30,11463.12,Low
+662,29,Male,Cardiology,Fracture,13,82595.37,8.8,Yes,18-30,6353.49,High
+663,33,Male,Pediatrics,Migraine,10,96161.25,5.4,No,31-45,9616.12,Medium
+664,43,Male,Cardiology,Fracture,6,80302.94,3.8,No,31-45,13383.82,Low
+665,43,Male,Pediatrics,Infection,12,62361.29,5.7,No,31-45,5196.77,Medium
+666,65,Male,Pediatrics,Hypertension,10,51867.45,4.4,No,61-80,5186.74,Medium
+667,38,Male,Pediatrics,Infection,8,8806.56,6.1,Yes,31-45,1100.82,Medium
+668,56,Female,General Medicine,Hypertension,5,98510.59,2.0,No,46-60,19702.12,Low
+669,53,Female,Cardiology,Diabetes,14,41430.71,10.0,No,46-60,2959.34,High
+670,50,Male,Cardiology,Infection,11,19461.68,4.8,Yes,46-60,1769.24,Medium
+671,79,Female,General Medicine,Infection,1,68337.34,4.1,No,61-80,68337.34,Medium
+672,47,Male,Neurology,Migraine,5,32007.39,7.4,Yes,46-60,6401.48,High
+673,54,Male,Orthopedics,Fracture,3,60648.94,4.3,No,46-60,20216.31,Medium
+674,40,Female,Cardiology,Hypertension,4,60742.95,8.5,No,31-45,15185.74,High
+675,75,Male,Orthopedics,Hypertension,13,47344.33,5.1,No,61-80,3641.87,Medium
+676,27,Male,General Medicine,Migraine,8,84431.27,7.5,No,18-30,10553.91,High
+677,71,Male,Neurology,Migraine,7,30171.87,2.0,No,61-80,4310.27,Low
+678,22,Male,Neurology,Fracture,11,47620.1,8.6,No,18-30,4329.1,High
+679,53,Female,Neurology,Fracture,5,56080.75,7.6,No,46-60,11216.15,High
+680,51,Male,General Medicine,Infection,2,68044.35,2.9,No,46-60,34022.18,Low
+681,69,Male,Pediatrics,Diabetes,6,79477.33,2.3,No,61-80,13246.22,Low
+682,48,Male,Pediatrics,Fracture,11,42506.69,3.8,No,46-60,3864.24,Low
+683,27,Female,Orthopedics,Migraine,6,66374.46,9.8,No,18-30,11062.41,High
+684,75,Male,Pediatrics,Fracture,10,19308.04,3.3,No,61-80,1930.8,Low
+685,36,Female,Pediatrics,Hypertension,10,93601.57,5.1,No,31-45,9360.16,Medium
+686,75,Female,Neurology,Diabetes,14,41390.59,1.3,No,61-80,2956.47,Low
+687,49,Male,Neurology,Infection,11,74304.54,4.6,Yes,46-60,6754.96,Medium
+688,18,Male,Orthopedics,Hypertension,6,6932.4,6.1,No,18-30,1155.4,Medium
+689,73,Female,Cardiology,Hypertension,14,24492.78,9.6,No,61-80,1749.48,High
+690,22,Male,Orthopedics,Diabetes,9,51272.84,5.7,No,18-30,5696.98,Medium
+691,62,Female,Orthopedics,Infection,11,88433.98,8.4,Yes,61-80,8039.45,High
+692,21,Female,General Medicine,Migraine,8,55089.24,5.9,Yes,18-30,6886.16,Medium
+693,33,Male,General Medicine,Infection,8,93337.7,1.4,No,31-45,11667.21,Low
+694,41,Male,Orthopedics,Fracture,1,50960.71,3.8,No,31-45,50960.71,Low
+695,33,Female,Orthopedics,Hypertension,5,51592.66,6.2,No,31-45,10318.53,Medium
+696,72,Female,Orthopedics,Fracture,7,16375.94,9.6,No,61-80,2339.42,High
+697,19,Female,Pediatrics,Migraine,6,81252.34,8.7,No,18-30,13542.06,High
+698,66,Female,General Medicine,Fracture,5,28461.71,3.1,No,61-80,5692.34,Low
+699,45,Male,Orthopedics,Infection,8,90463.19,3.0,No,31-45,11307.9,Low
+700,49,Male,Neurology,Fracture,3,91528.3,2.8,No,46-60,30509.43,Low
+701,44,Male,Neurology,Migraine,6,94614.46,9.3,No,31-45,15769.08,High
+702,37,Male,Pediatrics,Migraine,5,54421.9,8.7,Yes,31-45,10884.38,High
+703,41,Male,Pediatrics,Migraine,8,69323.91,8.0,No,31-45,8665.49,High
+704,29,Female,Cardiology,Infection,4,78959.01,4.5,No,18-30,19739.75,Medium
+705,67,Male,Cardiology,Migraine,8,17446.39,5.5,Yes,61-80,2180.8,Medium
+706,52,Male,Cardiology,Hypertension,10,62090.93,5.2,Yes,46-60,6209.09,Medium
+707,77,Male,Pediatrics,Migraine,14,8258.3,3.3,Yes,61-80,589.88,Low
+708,50,Male,Pediatrics,Fracture,2,52268.78,5.5,No,46-60,26134.39,Medium
+709,50,Male,Pediatrics,Fracture,9,19710.05,1.3,No,46-60,2190.01,Low
+710,78,Female,Neurology,Fracture,13,22377.68,2.2,No,61-80,1721.36,Low
+711,68,Female,Pediatrics,Infection,9,39679.52,9.0,No,61-80,4408.84,High
+712,60,Female,Neurology,Fracture,14,46081.53,7.8,No,46-60,3291.54,High
+713,54,Male,Cardiology,Infection,10,64201.38,4.8,No,46-60,6420.14,Medium
+714,29,Female,Cardiology,Infection,10,12070.7,5.7,Yes,18-30,1207.07,Medium
+715,20,Female,Cardiology,Migraine,13,52850.72,4.3,No,18-30,4065.44,Medium
+716,18,Male,Orthopedics,Hypertension,6,22349.39,7.7,No,18-30,3724.9,High
+717,50,Male,Orthopedics,Migraine,4,59527.64,8.1,No,46-60,14881.91,High
+718,57,Male,General Medicine,Migraine,4,65553.44,7.9,No,46-60,16388.36,High
+719,27,Female,General Medicine,Infection,13,57887.38,7.5,Yes,18-30,4452.88,High
+720,60,Female,General Medicine,Infection,6,75138.07,2.8,No,46-60,12523.01,Low
+721,61,Male,Orthopedics,Fracture,5,36882.88,4.0,No,61-80,7376.58,Low
+722,46,Male,Orthopedics,Fracture,6,77685.13,5.2,No,46-60,12947.52,Medium
+723,30,Female,General Medicine,Migraine,7,46112.87,4.0,No,18-30,6587.55,Low
+724,29,Female,General Medicine,Diabetes,7,50997.53,7.8,No,18-30,7285.36,High
+725,48,Male,Pediatrics,Diabetes,9,66569.7,4.0,No,46-60,7396.63,Low
+726,63,Male,General Medicine,Fracture,8,6744.05,2.2,No,61-80,843.01,Low
+727,19,Female,Pediatrics,Diabetes,13,67129.45,4.6,No,18-30,5163.8,Medium
+728,78,Male,Neurology,Fracture,6,63765.59,9.8,No,61-80,10627.6,High
+729,68,Female,Orthopedics,Infection,12,34435.48,3.0,No,61-80,2869.62,Low
+730,67,Female,General Medicine,Migraine,6,13150.46,6.5,No,61-80,2191.74,Medium
+731,52,Female,Orthopedics,Hypertension,14,13638.87,4.9,No,46-60,974.2,Medium
+732,40,Female,Orthopedics,Migraine,5,92706.26,1.6,No,31-45,18541.25,Low
+733,34,Male,Orthopedics,Fracture,1,70481.54,5.4,Yes,31-45,70481.54,Medium
+734,43,Male,Neurology,Fracture,9,17074.75,7.3,No,31-45,1897.19,High
+735,25,Female,Cardiology,Migraine,9,38888.7,5.6,No,18-30,4320.97,Medium
+736,46,Female,General Medicine,Fracture,9,61285.88,8.8,No,46-60,6809.54,High
+737,43,Female,Cardiology,Diabetes,11,84379.31,3.6,No,31-45,7670.85,Low
+738,27,Female,Cardiology,Diabetes,8,9147.79,1.8,No,18-30,1143.47,Low
+739,43,Female,Cardiology,Fracture,13,27480.15,9.4,No,31-45,2113.86,High
+740,79,Male,Orthopedics,Fracture,10,89526.15,4.4,No,61-80,8952.62,Medium
+741,51,Male,Pediatrics,Diabetes,13,5870.73,6.2,No,46-60,451.59,Medium
+742,68,Male,Orthopedics,Fracture,3,24132.91,8.1,No,61-80,8044.3,High
+743,58,Male,Orthopedics,Fracture,1,96107.3,3.9,No,46-60,96107.3,Low
+744,24,Female,Cardiology,Migraine,11,63273.18,7.4,No,18-30,5752.11,High
+745,21,Female,Orthopedics,Hypertension,12,29858.78,2.2,No,18-30,2488.23,Low
+746,75,Female,Cardiology,Diabetes,12,11364.15,3.6,Yes,61-80,947.01,Low
+747,70,Female,Pediatrics,Migraine,8,7678.18,2.3,No,61-80,959.77,Low
+748,67,Female,General Medicine,Hypertension,7,28250.78,8.3,No,61-80,4035.83,High
+749,62,Male,Cardiology,Fracture,13,88741.15,3.0,No,61-80,6826.24,Low
+750,28,Female,Pediatrics,Fracture,5,44511.8,7.5,No,18-30,8902.36,High
+751,46,Male,General Medicine,Migraine,10,73431.67,9.5,No,46-60,7343.17,High
+752,73,Male,Neurology,Fracture,7,92237.08,5.7,No,61-80,13176.73,Medium
+753,53,Male,Cardiology,Infection,10,43763.84,5.9,Yes,46-60,4376.38,Medium
+754,42,Male,Cardiology,Migraine,4,23171.35,5.1,No,31-45,5792.84,Medium
+755,38,Female,Neurology,Hypertension,9,54126.2,3.9,No,31-45,6014.02,Low
+756,78,Male,Neurology,Migraine,11,91267.95,5.3,No,61-80,8297.09,Medium
+757,74,Male,Cardiology,Diabetes,10,81415.57,6.4,No,61-80,8141.56,Medium
+758,53,Male,Neurology,Migraine,14,11253.84,9.9,No,46-60,803.85,High
+759,27,Female,Orthopedics,Fracture,2,70794.42,9.4,No,18-30,35397.21,High
+760,54,Female,General Medicine,Fracture,9,59330.26,8.8,No,46-60,6592.25,High
+761,26,Female,General Medicine,Infection,9,91209.0,9.0,No,18-30,10134.33,High
+762,41,Male,General Medicine,Infection,5,16635.73,5.2,No,31-45,3327.15,Medium
+763,52,Male,Orthopedics,Infection,11,55733.43,6.9,No,46-60,5066.68,Medium
+764,66,Female,Neurology,Hypertension,1,88548.96,9.1,No,61-80,88548.96,High
+765,52,Male,Pediatrics,Infection,7,43952.26,4.5,Yes,46-60,6278.89,Medium
+766,65,Female,Neurology,Hypertension,10,50789.52,9.7,No,61-80,5078.95,High
+767,53,Female,Cardiology,Infection,10,11693.76,4.7,No,46-60,1169.38,Medium
+768,35,Male,General Medicine,Hypertension,4,31423.65,6.4,No,31-45,7855.91,Medium
+769,66,Male,Neurology,Migraine,9,35828.13,7.4,No,61-80,3980.9,High
+770,56,Male,Pediatrics,Migraine,6,94786.63,9.6,No,46-60,15797.77,High
+771,49,Male,Cardiology,Fracture,13,31853.4,3.2,No,46-60,2450.26,Low
+772,41,Female,Orthopedics,Hypertension,3,48782.53,7.7,No,31-45,16260.84,High
+773,40,Female,Orthopedics,Diabetes,6,68773.92,5.7,No,31-45,11462.32,Medium
+774,79,Female,Pediatrics,Fracture,13,20407.42,3.4,No,61-80,1569.8,Low
+775,49,Female,Cardiology,Migraine,10,51212.03,8.0,No,46-60,5121.2,High
+776,54,Female,General Medicine,Hypertension,6,75161.21,6.0,No,46-60,12526.87,Medium
+777,29,Male,Neurology,Infection,5,87351.25,6.9,No,18-30,17470.25,Medium
+778,66,Female,Cardiology,Diabetes,2,64494.63,3.9,No,61-80,32247.32,Low
+779,72,Female,Orthopedics,Migraine,10,68560.08,5.3,No,61-80,6856.01,Medium
+780,30,Female,Pediatrics,Fracture,10,16996.93,6.6,No,18-30,1699.69,Medium
+781,40,Male,Pediatrics,Hypertension,2,94848.77,4.6,No,31-45,47424.38,Medium
+782,42,Male,Neurology,Diabetes,7,17594.54,2.8,No,31-45,2513.51,Low
+783,52,Male,Pediatrics,Hypertension,2,78593.93,9.7,No,46-60,39296.96,High
+784,58,Male,Pediatrics,Infection,12,30157.55,5.6,No,46-60,2513.13,Medium
+785,47,Female,Cardiology,Fracture,6,93691.35,7.6,Yes,46-60,15615.22,High
+786,34,Female,General Medicine,Hypertension,5,73396.16,4.7,No,31-45,14679.23,Medium
+787,66,Male,Neurology,Migraine,4,76612.3,4.2,No,61-80,19153.08,Medium
+788,79,Male,Cardiology,Fracture,7,25810.62,4.7,No,61-80,3687.23,Medium
+789,37,Female,General Medicine,Migraine,8,47088.8,4.7,No,31-45,5886.1,Medium
+790,65,Female,Cardiology,Hypertension,4,63692.25,5.9,No,61-80,15923.06,Medium
+791,42,Male,Cardiology,Fracture,1,78147.49,5.9,Yes,31-45,78147.49,Medium
+792,39,Male,Pediatrics,Migraine,1,14876.14,5.5,No,31-45,14876.14,Medium
+793,30,Male,General Medicine,Infection,1,96424.71,2.2,No,18-30,96424.71,Low
+794,76,Male,Neurology,Infection,11,89570.96,5.5,No,61-80,8142.81,Medium
+795,36,Female,Neurology,Hypertension,1,30683.12,2.5,No,31-45,30683.12,Low
+796,66,Female,General Medicine,Fracture,5,83162.22,2.1,No,61-80,16632.44,Low
+797,53,Female,Pediatrics,Diabetes,4,54240.77,9.4,No,46-60,13560.19,High
+798,29,Male,Orthopedics,Fracture,13,48871.62,6.4,No,18-30,3759.36,Medium
+799,78,Male,Cardiology,Infection,14,34871.24,6.9,No,61-80,2490.8,Medium
+800,58,Female,Pediatrics,Migraine,9,60192.02,4.6,No,46-60,6688.0,Medium
+801,36,Female,General Medicine,Diabetes,3,74339.47,9.2,No,31-45,24779.82,High
+802,29,Female,Cardiology,Hypertension,14,44038.63,6.7,No,18-30,3145.62,Medium
+803,26,Female,Neurology,Diabetes,7,64775.82,7.9,No,18-30,9253.69,High
+804,24,Male,Orthopedics,Hypertension,11,71434.73,4.3,No,18-30,6494.07,Medium
+805,45,Female,Neurology,Diabetes,8,72556.57,9.6,No,31-45,9069.57,High
+806,31,Female,General Medicine,Hypertension,6,9936.78,8.4,No,31-45,1656.13,High
+807,48,Female,Cardiology,Hypertension,12,86676.04,8.7,Yes,46-60,7223.0,High
+808,69,Female,General Medicine,Diabetes,13,48534.06,2.5,No,61-80,3733.39,Low
+809,36,Female,Cardiology,Diabetes,10,29929.53,3.4,No,31-45,2992.95,Low
+810,75,Female,Pediatrics,Hypertension,13,27967.63,3.6,Yes,61-80,2151.36,Low
+811,64,Female,Orthopedics,Infection,1,50886.34,3.4,No,61-80,50886.34,Low
+812,33,Male,Pediatrics,Diabetes,8,89249.0,8.7,No,31-45,11156.12,High
+813,70,Male,Pediatrics,Fracture,10,40943.02,1.3,No,61-80,4094.3,Low
+814,22,Male,General Medicine,Migraine,3,76223.95,1.7,No,18-30,25407.98,Low
+815,52,Male,Orthopedics,Hypertension,8,14197.78,3.5,No,46-60,1774.72,Low
+816,29,Female,Cardiology,Hypertension,12,50225.39,2.8,No,18-30,4185.45,Low
+817,42,Male,Cardiology,Migraine,4,99210.18,3.1,No,31-45,24802.54,Low
+818,69,Male,Neurology,Infection,8,78191.59,8.2,No,61-80,9773.95,High
+819,76,Female,Cardiology,Migraine,11,25000.21,6.1,No,61-80,2272.75,Medium
+820,38,Female,General Medicine,Diabetes,1,52636.94,1.1,Yes,31-45,52636.94,Low
+821,53,Male,Pediatrics,Migraine,3,27194.35,4.9,No,46-60,9064.78,Medium
+822,70,Male,Pediatrics,Hypertension,6,43908.29,4.7,No,61-80,7318.05,Medium
+823,40,Female,Pediatrics,Migraine,9,79107.98,2.0,No,31-45,8789.78,Low
+824,33,Male,Orthopedics,Fracture,2,78266.36,7.1,No,31-45,39133.18,High
+825,74,Female,Cardiology,Diabetes,11,26669.54,7.3,No,61-80,2424.5,High
+826,56,Female,General Medicine,Migraine,1,92611.22,7.5,No,46-60,92611.22,High
+827,62,Female,Orthopedics,Hypertension,10,61293.98,7.6,Yes,61-80,6129.4,High
+828,70,Female,Neurology,Diabetes,3,41092.81,1.0,No,61-80,13697.6,Low
+829,59,Male,General Medicine,Hypertension,4,52683.88,9.6,No,46-60,13170.97,High
+830,75,Female,General Medicine,Infection,11,62481.77,8.3,No,61-80,5680.16,High
+831,56,Female,General Medicine,Fracture,5,58189.6,9.1,No,46-60,11637.92,High
+832,31,Male,Pediatrics,Infection,3,51208.48,1.1,No,31-45,17069.49,Low
+833,48,Female,General Medicine,Fracture,13,52968.62,9.4,No,46-60,4074.51,High
+834,75,Male,Cardiology,Migraine,10,21759.13,8.3,No,61-80,2175.91,High
+835,22,Male,General Medicine,Diabetes,11,82209.63,8.5,Yes,18-30,7473.6,High
+836,52,Male,Pediatrics,Migraine,2,56467.23,1.8,No,46-60,28233.62,Low
+837,40,Female,General Medicine,Fracture,2,17452.59,7.6,No,31-45,8726.3,High
+838,46,Male,Neurology,Fracture,7,77784.92,9.6,No,46-60,11112.13,High
+839,60,Male,Neurology,Fracture,9,93582.18,7.1,No,46-60,10398.02,High
+840,28,Female,Pediatrics,Hypertension,10,94994.16,6.1,No,18-30,9499.42,Medium
+841,35,Male,Cardiology,Diabetes,2,40056.68,9.5,No,31-45,20028.34,High
+842,64,Male,Cardiology,Migraine,7,17874.1,5.0,No,61-80,2553.44,Medium
+843,29,Male,Orthopedics,Migraine,7,54247.96,6.4,No,18-30,7749.71,Medium
+844,26,Male,Pediatrics,Infection,11,15697.88,5.3,No,18-30,1427.08,Medium
+845,27,Male,General Medicine,Fracture,7,93728.8,9.4,No,18-30,13389.83,High
+846,75,Female,Pediatrics,Fracture,3,22440.06,1.7,No,61-80,7480.02,Low
+847,61,Male,Orthopedics,Fracture,12,29012.76,5.5,No,61-80,2417.73,Medium
+848,34,Male,Pediatrics,Migraine,7,43630.47,7.2,No,31-45,6232.92,High
+849,78,Female,Pediatrics,Infection,1,41400.62,8.1,Yes,61-80,41400.62,High
+850,55,Female,Orthopedics,Hypertension,10,80492.97,6.2,No,46-60,8049.3,Medium
+851,24,Female,Cardiology,Diabetes,1,48350.1,9.2,Yes,18-30,48350.1,High
+852,63,Male,General Medicine,Hypertension,5,21222.98,9.5,No,61-80,4244.6,High
+853,30,Female,Orthopedics,Migraine,2,30384.94,1.6,No,18-30,15192.47,Low
+854,57,Male,Neurology,Fracture,9,53365.77,4.6,Yes,46-60,5929.53,Medium
+855,59,Male,Cardiology,Diabetes,7,19008.12,1.2,No,46-60,2715.45,Low
+856,26,Female,Neurology,Migraine,4,63107.29,4.0,No,18-30,15776.82,Low
+857,67,Female,Cardiology,Migraine,4,58745.99,5.8,No,61-80,14686.5,Medium
+858,44,Male,General Medicine,Migraine,2,72896.72,9.2,No,31-45,36448.36,High
+859,75,Female,General Medicine,Diabetes,5,94081.94,8.6,No,61-80,18816.39,High
+860,19,Male,Pediatrics,Diabetes,4,91664.18,2.1,No,18-30,22916.04,Low
+861,22,Female,Neurology,Infection,12,94877.18,1.8,Yes,18-30,7906.43,Low
+862,46,Female,Cardiology,Infection,13,28247.98,6.3,No,46-60,2172.92,Medium
+863,54,Female,General Medicine,Hypertension,1,17498.7,5.8,No,46-60,17498.7,Medium
+864,55,Male,Orthopedics,Diabetes,12,33716.29,3.4,No,46-60,2809.69,Low
+865,36,Female,General Medicine,Diabetes,8,90033.09,9.1,No,31-45,11254.14,High
+866,25,Male,Orthopedics,Diabetes,3,97345.08,9.3,No,18-30,32448.36,High
+867,65,Male,Cardiology,Infection,14,86635.87,4.6,No,61-80,6188.28,Medium
+868,62,Male,General Medicine,Migraine,6,15451.68,9.0,No,61-80,2575.28,High
+869,18,Male,General Medicine,Fracture,4,95005.66,4.5,No,18-30,23751.42,Medium
+870,39,Female,Cardiology,Infection,9,45219.01,7.6,No,31-45,5024.33,High
+871,69,Male,General Medicine,Diabetes,7,5884.48,5.3,No,61-80,840.64,Medium
+872,34,Male,Orthopedics,Infection,9,47027.41,2.1,No,31-45,5225.27,Low
+873,80,Female,General Medicine,Hypertension,10,9376.57,9.4,Yes,61-80,937.66,High
+874,24,Male,Neurology,Diabetes,3,56668.4,5.1,No,18-30,18889.47,Medium
+875,42,Female,Pediatrics,Hypertension,1,37162.63,7.6,No,31-45,37162.63,High
+876,62,Male,Orthopedics,Diabetes,5,49976.32,4.3,No,61-80,9995.26,Medium
+877,21,Female,Neurology,Infection,3,63251.18,1.2,No,18-30,21083.73,Low
+878,53,Male,Cardiology,Migraine,6,87536.1,1.9,No,46-60,14589.35,Low
+879,23,Female,Orthopedics,Fracture,8,67880.65,5.5,No,18-30,8485.08,Medium
+880,77,Male,Pediatrics,Hypertension,11,46234.64,7.2,No,61-80,4203.15,High
+881,48,Male,Pediatrics,Infection,13,82845.65,4.0,No,46-60,6372.74,Low
+882,36,Female,Cardiology,Migraine,4,91030.3,7.3,No,31-45,22757.58,High
+883,78,Female,Cardiology,Infection,5,16377.2,7.3,No,61-80,3275.44,High
+884,61,Female,Orthopedics,Hypertension,5,55533.63,7.3,No,61-80,11106.73,High
+885,71,Female,General Medicine,Fracture,4,32028.64,5.4,No,61-80,8007.16,Medium
+886,56,Male,Cardiology,Infection,4,9470.81,9.2,No,46-60,2367.7,High
+887,44,Male,General Medicine,Diabetes,4,68511.94,5.4,No,31-45,17127.98,Medium
+888,27,Female,Neurology,Migraine,4,86963.22,5.1,No,18-30,21740.8,Medium
+889,43,Male,Pediatrics,Infection,4,20475.75,2.8,No,31-45,5118.94,Low
+890,36,Female,General Medicine,Migraine,5,82179.3,3.8,No,31-45,16435.86,Low
+891,56,Female,Pediatrics,Diabetes,2,86072.59,1.4,No,46-60,43036.3,Low
+892,79,Male,General Medicine,Fracture,2,91862.34,6.7,No,61-80,45931.17,Medium
+893,20,Male,Neurology,Fracture,9,30202.08,3.2,No,18-30,3355.79,Low
+894,62,Male,Cardiology,Diabetes,2,90875.54,3.7,No,61-80,45437.77,Low
+895,30,Male,Neurology,Migraine,6,35462.96,7.9,No,18-30,5910.49,High
+896,67,Male,Cardiology,Infection,2,57472.11,3.9,No,61-80,28736.06,Low
+897,45,Male,Cardiology,Diabetes,5,9798.21,3.2,Yes,31-45,1959.64,Low
+898,79,Male,Pediatrics,Hypertension,4,9168.7,2.5,No,61-80,2292.18,Low
+899,75,Female,Neurology,Migraine,12,73435.46,8.0,No,61-80,6119.62,High
+900,37,Female,General Medicine,Fracture,7,47225.6,2.2,No,31-45,6746.51,Low
+901,45,Female,Neurology,Diabetes,7,29347.78,5.1,No,31-45,4192.54,Medium
+902,25,Female,Pediatrics,Fracture,13,23089.28,5.6,No,18-30,1776.1,Medium
+903,78,Female,Cardiology,Migraine,6,68645.58,7.2,No,61-80,11440.93,High
+904,80,Male,Pediatrics,Fracture,10,5038.15,6.7,No,61-80,503.81,Medium
+905,58,Female,Orthopedics,Diabetes,5,81559.66,8.3,No,46-60,16311.93,High
+906,56,Female,Orthopedics,Migraine,1,12528.71,1.4,No,46-60,12528.71,Low
+907,18,Female,General Medicine,Hypertension,12,23191.51,3.7,No,18-30,1932.63,Low
+908,20,Female,Pediatrics,Diabetes,3,41692.46,3.5,No,18-30,13897.49,Low
+909,30,Female,General Medicine,Infection,9,51061.58,2.3,No,18-30,5673.51,Low
+910,45,Female,General Medicine,Diabetes,14,38724.54,3.6,No,31-45,2766.04,Low
+911,79,Female,Orthopedics,Migraine,1,35467.66,3.8,Yes,61-80,35467.66,Low
+912,74,Male,General Medicine,Diabetes,5,96572.02,5.7,Yes,61-80,19314.4,Medium
+913,80,Male,Orthopedics,Hypertension,2,65950.07,7.0,No,61-80,32975.04,Medium
+914,77,Female,Cardiology,Hypertension,4,7226.13,4.4,Yes,61-80,1806.53,Medium
+915,66,Male,Pediatrics,Infection,14,45866.71,7.5,Yes,61-80,3276.19,High
+916,42,Male,General Medicine,Fracture,14,88125.83,4.0,No,31-45,6294.7,Low
+917,73,Male,Orthopedics,Migraine,11,33638.34,3.6,No,61-80,3058.03,Low
+918,50,Male,Neurology,Migraine,1,13982.85,5.9,No,46-60,13982.85,Medium
+919,55,Female,General Medicine,Fracture,3,77046.55,1.2,No,46-60,25682.18,Low
+920,70,Male,Cardiology,Hypertension,10,62571.31,1.7,No,61-80,6257.13,Low
+921,23,Male,Cardiology,Hypertension,7,59179.69,4.8,No,18-30,8454.24,Medium
+922,75,Male,Neurology,Diabetes,10,10089.77,9.5,No,61-80,1008.98,High
+923,61,Female,Orthopedics,Infection,3,18347.41,7.5,No,61-80,6115.8,High
+924,62,Female,General Medicine,Infection,4,64142.19,1.8,Yes,61-80,16035.55,Low
+925,49,Female,Orthopedics,Infection,2,24743.26,8.6,No,46-60,12371.63,High
+926,62,Female,Cardiology,Diabetes,3,52886.66,7.6,No,61-80,17628.89,High
+927,78,Female,Orthopedics,Infection,9,56763.76,6.5,No,61-80,6307.08,Medium
+928,64,Female,Cardiology,Fracture,3,31933.18,8.4,No,61-80,10644.39,High
+929,38,Female,Orthopedics,Diabetes,11,95100.39,4.6,No,31-45,8645.49,Medium
+930,33,Male,Neurology,Fracture,5,85034.09,3.0,No,31-45,17006.82,Low
+931,71,Male,Pediatrics,Diabetes,2,73625.48,5.6,No,61-80,36812.74,Medium
+932,38,Male,Neurology,Infection,4,12409.42,5.9,No,31-45,3102.36,Medium
+933,28,Female,Neurology,Fracture,12,15082.35,5.8,No,18-30,1256.86,Medium
+934,77,Female,Pediatrics,Fracture,13,51814.23,6.1,No,61-80,3985.71,Medium
+935,54,Female,Pediatrics,Fracture,7,20267.77,9.5,Yes,46-60,2895.4,High
+936,53,Female,General Medicine,Diabetes,14,97935.22,9.1,Yes,46-60,6995.37,High
+937,52,Female,General Medicine,Migraine,7,20059.42,8.9,No,46-60,2865.63,High
+938,36,Male,Neurology,Infection,12,51309.44,8.2,Yes,31-45,4275.79,High
+939,37,Male,Neurology,Fracture,3,39591.5,9.5,No,31-45,13197.17,High
+940,74,Female,Cardiology,Migraine,5,65741.71,1.9,No,61-80,13148.34,Low
+941,35,Female,Cardiology,Infection,1,17258.46,3.4,No,31-45,17258.46,Low
+942,64,Female,General Medicine,Infection,10,45880.06,5.5,No,61-80,4588.01,Medium
+943,58,Female,General Medicine,Fracture,10,31096.98,8.6,No,46-60,3109.7,High
+944,66,Male,Cardiology,Fracture,10,89336.39,5.5,Yes,61-80,8933.64,Medium
+945,31,Female,Cardiology,Diabetes,11,8855.64,7.7,Yes,31-45,805.06,High
+946,32,Female,Orthopedics,Migraine,1,91804.11,2.3,Yes,31-45,91804.11,Low
+947,48,Female,Orthopedics,Migraine,5,84134.44,3.3,No,46-60,16826.89,Low
+948,18,Female,Cardiology,Fracture,13,33269.22,7.6,Yes,18-30,2559.17,High
+949,70,Male,Orthopedics,Infection,10,79982.61,2.5,No,61-80,7998.26,Low
+950,71,Female,Pediatrics,Fracture,9,7965.29,4.2,Yes,61-80,885.03,Medium
+951,71,Female,General Medicine,Infection,1,96852.23,3.4,Yes,61-80,96852.23,Low
+952,20,Male,General Medicine,Infection,1,55026.52,4.1,No,18-30,55026.52,Medium
+953,33,Male,Cardiology,Fracture,4,33811.7,7.4,No,31-45,8452.92,High
+954,40,Male,Neurology,Hypertension,4,39445.41,4.3,No,31-45,9861.35,Medium
+955,74,Female,Cardiology,Migraine,2,11308.51,6.0,No,61-80,5654.26,Medium
+956,28,Female,Orthopedics,Infection,9,98988.2,1.9,No,18-30,10998.69,Low
+957,29,Male,Neurology,Infection,14,8732.73,8.2,No,18-30,623.77,High
+958,27,Male,Orthopedics,Hypertension,9,67216.18,4.3,No,18-30,7468.46,Medium
+959,49,Male,Pediatrics,Diabetes,13,47059.91,6.8,No,46-60,3619.99,Medium
+960,33,Male,Orthopedics,Hypertension,13,95147.04,7.5,No,31-45,7319.0,High
+961,25,Male,Pediatrics,Hypertension,2,28369.98,2.9,No,18-30,14184.99,Low
+962,55,Male,Pediatrics,Infection,14,55548.25,9.0,No,46-60,3967.73,High
+963,29,Female,Orthopedics,Migraine,9,50823.84,6.5,No,18-30,5647.09,Medium
+964,41,Female,Orthopedics,Hypertension,6,71772.31,4.9,Yes,31-45,11962.05,Medium
+965,45,Female,Pediatrics,Diabetes,8,11460.97,2.6,No,31-45,1432.62,Low
+966,70,Male,Neurology,Fracture,10,23409.97,9.5,No,61-80,2341.0,High
+967,25,Male,Pediatrics,Hypertension,13,25383.66,7.8,No,18-30,1952.59,High
+968,75,Male,General Medicine,Hypertension,13,75124.32,2.9,Yes,61-80,5778.79,Low
+969,45,Male,Pediatrics,Diabetes,4,22968.18,4.0,No,31-45,5742.04,Low
+970,53,Male,Neurology,Migraine,2,59481.72,8.3,Yes,46-60,29740.86,High
+971,43,Male,General Medicine,Hypertension,2,25448.16,7.3,No,31-45,12724.08,High
+972,25,Female,Cardiology,Hypertension,9,86854.37,7.9,Yes,18-30,9650.49,High
+973,75,Female,Cardiology,Migraine,1,94507.62,5.0,No,61-80,94507.62,Medium
+974,77,Male,Neurology,Diabetes,12,54256.83,7.4,No,61-80,4521.4,High
+975,67,Female,Pediatrics,Hypertension,7,38469.34,4.5,No,61-80,5495.62,Medium
+976,45,Male,Orthopedics,Migraine,11,27235.49,2.9,No,31-45,2475.95,Low
+977,45,Female,Neurology,Hypertension,14,9729.2,6.7,No,31-45,694.94,Medium
+978,54,Male,General Medicine,Fracture,3,30507.51,9.8,No,46-60,10169.17,High
+979,58,Male,General Medicine,Infection,3,67152.4,3.8,No,46-60,22384.13,Low
+980,53,Female,Cardiology,Fracture,2,55693.61,5.1,No,46-60,27846.8,Medium
+981,44,Female,General Medicine,Hypertension,14,94683.92,7.1,No,31-45,6763.14,High
+982,71,Male,Neurology,Diabetes,10,42646.34,5.9,No,61-80,4264.63,Medium
+983,80,Male,General Medicine,Infection,6,70917.02,8.6,No,61-80,11819.5,High
+984,34,Female,Neurology,Fracture,13,51485.66,7.9,No,31-45,3960.44,High
+985,26,Female,Orthopedics,Migraine,10,53694.74,1.5,No,18-30,5369.47,Low
+986,50,Male,Cardiology,Diabetes,2,30438.56,10.0,No,46-60,15219.28,High
+987,70,Female,General Medicine,Fracture,10,48220.32,7.8,No,61-80,4822.03,High
+988,37,Male,Neurology,Migraine,4,49724.57,8.8,Yes,31-45,12431.14,High
+989,30,Male,Pediatrics,Hypertension,10,72131.04,6.9,No,18-30,7213.1,Medium
+990,45,Male,Cardiology,Migraine,9,94360.8,8.7,No,31-45,10484.53,High
+991,65,Male,Orthopedics,Fracture,9,36285.52,2.0,No,61-80,4031.72,Low
+992,46,Female,Neurology,Fracture,6,9009.04,4.1,Yes,46-60,1501.51,Medium
+993,30,Female,Orthopedics,Hypertension,13,52148.04,8.9,No,18-30,4011.39,High
+994,63,Female,Orthopedics,Migraine,4,56723.83,2.8,No,61-80,14180.96,Low
+995,52,Female,General Medicine,Migraine,7,21001.85,1.7,No,46-60,3000.26,Low
+996,78,Female,General Medicine,Hypertension,14,77244.14,8.1,Yes,61-80,5517.44,High
+997,23,Female,Neurology,Migraine,1,98568.27,8.5,Yes,18-30,98568.27,High
+998,35,Female,Pediatrics,Hypertension,12,94848.6,2.5,No,31-45,7904.05,Low
+999,68,Male,Neurology,Diabetes,4,23725.07,8.7,No,61-80,5931.27,High
+1000,22,Female,Pediatrics,Fracture,5,88159.51,7.2,No,18-30,17631.9,High
+1001,64,Female,Orthopedics,Diabetes,8,71926.9,5.7,No,61-80,8990.86,Medium
+1002,42,Male,Cardiology,Infection,12,48115.42,8.5,No,31-45,4009.62,High
+1003,19,Female,Neurology,Infection,2,56358.04,4.8,No,18-30,28179.02,Medium
+1004,27,Female,Neurology,Infection,12,85712.02,2.7,No,18-30,7142.67,Low
+1005,73,Male,Pediatrics,Hypertension,5,50612.82,3.6,No,61-80,10122.56,Low
+1006,47,Female,Orthopedics,Migraine,6,40454.7,5.5,No,46-60,6742.45,Medium
+1007,67,Female,Orthopedics,Diabetes,5,51858.51,5.8,No,61-80,10371.7,Medium
+1008,76,Female,Pediatrics,Diabetes,13,60017.33,8.3,No,61-80,4616.72,High
+1009,62,Male,Orthopedics,Diabetes,9,22962.38,8.1,No,61-80,2551.38,High
+1010,22,Female,General Medicine,Diabetes,10,90586.23,6.2,No,18-30,9058.62,Medium
+1011,72,Female,Cardiology,Infection,1,69047.76,8.0,No,61-80,69047.76,High
+1012,73,Male,Neurology,Diabetes,14,65160.55,2.7,No,61-80,4654.32,Low
+1013,50,Female,Cardiology,Migraine,3,14452.14,1.5,No,46-60,4817.38,Low
+1014,71,Male,Neurology,Infection,14,62396.52,8.9,No,61-80,4456.89,High
+1015,18,Male,General Medicine,Diabetes,2,16491.26,1.7,No,18-30,8245.63,Low
+1016,35,Female,Orthopedics,Hypertension,12,12476.28,3.2,No,31-45,1039.69,Low
+1017,49,Male,Pediatrics,Fracture,13,55094.54,7.3,No,46-60,4238.04,High
+1018,64,Male,General Medicine,Fracture,3,43264.63,4.7,No,61-80,14421.54,Medium
+1019,66,Female,Cardiology,Fracture,10,60936.98,8.9,No,61-80,6093.7,High
+1020,28,Male,Pediatrics,Infection,9,13476.11,3.7,No,18-30,1497.35,Low
+1021,38,Male,Orthopedics,Diabetes,13,45943.39,1.1,No,31-45,3534.11,Low
+1022,43,Female,General Medicine,Infection,14,21604.74,3.7,No,31-45,1543.2,Low
+1023,80,Female,Pediatrics,Migraine,9,98774.51,6.2,No,61-80,10974.95,Medium
+1024,42,Female,General Medicine,Hypertension,10,58309.27,4.4,No,31-45,5830.93,Medium
+1025,39,Male,General Medicine,Hypertension,2,70306.5,5.8,No,31-45,35153.25,Medium
+1026,76,Female,Orthopedics,Fracture,14,35914.74,8.9,No,61-80,2565.34,High
+1027,44,Male,Neurology,Fracture,3,14000.2,9.2,Yes,31-45,4666.73,High
+1028,66,Male,Pediatrics,Fracture,14,97707.73,3.4,No,61-80,6979.12,Low
+1029,30,Male,Orthopedics,Diabetes,4,32194.61,5.2,No,18-30,8048.65,Medium
+1030,50,Male,General Medicine,Migraine,9,45261.78,5.9,No,46-60,5029.09,Medium
+1031,51,Male,Orthopedics,Migraine,3,66737.07,9.5,Yes,46-60,22245.69,High
+1032,58,Male,Neurology,Migraine,13,7346.24,10.0,No,46-60,565.1,High
+1033,52,Male,Pediatrics,Migraine,7,81974.62,3.1,No,46-60,11710.66,Low
+1034,80,Female,Neurology,Fracture,12,55974.93,7.5,No,61-80,4664.58,High
+1035,18,Female,Cardiology,Hypertension,3,31430.63,4.4,No,18-30,10476.88,Medium
+1036,38,Male,Pediatrics,Fracture,7,10852.76,1.1,No,31-45,1550.39,Low
+1037,65,Male,Neurology,Migraine,7,20437.35,1.1,No,61-80,2919.62,Low
+1038,72,Female,General Medicine,Fracture,9,90028.22,5.1,No,61-80,10003.14,Medium
+1039,23,Male,Pediatrics,Migraine,2,70172.3,5.4,No,18-30,35086.15,Medium
+1040,45,Female,Pediatrics,Infection,13,28740.66,1.2,No,31-45,2210.82,Low
+1041,34,Female,Orthopedics,Hypertension,6,11232.07,7.2,Yes,31-45,1872.01,High
+1042,22,Female,General Medicine,Infection,9,70608.45,3.6,No,18-30,7845.38,Low
+1043,48,Male,Cardiology,Diabetes,12,59378.73,6.0,No,46-60,4948.23,Medium
+1044,22,Male,Neurology,Fracture,12,43429.35,3.7,No,18-30,3619.11,Low
+1045,55,Female,Orthopedics,Diabetes,2,39543.09,2.5,No,46-60,19771.54,Low
+1046,20,Female,Neurology,Fracture,2,25597.36,4.7,No,18-30,12798.68,Medium
+1047,70,Female,Cardiology,Infection,13,68613.07,3.1,No,61-80,5277.93,Low
+1048,40,Female,Cardiology,Migraine,14,97213.46,5.8,No,31-45,6943.82,Medium
+1049,54,Female,Pediatrics,Migraine,5,21692.95,2.8,No,46-60,4338.59,Low
+1050,70,Male,Cardiology,Fracture,10,61726.08,5.6,No,61-80,6172.61,Medium
+1051,54,Female,Neurology,Migraine,10,45297.58,2.4,Yes,46-60,4529.76,Low
+1052,27,Male,General Medicine,Infection,12,47435.43,7.0,No,18-30,3952.95,Medium
+1053,27,Female,General Medicine,Migraine,10,29143.99,7.8,Yes,18-30,2914.4,High
+1054,36,Male,Pediatrics,Infection,8,83387.81,2.0,Yes,31-45,10423.48,Low
+1055,34,Male,Neurology,Diabetes,11,51099.28,5.2,No,31-45,4645.39,Medium
+1056,38,Male,Neurology,Infection,9,56623.56,1.6,No,31-45,6291.51,Low
+1057,31,Male,Cardiology,Hypertension,2,33952.29,6.4,No,31-45,16976.14,Medium
+1058,26,Male,Neurology,Hypertension,5,22271.8,3.4,No,18-30,4454.36,Low
+1059,63,Male,Orthopedics,Hypertension,14,13161.49,5.7,No,61-80,940.11,Medium
+1060,18,Female,Cardiology,Fracture,7,72841.32,5.7,No,18-30,10405.9,Medium
+1061,68,Male,Orthopedics,Fracture,6,23642.26,9.3,No,61-80,3940.38,High
+1062,62,Female,Pediatrics,Fracture,6,70557.16,5.9,No,61-80,11759.53,Medium
+1063,30,Male,General Medicine,Infection,7,42085.76,6.2,No,18-30,6012.25,Medium
+1064,21,Male,Pediatrics,Fracture,3,44498.61,4.6,No,18-30,14832.87,Medium
+1065,79,Female,General Medicine,Diabetes,13,49571.86,9.5,No,61-80,3813.22,High
+1066,18,Male,Pediatrics,Hypertension,3,39932.31,8.0,No,18-30,13310.77,High
+1067,66,Female,Neurology,Infection,10,14558.9,3.6,Yes,61-80,1455.89,Low
+1068,57,Female,Orthopedics,Hypertension,9,34415.02,8.6,No,46-60,3823.89,High
+1069,49,Female,General Medicine,Fracture,14,68054.76,4.9,Yes,46-60,4861.05,Medium
+1070,51,Female,Cardiology,Infection,8,68249.52,8.5,No,46-60,8531.19,High
+1071,45,Male,Orthopedics,Migraine,5,32191.31,8.4,No,31-45,6438.26,High
+1072,48,Male,Cardiology,Diabetes,6,48709.75,2.7,No,46-60,8118.29,Low
+1073,25,Female,Orthopedics,Fracture,11,23377.49,7.3,No,18-30,2125.23,High
+1074,56,Male,Orthopedics,Fracture,12,24985.35,3.6,No,46-60,2082.11,Low
+1075,43,Male,Pediatrics,Diabetes,10,7189.47,3.7,No,31-45,718.95,Low
+1076,75,Female,General Medicine,Diabetes,1,90190.92,3.7,No,61-80,90190.92,Low
+1077,51,Male,General Medicine,Migraine,10,25017.13,7.5,No,46-60,2501.71,High
+1078,71,Female,Orthopedics,Fracture,12,26615.72,3.1,No,61-80,2217.98,Low
+1079,71,Female,Neurology,Fracture,1,31562.14,1.0,No,61-80,31562.14,Low
+1080,20,Male,Neurology,Hypertension,4,17103.77,7.4,No,18-30,4275.94,High
+1081,76,Male,Cardiology,Infection,2,65729.97,2.5,No,61-80,32864.98,Low
+1082,67,Male,Cardiology,Infection,11,12138.58,1.9,No,61-80,1103.51,Low
+1083,29,Female,Pediatrics,Hypertension,7,17749.23,3.1,No,18-30,2535.6,Low
+1084,18,Female,Orthopedics,Infection,2,66251.89,4.4,No,18-30,33125.94,Medium
+1085,71,Male,Cardiology,Diabetes,10,37267.76,5.3,No,61-80,3726.78,Medium
+1086,61,Male,Cardiology,Infection,2,72255.04,1.4,No,61-80,36127.52,Low
+1087,22,Male,Orthopedics,Infection,5,57955.35,9.7,No,18-30,11591.07,High
+1088,47,Male,Pediatrics,Hypertension,4,29322.01,7.4,No,46-60,7330.5,High
+1089,47,Female,Cardiology,Migraine,8,66828.66,3.9,Yes,46-60,8353.58,Low
+1090,76,Male,Pediatrics,Infection,4,16046.0,3.9,No,61-80,4011.5,Low
+1091,74,Female,General Medicine,Infection,14,55958.99,5.0,No,61-80,3997.07,Medium
+1092,34,Female,Pediatrics,Migraine,12,46529.07,6.6,No,31-45,3877.42,Medium
+1093,65,Male,Neurology,Hypertension,6,30447.99,2.3,Yes,61-80,5074.66,Low
+1094,80,Male,Neurology,Migraine,5,62380.47,2.7,No,61-80,12476.09,Low
+1095,64,Male,Pediatrics,Hypertension,11,87776.69,8.7,No,61-80,7979.7,High
+1096,40,Female,Neurology,Diabetes,14,99895.95,3.3,Yes,31-45,7135.42,Low
+1097,32,Male,General Medicine,Hypertension,2,62737.46,4.4,No,31-45,31368.73,Medium
+1098,54,Male,Orthopedics,Diabetes,11,43447.06,8.8,No,46-60,3949.73,High
+1099,38,Female,Neurology,Diabetes,13,26394.67,7.0,No,31-45,2030.36,Medium
+1100,31,Male,Neurology,Hypertension,12,29424.13,4.1,No,31-45,2452.01,Medium
+1101,19,Female,Pediatrics,Fracture,14,50548.22,7.2,No,18-30,3610.59,High
+1102,28,Male,General Medicine,Hypertension,8,39891.38,1.2,Yes,18-30,4986.42,Low
+1103,68,Female,Orthopedics,Infection,2,91812.38,7.6,No,61-80,45906.19,High
+1104,56,Male,Pediatrics,Infection,9,39988.07,5.4,No,46-60,4443.12,Medium
+1105,55,Male,Pediatrics,Fracture,9,40477.24,8.3,No,46-60,4497.47,High
+1106,77,Female,General Medicine,Diabetes,3,41435.78,9.6,Yes,61-80,13811.93,High
+1107,51,Female,Orthopedics,Fracture,4,84478.92,9.3,Yes,46-60,21119.73,High
+1108,55,Male,General Medicine,Infection,8,66824.89,9.2,No,46-60,8353.11,High
+1109,67,Female,Orthopedics,Fracture,9,63346.04,5.6,No,61-80,7038.45,Medium
+1110,51,Female,General Medicine,Hypertension,3,36743.59,4.2,No,46-60,12247.86,Medium
+1111,35,Female,Pediatrics,Fracture,5,82700.9,5.2,Yes,31-45,16540.18,Medium
+1112,47,Female,Pediatrics,Diabetes,11,8644.57,7.2,No,46-60,785.87,High
+1113,32,Male,Cardiology,Hypertension,8,87725.73,9.0,No,31-45,10965.72,High
+1114,44,Male,Neurology,Migraine,3,53711.24,2.9,No,31-45,17903.75,Low
+1115,68,Female,General Medicine,Infection,7,42833.77,9.3,No,61-80,6119.11,High
+1116,80,Female,Cardiology,Infection,11,52230.89,8.3,No,61-80,4748.26,High
+1117,51,Female,Neurology,Fracture,8,68404.48,9.8,No,46-60,8550.56,High
+1118,69,Female,General Medicine,Hypertension,10,6212.72,8.9,No,61-80,621.27,High
+1119,74,Male,Orthopedics,Migraine,11,87797.43,3.5,No,61-80,7981.58,Low
+1120,55,Male,Neurology,Hypertension,14,47440.25,2.0,No,46-60,3388.59,Low
+1121,50,Female,Pediatrics,Infection,3,37581.82,2.0,No,46-60,12527.27,Low
+1122,41,Female,Cardiology,Hypertension,2,18133.33,3.6,No,31-45,9066.67,Low
+1123,32,Female,Neurology,Migraine,10,46749.21,6.5,No,31-45,4674.92,Medium
+1124,77,Male,Neurology,Fracture,13,52150.66,8.2,No,61-80,4011.59,High
+1125,47,Female,Pediatrics,Diabetes,7,43346.44,9.1,No,46-60,6192.35,High
+1126,72,Male,General Medicine,Hypertension,12,69472.71,6.6,No,61-80,5789.39,Medium
+1127,59,Female,Orthopedics,Diabetes,9,44985.17,1.1,No,46-60,4998.35,Low
+1128,68,Male,Pediatrics,Infection,1,96334.67,2.7,No,61-80,96334.67,Low
+1129,34,Female,Orthopedics,Fracture,3,61931.36,1.9,No,31-45,20643.79,Low
+1130,22,Male,General Medicine,Fracture,5,81710.4,4.3,No,18-30,16342.08,Medium
+1131,46,Female,Neurology,Hypertension,3,15388.81,5.5,No,46-60,5129.6,Medium
+1132,21,Female,Orthopedics,Fracture,1,42742.67,1.4,No,18-30,42742.67,Low
+1133,27,Female,Cardiology,Hypertension,7,37000.53,4.1,No,18-30,5285.79,Medium
+1134,73,Male,Cardiology,Hypertension,7,59100.83,2.6,No,61-80,8442.98,Low
+1135,34,Female,Pediatrics,Diabetes,10,86805.78,6.8,No,31-45,8680.58,Medium
+1136,27,Male,General Medicine,Fracture,12,12442.13,5.2,No,18-30,1036.84,Medium
+1137,34,Male,Pediatrics,Hypertension,8,11894.61,5.5,Yes,31-45,1486.83,Medium
+1138,77,Female,Pediatrics,Diabetes,5,85780.18,4.8,No,61-80,17156.04,Medium
+1139,37,Female,Pediatrics,Migraine,10,25220.76,9.6,No,31-45,2522.08,High
+1140,41,Female,Cardiology,Diabetes,12,68531.56,2.9,No,31-45,5710.96,Low
+1141,22,Male,Cardiology,Diabetes,5,56573.42,5.6,No,18-30,11314.68,Medium
+1142,51,Female,Pediatrics,Hypertension,5,84124.89,7.6,No,46-60,16824.98,High
+1143,23,Male,Cardiology,Infection,1,16883.45,6.0,No,18-30,16883.45,Medium
+1144,70,Male,General Medicine,Infection,10,17329.38,9.4,No,61-80,1732.94,High
+1145,19,Female,Pediatrics,Infection,5,57897.74,4.4,No,18-30,11579.55,Medium
+1146,30,Female,Cardiology,Diabetes,6,94905.97,5.2,No,18-30,15817.66,Medium
+1147,79,Female,Orthopedics,Hypertension,13,44424.79,1.8,No,61-80,3417.29,Low
+1148,60,Female,Pediatrics,Fracture,12,36059.5,6.5,No,46-60,3004.96,Medium
+1149,60,Female,Pediatrics,Diabetes,1,62635.49,3.6,No,46-60,62635.49,Low
+1150,65,Female,General Medicine,Diabetes,11,93392.62,2.4,No,61-80,8490.24,Low
+1151,28,Male,Neurology,Hypertension,7,84508.14,5.9,Yes,18-30,12072.59,Medium
+1152,68,Male,Neurology,Migraine,1,99570.94,5.8,No,61-80,99570.94,Medium
+1153,64,Male,General Medicine,Diabetes,11,7144.02,1.7,No,61-80,649.46,Low
+1154,74,Female,General Medicine,Migraine,2,15721.52,7.3,No,61-80,7860.76,High
+1155,40,Male,General Medicine,Migraine,2,62899.44,6.6,No,31-45,31449.72,Medium
+1156,72,Male,Neurology,Infection,5,82954.76,2.7,No,61-80,16590.95,Low
+1157,33,Male,General Medicine,Hypertension,14,32098.21,5.2,No,31-45,2292.73,Medium
+1158,48,Male,Cardiology,Migraine,10,27725.05,7.5,Yes,46-60,2772.5,High
+1159,28,Male,Pediatrics,Hypertension,13,79762.7,5.8,No,18-30,6135.59,Medium
+1160,71,Female,Pediatrics,Infection,7,10356.28,4.6,No,61-80,1479.47,Medium
+1161,33,Female,Orthopedics,Hypertension,1,40091.35,3.9,No,31-45,40091.35,Low
+1162,25,Male,Orthopedics,Diabetes,10,53051.88,6.5,Yes,18-30,5305.19,Medium
+1163,21,Male,Pediatrics,Migraine,1,58233.12,9.5,No,18-30,58233.12,High
+1164,57,Male,Cardiology,Hypertension,1,74218.44,7.0,Yes,46-60,74218.44,Medium
+1165,21,Female,Neurology,Fracture,6,38710.34,1.7,No,18-30,6451.72,Low
+1166,73,Female,Neurology,Hypertension,2,63205.01,5.1,No,61-80,31602.5,Medium
+1167,42,Male,Cardiology,Migraine,1,60610.67,9.0,Yes,31-45,60610.67,High
+1168,20,Female,Neurology,Infection,6,57023.53,1.9,No,18-30,9503.92,Low
+1169,49,Female,General Medicine,Infection,14,65845.91,9.9,No,46-60,4703.28,High
+1170,20,Male,Pediatrics,Migraine,2,29647.67,9.5,No,18-30,14823.84,High
+1171,44,Female,Pediatrics,Diabetes,6,13041.63,1.7,No,31-45,2173.6,Low
+1172,46,Female,Cardiology,Diabetes,10,16330.81,9.4,Yes,46-60,1633.08,High
+1173,49,Male,Neurology,Infection,8,26335.33,4.3,No,46-60,3291.92,Medium
+1174,67,Female,Orthopedics,Infection,2,52518.8,8.6,Yes,61-80,26259.4,High
+1175,78,Female,Orthopedics,Migraine,11,84842.06,4.8,No,61-80,7712.91,Medium
+1176,75,Male,Neurology,Diabetes,9,71622.87,5.0,No,61-80,7958.1,Medium
+1177,68,Female,Orthopedics,Infection,8,79958.86,6.7,No,61-80,9994.86,Medium
+1178,36,Female,Cardiology,Diabetes,12,38342.68,8.0,No,31-45,3195.22,High
+1179,38,Male,Cardiology,Infection,10,43442.11,1.3,No,31-45,4344.21,Low
+1180,22,Male,Neurology,Hypertension,1,42399.78,6.3,No,18-30,42399.78,Medium
+1181,35,Male,Orthopedics,Fracture,7,23227.95,2.7,No,31-45,3318.28,Low
+1182,45,Female,Cardiology,Hypertension,14,10815.58,4.1,Yes,31-45,772.54,Medium
+1183,59,Male,Cardiology,Infection,13,61137.03,4.1,No,46-60,4702.85,Medium
+1184,78,Female,General Medicine,Fracture,10,98975.58,5.2,No,61-80,9897.56,Medium
+1185,39,Male,General Medicine,Fracture,6,20848.82,4.0,No,31-45,3474.8,Low
+1186,38,Female,Cardiology,Infection,14,9435.06,2.0,No,31-45,673.93,Low
+1187,23,Male,Neurology,Infection,6,79055.51,2.3,No,18-30,13175.92,Low
+1188,18,Male,Pediatrics,Diabetes,6,28995.67,1.3,No,18-30,4832.61,Low
+1189,22,Male,Pediatrics,Infection,6,83816.16,5.2,No,18-30,13969.36,Medium
+1190,58,Male,Cardiology,Migraine,10,71873.98,9.6,No,46-60,7187.4,High
+1191,29,Female,Cardiology,Infection,7,94838.99,2.0,No,18-30,13548.43,Low
+1192,43,Male,Cardiology,Migraine,12,43848.09,9.5,No,31-45,3654.01,High
+1193,63,Male,Neurology,Infection,3,67887.13,7.6,No,61-80,22629.04,High
+1194,51,Female,General Medicine,Diabetes,14,49161.2,6.7,No,46-60,3511.51,Medium
+1195,66,Male,Cardiology,Migraine,6,64905.93,6.8,No,61-80,10817.66,Medium
+1196,31,Female,Cardiology,Hypertension,3,47711.9,8.4,No,31-45,15903.97,High
+1197,43,Male,Orthopedics,Migraine,7,22920.06,2.0,No,31-45,3274.29,Low
+1198,62,Male,Neurology,Diabetes,7,53250.25,5.5,No,61-80,7607.18,Medium
+1199,44,Male,Cardiology,Migraine,8,55215.5,7.3,Yes,31-45,6901.94,High
+1200,26,Female,Orthopedics,Infection,2,82007.37,6.3,No,18-30,41003.68,Medium
+1201,43,Male,Pediatrics,Infection,9,74874.47,8.5,No,31-45,8319.39,High
+1202,74,Male,Cardiology,Diabetes,13,68060.2,1.7,No,61-80,5235.4,Low
+1203,64,Male,Cardiology,Fracture,5,15771.77,7.2,No,61-80,3154.35,High
+1204,74,Female,Orthopedics,Infection,9,73458.55,5.8,No,61-80,8162.06,Medium
+1205,39,Female,Neurology,Hypertension,10,52528.99,4.4,No,31-45,5252.9,Medium
+1206,64,Male,Cardiology,Diabetes,5,89939.46,4.1,No,61-80,17987.89,Medium
+1207,73,Female,Pediatrics,Migraine,7,92387.74,6.6,Yes,61-80,13198.25,Medium
+1208,47,Male,Cardiology,Migraine,11,10239.88,9.0,No,46-60,930.9,High
+1209,60,Male,Pediatrics,Hypertension,9,82960.95,5.5,Yes,46-60,9217.88,Medium
+1210,80,Male,General Medicine,Infection,4,8581.25,8.4,No,61-80,2145.31,High
+1211,65,Male,General Medicine,Diabetes,2,39881.11,4.6,No,61-80,19940.56,Medium
+1212,78,Male,Pediatrics,Hypertension,9,56518.5,1.9,No,61-80,6279.83,Low
+1213,34,Male,Neurology,Infection,13,19069.58,1.6,Yes,31-45,1466.89,Low
+1214,43,Male,Cardiology,Diabetes,2,75899.81,1.5,No,31-45,37949.9,Low
+1215,53,Female,Cardiology,Migraine,3,5793.7,4.4,No,46-60,1931.23,Medium
+1216,18,Female,General Medicine,Diabetes,10,21016.91,4.0,No,18-30,2101.69,Low
+1217,25,Female,Pediatrics,Fracture,2,60175.7,7.5,No,18-30,30087.85,High
+1218,66,Female,Cardiology,Diabetes,3,72866.82,7.7,No,61-80,24288.94,High
+1219,52,Female,Cardiology,Fracture,6,92081.09,1.5,No,46-60,15346.85,Low
+1220,78,Female,Neurology,Diabetes,3,72022.18,3.0,No,61-80,24007.39,Low
+1221,69,Female,Orthopedics,Fracture,10,68819.03,3.5,Yes,61-80,6881.9,Low
+1222,32,Male,General Medicine,Migraine,8,42462.41,5.9,No,31-45,5307.8,Medium
+1223,64,Male,General Medicine,Infection,11,5122.02,2.3,No,61-80,465.64,Low
+1224,80,Male,Orthopedics,Fracture,6,16415.13,2.2,No,61-80,2735.86,Low
+1225,73,Male,Cardiology,Fracture,7,55782.68,9.5,No,61-80,7968.95,High
+1226,39,Female,Neurology,Migraine,1,69137.34,8.2,No,31-45,69137.34,High
+1227,31,Female,Neurology,Fracture,3,44657.59,2.6,No,31-45,14885.86,Low
+1228,43,Male,General Medicine,Hypertension,3,74414.51,4.7,Yes,31-45,24804.84,Medium
+1229,45,Male,Neurology,Migraine,2,54576.92,4.2,No,31-45,27288.46,Medium
+1230,40,Female,Orthopedics,Hypertension,7,12046.74,8.1,No,31-45,1720.96,High
+1231,31,Male,Cardiology,Migraine,9,23241.54,5.6,No,31-45,2582.39,Medium
+1232,41,Male,Orthopedics,Fracture,4,84799.83,2.2,No,31-45,21199.96,Low
+1233,19,Male,Pediatrics,Hypertension,12,73866.71,7.7,No,18-30,6155.56,High
+1234,62,Male,General Medicine,Fracture,5,90002.39,4.6,No,61-80,18000.48,Medium
+1235,43,Female,Neurology,Migraine,3,16167.94,3.4,No,31-45,5389.31,Low
+1236,31,Male,Pediatrics,Fracture,11,99071.14,4.4,No,31-45,9006.47,Medium
+1237,76,Male,Neurology,Hypertension,9,24893.64,5.5,No,61-80,2765.96,Medium
+1238,73,Female,Cardiology,Hypertension,14,6119.09,4.1,Yes,61-80,437.08,Medium
+1239,68,Female,Cardiology,Fracture,4,99755.18,3.2,No,61-80,24938.8,Low
+1240,24,Male,Cardiology,Diabetes,5,31702.02,4.6,No,18-30,6340.4,Medium
+1241,20,Female,Neurology,Migraine,1,68461.85,1.2,No,18-30,68461.85,Low
+1242,64,Male,Pediatrics,Migraine,11,21784.82,8.0,No,61-80,1980.44,High
+1243,40,Male,Cardiology,Fracture,12,60121.71,2.5,No,31-45,5010.14,Low
+1244,63,Female,Pediatrics,Diabetes,13,90883.32,1.4,No,61-80,6991.02,Low
+1245,60,Male,Neurology,Hypertension,2,35417.21,6.9,No,46-60,17708.6,Medium
+1246,64,Male,Pediatrics,Infection,12,68674.13,8.0,No,61-80,5722.84,High
+1247,77,Male,Neurology,Infection,13,22850.84,8.3,No,61-80,1757.76,High
+1248,62,Male,Neurology,Fracture,9,64355.56,5.4,No,61-80,7150.62,Medium
+1249,35,Female,General Medicine,Diabetes,2,36962.78,2.8,Yes,31-45,18481.39,Low
+1250,75,Female,Neurology,Diabetes,5,25064.78,7.6,No,61-80,5012.96,High
+1251,55,Male,Neurology,Migraine,13,34752.29,7.3,No,46-60,2673.25,High
+1252,52,Female,Orthopedics,Hypertension,8,21989.9,3.2,No,46-60,2748.74,Low
+1253,68,Male,Cardiology,Diabetes,3,90682.03,9.1,No,61-80,30227.34,High
+1254,32,Male,General Medicine,Infection,6,42732.75,1.9,No,31-45,7122.12,Low
+1255,42,Male,General Medicine,Hypertension,4,28301.53,9.8,Yes,31-45,7075.38,High
+1256,72,Male,General Medicine,Hypertension,11,47598.74,8.7,No,61-80,4327.16,High
+1257,54,Male,Orthopedics,Fracture,7,35450.94,7.2,No,46-60,5064.42,High
+1258,45,Female,Neurology,Diabetes,10,75719.83,9.4,Yes,31-45,7571.98,High
+1259,27,Male,Cardiology,Fracture,14,97265.89,7.5,No,18-30,6947.56,High
+1260,56,Female,Pediatrics,Diabetes,13,46613.2,2.7,Yes,46-60,3585.63,Low
+1261,74,Female,Neurology,Migraine,3,86798.17,5.0,No,61-80,28932.72,Medium
+1262,34,Male,Orthopedics,Fracture,6,58756.99,1.6,No,31-45,9792.83,Low
+1263,56,Male,Neurology,Fracture,12,19937.39,4.5,Yes,46-60,1661.45,Medium
+1264,39,Male,Neurology,Infection,10,70609.16,7.7,Yes,31-45,7060.92,High
+1265,43,Male,Orthopedics,Fracture,9,53776.28,4.5,Yes,31-45,5975.14,Medium
+1266,79,Male,General Medicine,Diabetes,11,66807.62,4.0,Yes,61-80,6073.42,Low
+1267,61,Female,General Medicine,Infection,10,89520.3,6.4,No,61-80,8952.03,Medium
+1268,42,Male,Cardiology,Fracture,1,46841.28,8.8,No,31-45,46841.28,High
+1269,34,Male,Cardiology,Fracture,3,90611.87,1.4,No,31-45,30203.96,Low
+1270,30,Female,General Medicine,Migraine,2,76313.56,4.5,No,18-30,38156.78,Medium
+1271,37,Female,Pediatrics,Fracture,8,51417.47,2.4,No,31-45,6427.18,Low
+1272,42,Male,Neurology,Hypertension,7,62306.1,7.3,No,31-45,8900.87,High
+1273,21,Female,Pediatrics,Infection,2,35930.21,2.0,No,18-30,17965.1,Low
+1274,27,Male,Neurology,Hypertension,6,98441.74,7.0,No,18-30,16406.96,Medium
+1275,20,Female,General Medicine,Infection,3,68398.36,3.6,No,18-30,22799.45,Low
+1276,58,Female,Cardiology,Migraine,8,9165.45,2.8,No,46-60,1145.68,Low
+1277,62,Male,Cardiology,Fracture,10,36029.08,9.4,No,61-80,3602.91,High
+1278,35,Female,Pediatrics,Fracture,13,64214.87,1.2,No,31-45,4939.61,Low
+1279,64,Female,Cardiology,Fracture,3,10351.66,4.9,No,61-80,3450.55,Medium
+1280,53,Female,General Medicine,Infection,10,7269.0,1.2,No,46-60,726.9,Low
+1281,64,Female,Pediatrics,Fracture,14,47752.3,5.4,No,61-80,3410.88,Medium
+1282,39,Female,Neurology,Hypertension,9,36605.57,5.5,No,31-45,4067.29,Medium
+1283,51,Female,Cardiology,Fracture,1,46638.37,3.9,No,46-60,46638.37,Low
+1284,64,Male,Orthopedics,Migraine,5,29955.86,2.2,No,61-80,5991.17,Low
+1285,25,Male,Cardiology,Hypertension,3,20648.19,4.4,No,18-30,6882.73,Medium
+1286,57,Female,Neurology,Fracture,6,70468.62,7.1,Yes,46-60,11744.77,High
+1287,66,Male,Pediatrics,Fracture,10,53884.26,8.0,No,61-80,5388.43,High
+1288,61,Male,Neurology,Diabetes,2,24014.65,5.8,No,61-80,12007.32,Medium
+1289,36,Male,Orthopedics,Infection,9,35361.0,6.3,Yes,31-45,3929.0,Medium
+1290,59,Female,General Medicine,Hypertension,6,61221.75,2.8,No,46-60,10203.62,Low
+1291,58,Male,Cardiology,Diabetes,7,11861.79,3.6,No,46-60,1694.54,Low
+1292,54,Female,Pediatrics,Migraine,5,19008.04,2.5,No,46-60,3801.61,Low
+1293,23,Male,General Medicine,Infection,9,11958.33,3.2,Yes,18-30,1328.7,Low
+1294,69,Female,Neurology,Hypertension,1,82170.15,3.0,No,61-80,82170.15,Low
+1295,43,Female,Pediatrics,Fracture,5,76478.88,5.7,No,31-45,15295.78,Medium
+1296,51,Male,General Medicine,Hypertension,11,76564.73,6.1,No,46-60,6960.43,Medium
+1297,76,Male,Pediatrics,Fracture,10,73050.91,9.5,No,61-80,7305.09,High
+1298,73,Female,Orthopedics,Infection,11,68591.62,2.8,No,61-80,6235.6,Low
+1299,76,Male,Orthopedics,Fracture,6,50314.23,6.8,No,61-80,8385.7,Medium
+1300,62,Male,Cardiology,Migraine,7,66016.43,8.4,No,61-80,9430.92,High
+1301,23,Male,Cardiology,Fracture,12,8644.35,6.0,No,18-30,720.36,Medium
+1302,54,Female,Orthopedics,Migraine,4,64039.12,3.3,No,46-60,16009.78,Low
+1303,74,Female,Pediatrics,Infection,12,78898.38,3.4,No,61-80,6574.87,Low
+1304,50,Male,Orthopedics,Infection,13,52534.04,1.4,No,46-60,4041.08,Low
+1305,70,Male,Cardiology,Hypertension,1,38963.77,3.7,No,61-80,38963.77,Low
+1306,39,Male,Orthopedics,Migraine,11,31355.54,7.7,No,31-45,2850.5,High
+1307,38,Female,Orthopedics,Migraine,8,66066.19,1.4,No,31-45,8258.27,Low
+1308,23,Female,Pediatrics,Diabetes,10,70816.11,3.0,No,18-30,7081.61,Low
+1309,23,Male,General Medicine,Diabetes,4,87741.92,7.4,No,18-30,21935.48,High
+1310,72,Male,Cardiology,Diabetes,3,37521.74,8.0,Yes,61-80,12507.25,High
+1311,65,Male,Pediatrics,Fracture,12,78128.37,5.1,No,61-80,6510.7,Medium
+1312,21,Male,Orthopedics,Diabetes,7,58328.8,7.3,Yes,18-30,8332.69,High
+1313,47,Male,Orthopedics,Migraine,12,88869.47,4.5,No,46-60,7405.79,Medium
+1314,28,Male,General Medicine,Fracture,2,55142.15,2.4,No,18-30,27571.08,Low
+1315,79,Female,Cardiology,Infection,8,54174.83,4.6,Yes,61-80,6771.85,Medium
+1316,79,Male,Cardiology,Hypertension,14,59898.32,6.2,No,61-80,4278.45,Medium
+1317,47,Female,Neurology,Diabetes,6,76184.96,9.5,No,46-60,12697.49,High
+1318,48,Male,Cardiology,Infection,7,96645.6,1.6,No,46-60,13806.51,Low
+1319,41,Male,General Medicine,Migraine,14,11988.52,5.6,No,31-45,856.32,Medium
+1320,72,Female,Neurology,Hypertension,5,10076.29,4.0,No,61-80,2015.26,Low
+1321,26,Female,Neurology,Infection,9,94067.28,5.6,No,18-30,10451.92,Medium
+1322,72,Female,Orthopedics,Hypertension,5,55338.18,1.2,No,61-80,11067.64,Low
+1323,20,Female,Orthopedics,Diabetes,11,63415.79,3.8,No,18-30,5765.07,Low
+1324,68,Male,Cardiology,Migraine,5,50830.24,8.4,No,61-80,10166.05,High
+1325,48,Female,Neurology,Hypertension,3,13897.46,6.0,No,46-60,4632.49,Medium
+1326,57,Male,Orthopedics,Infection,11,77968.49,5.1,No,46-60,7088.04,Medium
+1327,54,Female,General Medicine,Diabetes,1,75986.34,3.6,Yes,46-60,75986.34,Low
+1328,53,Male,Orthopedics,Diabetes,2,34611.82,3.7,No,46-60,17305.91,Low
+1329,41,Male,Orthopedics,Infection,8,34092.73,4.4,No,31-45,4261.59,Medium
+1330,48,Male,Neurology,Infection,1,84594.93,8.5,No,46-60,84594.93,High
+1331,23,Male,Neurology,Hypertension,7,11873.94,9.7,No,18-30,1696.28,High
+1332,19,Male,Pediatrics,Fracture,14,88704.99,4.9,No,18-30,6336.07,Medium
+1333,37,Male,General Medicine,Diabetes,14,29382.86,4.5,No,31-45,2098.78,Medium
+1334,45,Female,Neurology,Hypertension,5,61333.55,8.6,No,31-45,12266.71,High
+1335,28,Male,Cardiology,Infection,3,93919.45,4.8,No,18-30,31306.48,Medium
+1336,21,Female,General Medicine,Hypertension,12,69421.64,6.0,No,18-30,5785.14,Medium
+1337,32,Female,General Medicine,Infection,12,44370.83,3.1,No,31-45,3697.57,Low
+1338,23,Male,Neurology,Migraine,11,70505.75,7.7,No,18-30,6409.61,High
+1339,71,Female,General Medicine,Infection,7,37678.07,5.8,No,61-80,5382.58,Medium
+1340,66,Male,Neurology,Infection,9,31339.55,8.3,Yes,61-80,3482.17,High
+1341,47,Female,Orthopedics,Infection,2,99684.91,8.0,Yes,46-60,49842.46,High
+1342,73,Male,Pediatrics,Fracture,8,76325.07,2.9,No,61-80,9540.63,Low
+1343,55,Female,Orthopedics,Infection,9,66248.4,7.4,Yes,46-60,7360.93,High
+1344,68,Male,Neurology,Diabetes,11,38752.52,8.2,No,61-80,3522.96,High
+1345,79,Male,Neurology,Diabetes,3,9670.28,4.1,Yes,61-80,3223.43,Medium
+1346,74,Male,Orthopedics,Hypertension,2,7950.4,2.6,No,61-80,3975.2,Low
+1347,19,Male,Cardiology,Fracture,7,57647.22,1.0,No,18-30,8235.32,Low
+1348,32,Female,Cardiology,Hypertension,5,77393.11,5.1,No,31-45,15478.62,Medium
+1349,28,Male,Cardiology,Diabetes,5,56051.02,4.2,No,18-30,11210.2,Medium
+1350,25,Female,Neurology,Diabetes,10,84874.58,6.0,No,18-30,8487.46,Medium
+1351,43,Female,General Medicine,Migraine,5,8175.52,2.7,No,31-45,1635.1,Low
+1352,68,Female,Neurology,Infection,4,39841.45,8.7,Yes,61-80,9960.36,High
+1353,62,Male,General Medicine,Diabetes,13,27521.69,3.3,No,61-80,2117.05,Low
+1354,61,Female,Orthopedics,Hypertension,5,47490.93,3.0,No,61-80,9498.19,Low
+1355,22,Female,Pediatrics,Hypertension,13,11875.76,5.3,No,18-30,913.52,Medium
+1356,23,Female,General Medicine,Infection,4,95642.51,5.5,No,18-30,23910.63,Medium
+1357,43,Male,Cardiology,Infection,13,26209.26,2.9,Yes,31-45,2016.1,Low
+1358,71,Male,Neurology,Migraine,6,92619.24,3.4,No,61-80,15436.54,Low
+1359,21,Female,Orthopedics,Fracture,4,45459.85,2.5,No,18-30,11364.96,Low
+1360,36,Male,Cardiology,Hypertension,2,98624.79,7.5,No,31-45,49312.4,High
+1361,37,Male,Orthopedics,Infection,9,57635.55,7.9,Yes,31-45,6403.95,High
+1362,50,Female,Pediatrics,Hypertension,2,93429.12,5.2,No,46-60,46714.56,Medium
+1363,37,Female,Neurology,Infection,9,5508.15,7.4,No,31-45,612.02,High
+1364,66,Male,Neurology,Diabetes,10,76082.69,7.6,No,61-80,7608.27,High
+1365,29,Female,Pediatrics,Hypertension,6,90789.81,2.2,No,18-30,15131.64,Low
+1366,64,Male,Neurology,Diabetes,9,18273.45,9.7,No,61-80,2030.38,High
+1367,18,Male,General Medicine,Hypertension,9,14131.96,8.4,No,18-30,1570.22,High
+1368,43,Male,Orthopedics,Fracture,3,45334.4,2.8,No,31-45,15111.47,Low
+1369,31,Male,Cardiology,Migraine,1,93699.5,2.7,Yes,31-45,93699.5,Low
+1370,55,Male,Pediatrics,Diabetes,1,56526.72,2.1,Yes,46-60,56526.72,Low
+1371,54,Male,General Medicine,Infection,3,55108.36,2.2,No,46-60,18369.45,Low
+1372,79,Female,Cardiology,Fracture,5,18406.98,7.7,No,61-80,3681.4,High
+1373,28,Female,Cardiology,Hypertension,13,5075.0,5.2,No,18-30,390.38,Medium
+1374,80,Male,Pediatrics,Diabetes,3,81963.31,8.0,No,61-80,27321.1,High
+1375,53,Male,General Medicine,Hypertension,12,13319.58,7.7,No,46-60,1109.96,High
+1376,30,Male,Cardiology,Hypertension,9,65215.73,6.4,No,18-30,7246.19,Medium
+1377,60,Female,Cardiology,Hypertension,9,91888.56,7.2,No,46-60,10209.84,High
+1378,20,Male,General Medicine,Migraine,3,24821.93,1.2,No,18-30,8273.98,Low
+1379,50,Female,Neurology,Migraine,3,68200.92,3.8,No,46-60,22733.64,Low
+1380,23,Male,Cardiology,Infection,12,12476.36,6.7,No,18-30,1039.7,Medium
+1381,67,Male,Orthopedics,Diabetes,14,62356.74,1.1,No,61-80,4454.05,Low
+1382,73,Female,General Medicine,Fracture,5,20573.51,1.3,No,61-80,4114.7,Low
+1383,27,Female,Cardiology,Fracture,2,74915.59,8.7,No,18-30,37457.8,High
+1384,22,Male,Pediatrics,Fracture,6,33616.97,7.2,No,18-30,5602.83,High
+1385,40,Male,Orthopedics,Hypertension,7,49022.15,3.4,No,31-45,7003.16,Low
+1386,27,Male,Cardiology,Migraine,13,61945.9,7.2,No,18-30,4765.07,High
+1387,61,Female,Orthopedics,Diabetes,9,21270.97,8.1,Yes,61-80,2363.44,High
+1388,19,Female,Orthopedics,Hypertension,6,75455.59,3.8,Yes,18-30,12575.93,Low
+1389,30,Female,Neurology,Migraine,3,33750.83,1.3,No,18-30,11250.28,Low
+1390,57,Female,Orthopedics,Migraine,12,67925.33,9.4,Yes,46-60,5660.44,High
+1391,19,Female,Neurology,Diabetes,5,20036.89,4.1,No,18-30,4007.38,Medium
+1392,37,Female,General Medicine,Diabetes,4,70371.18,2.0,No,31-45,17592.79,Low
+1393,18,Male,Neurology,Diabetes,5,17177.87,5.4,No,18-30,3435.57,Medium
+1394,80,Male,Pediatrics,Hypertension,8,45408.87,7.9,No,61-80,5676.11,High
+1395,54,Female,Cardiology,Infection,8,28484.58,3.0,No,46-60,3560.57,Low
+1396,26,Male,General Medicine,Diabetes,6,76095.65,3.4,No,18-30,12682.61,Low
+1397,34,Male,General Medicine,Infection,1,29893.33,3.2,No,31-45,29893.33,Low
+1398,26,Female,Pediatrics,Hypertension,8,88763.14,9.9,No,18-30,11095.39,High
+1399,28,Male,Neurology,Infection,8,89722.92,2.8,No,18-30,11215.36,Low
+1400,32,Female,Cardiology,Fracture,2,23661.92,6.2,No,31-45,11830.96,Medium
+1401,41,Female,Neurology,Infection,4,63315.36,9.3,No,31-45,15828.84,High
+1402,55,Male,Orthopedics,Diabetes,12,13333.18,2.3,Yes,46-60,1111.1,Low
+1403,72,Female,Neurology,Hypertension,2,42196.02,9.7,No,61-80,21098.01,High
+1404,52,Female,General Medicine,Diabetes,4,72765.56,9.5,No,46-60,18191.39,High
+1405,47,Female,Cardiology,Fracture,12,67645.21,9.0,No,46-60,5637.1,High
+1406,48,Female,Neurology,Diabetes,13,64346.56,2.9,No,46-60,4949.74,Low
+1407,66,Female,Cardiology,Diabetes,13,31841.38,6.7,No,61-80,2449.34,Medium
+1408,22,Female,Cardiology,Diabetes,10,40912.37,7.8,Yes,18-30,4091.24,High
+1409,79,Female,Orthopedics,Migraine,7,14779.88,9.9,Yes,61-80,2111.41,High
+1410,77,Female,Orthopedics,Fracture,9,73307.17,2.6,Yes,61-80,8145.24,Low
+1411,61,Male,General Medicine,Diabetes,14,52869.44,7.9,Yes,61-80,3776.39,High
+1412,67,Male,Pediatrics,Diabetes,14,72332.74,4.0,Yes,61-80,5166.62,Low
+1413,31,Male,Cardiology,Diabetes,8,28649.63,2.6,No,31-45,3581.2,Low
+1414,70,Female,Pediatrics,Hypertension,12,35821.63,4.8,No,61-80,2985.14,Medium
+1415,73,Female,General Medicine,Migraine,9,36750.46,8.1,No,61-80,4083.38,High
+1416,28,Male,Cardiology,Hypertension,8,7445.53,5.2,No,18-30,930.69,Medium
+1417,26,Male,Cardiology,Migraine,2,37399.55,5.8,Yes,18-30,18699.78,Medium
+1418,51,Male,Pediatrics,Diabetes,7,81313.93,10.0,No,46-60,11616.28,High
+1419,29,Female,Neurology,Fracture,2,90243.36,4.6,No,18-30,45121.68,Medium
+1420,52,Male,Orthopedics,Infection,13,54230.74,6.5,No,46-60,4171.6,Medium
+1421,52,Male,Neurology,Infection,12,48272.66,4.3,No,46-60,4022.72,Medium
+1422,18,Female,Pediatrics,Diabetes,11,7928.34,4.5,No,18-30,720.76,Medium
+1423,57,Male,Orthopedics,Hypertension,2,88524.41,7.3,No,46-60,44262.2,High
+1424,39,Female,Neurology,Fracture,4,6235.97,9.4,No,31-45,1558.99,High
+1425,77,Female,Orthopedics,Migraine,1,94751.26,5.9,No,61-80,94751.26,Medium
+1426,46,Female,Cardiology,Diabetes,5,51475.54,7.9,No,46-60,10295.11,High
+1427,25,Male,Neurology,Fracture,6,37483.78,1.8,No,18-30,6247.3,Low
+1428,28,Male,Orthopedics,Fracture,9,92800.75,2.9,No,18-30,10311.19,Low
+1429,58,Female,Orthopedics,Migraine,10,7317.14,5.5,No,46-60,731.71,Medium
+1430,54,Male,Orthopedics,Fracture,8,60235.37,1.2,No,46-60,7529.42,Low
+1431,31,Male,Neurology,Hypertension,2,57148.59,3.3,No,31-45,28574.3,Low
+1432,77,Male,General Medicine,Hypertension,1,25835.44,5.7,Yes,61-80,25835.44,Medium
+1433,47,Male,Neurology,Hypertension,2,45744.31,1.1,No,46-60,22872.16,Low
+1434,52,Female,Pediatrics,Fracture,7,66965.08,3.4,No,46-60,9566.44,Low
+1435,38,Male,Neurology,Hypertension,4,74077.46,5.6,No,31-45,18519.37,Medium
+1436,54,Female,Orthopedics,Migraine,10,5068.1,6.2,No,46-60,506.81,Medium
+1437,22,Female,Cardiology,Fracture,5,94001.08,9.3,No,18-30,18800.22,High
+1438,36,Male,Neurology,Infection,12,20629.91,6.8,No,31-45,1719.16,Medium
+1439,76,Female,Neurology,Fracture,7,27190.14,4.7,Yes,61-80,3884.31,Medium
+1440,31,Male,Orthopedics,Migraine,3,30029.98,9.4,No,31-45,10009.99,High
+1441,43,Male,Cardiology,Infection,10,8592.91,8.1,No,31-45,859.29,High
+1442,79,Female,Cardiology,Fracture,2,16689.95,2.8,No,61-80,8344.98,Low
+1443,21,Female,Pediatrics,Hypertension,13,98703.24,2.2,No,18-30,7592.56,Low
+1444,42,Female,Neurology,Diabetes,7,34945.59,7.1,No,31-45,4992.23,High
+1445,62,Female,Cardiology,Diabetes,5,15953.6,6.0,No,61-80,3190.72,Medium
+1446,59,Male,Cardiology,Hypertension,14,15164.17,8.1,Yes,46-60,1083.16,High
+1447,42,Male,General Medicine,Diabetes,1,73348.7,7.6,No,31-45,73348.7,High
+1448,35,Male,General Medicine,Diabetes,1,86184.02,6.6,Yes,31-45,86184.02,Medium
+1449,57,Female,Cardiology,Hypertension,9,29410.47,9.9,Yes,46-60,3267.83,High
+1450,25,Female,Pediatrics,Hypertension,5,6986.4,5.8,Yes,18-30,1397.28,Medium
+1451,56,Female,Cardiology,Fracture,1,26193.55,2.0,No,46-60,26193.55,Low
+1452,57,Male,Orthopedics,Fracture,7,10368.99,8.5,No,46-60,1481.28,High
+1453,31,Female,Neurology,Hypertension,9,14822.52,3.3,No,31-45,1646.95,Low
+1454,49,Male,Pediatrics,Migraine,11,45993.27,8.0,No,46-60,4181.21,High
+1455,68,Female,Orthopedics,Diabetes,1,26842.25,9.6,No,61-80,26842.25,High
+1456,78,Male,Pediatrics,Fracture,10,54014.86,7.3,No,61-80,5401.49,High
+1457,55,Male,Orthopedics,Diabetes,14,29081.91,6.4,No,46-60,2077.28,Medium
+1458,50,Female,Neurology,Infection,13,94351.04,5.1,No,46-60,7257.77,Medium
+1459,40,Female,Neurology,Hypertension,4,91064.68,4.3,No,31-45,22766.17,Medium
+1460,80,Male,General Medicine,Migraine,14,58846.58,4.2,No,61-80,4203.33,Medium
+1461,32,Male,Orthopedics,Infection,3,38670.28,6.7,No,31-45,12890.09,Medium
+1462,50,Female,General Medicine,Infection,5,41208.95,7.8,No,46-60,8241.79,High
+1463,42,Female,Orthopedics,Infection,7,44125.97,7.1,No,31-45,6303.71,High
+1464,34,Male,General Medicine,Hypertension,8,74120.04,2.8,No,31-45,9265.0,Low
+1465,50,Female,Neurology,Fracture,13,47905.7,5.4,No,46-60,3685.05,Medium
+1466,64,Male,Pediatrics,Hypertension,2,86389.34,8.1,No,61-80,43194.67,High
+1467,72,Male,General Medicine,Fracture,7,94689.0,5.3,No,61-80,13527.0,Medium
+1468,19,Female,Orthopedics,Infection,14,36914.88,5.8,No,18-30,2636.78,Medium
+1469,31,Female,Orthopedics,Infection,14,58265.98,7.9,No,31-45,4161.86,High
+1470,70,Female,Neurology,Migraine,1,14030.37,7.0,Yes,61-80,14030.37,Medium
+1471,57,Female,Orthopedics,Fracture,7,24044.56,4.7,No,46-60,3434.94,Medium
+1472,57,Female,Cardiology,Infection,8,44279.25,9.1,No,46-60,5534.91,High
+1473,68,Male,Pediatrics,Diabetes,2,24589.26,2.5,No,61-80,12294.63,Low
+1474,56,Male,General Medicine,Migraine,9,88273.25,10.0,No,46-60,9808.14,High
+1475,68,Female,Pediatrics,Hypertension,1,20037.19,2.1,No,61-80,20037.19,Low
+1476,23,Female,Neurology,Migraine,13,48287.78,1.1,Yes,18-30,3714.44,Low
+1477,23,Female,General Medicine,Diabetes,6,62541.43,9.0,No,18-30,10423.57,High
+1478,20,Male,General Medicine,Fracture,1,70727.07,3.2,No,18-30,70727.07,Low
+1479,24,Female,Cardiology,Hypertension,3,41391.59,7.6,Yes,18-30,13797.2,High
+1480,68,Female,Neurology,Hypertension,11,87564.41,8.3,No,61-80,7960.4,High
+1481,25,Male,Orthopedics,Fracture,6,58990.32,8.7,Yes,18-30,9831.72,High
+1482,59,Male,Cardiology,Migraine,3,46753.24,9.9,No,46-60,15584.41,High
+1483,69,Female,Cardiology,Infection,8,11387.86,3.6,No,61-80,1423.48,Low
+1484,32,Female,Pediatrics,Migraine,5,49145.5,7.4,No,31-45,9829.1,High
+1485,64,Female,Pediatrics,Diabetes,2,82969.9,2.0,No,61-80,41484.95,Low
+1486,46,Male,Pediatrics,Infection,4,63381.4,4.7,Yes,46-60,15845.35,Medium
+1487,50,Female,Cardiology,Migraine,9,84055.43,8.6,No,46-60,9339.49,High
+1488,69,Female,Orthopedics,Fracture,4,51931.11,4.3,No,61-80,12982.78,Medium
+1489,47,Female,General Medicine,Diabetes,10,16253.86,6.3,No,46-60,1625.39,Medium
+1490,56,Male,Pediatrics,Diabetes,10,6295.79,5.5,No,46-60,629.58,Medium
+1491,44,Male,Orthopedics,Diabetes,8,33805.86,6.8,No,31-45,4225.73,Medium
+1492,53,Female,Neurology,Infection,5,71309.09,9.8,No,46-60,14261.82,High
+1493,46,Female,Pediatrics,Hypertension,11,80074.69,1.5,No,46-60,7279.52,Low
+1494,55,Male,General Medicine,Infection,11,33096.52,6.2,No,46-60,3008.77,Medium
+1495,74,Male,Neurology,Migraine,10,52087.12,8.8,No,61-80,5208.71,High
+1496,50,Male,Neurology,Hypertension,13,45006.3,5.3,Yes,46-60,3462.02,Medium
+1497,78,Male,General Medicine,Migraine,13,43999.66,1.7,No,61-80,3384.59,Low
+1498,54,Male,Pediatrics,Hypertension,14,26978.13,6.0,No,46-60,1927.01,Medium
+1499,44,Male,Cardiology,Infection,1,17955.25,4.0,No,31-45,17955.25,Low
+1500,72,Male,General Medicine,Diabetes,7,23685.41,2.4,No,61-80,3383.63,Low
+1501,50,Male,General Medicine,Fracture,3,10256.58,8.6,No,46-60,3418.86,High
+1502,79,Male,General Medicine,Diabetes,10,23822.42,5.7,Yes,61-80,2382.24,Medium
+1503,21,Female,Neurology,Infection,8,5874.09,9.4,No,18-30,734.26,High
+1504,39,Female,Orthopedics,Hypertension,14,64589.55,8.3,No,31-45,4613.54,High
+1505,19,Female,Cardiology,Diabetes,12,35055.66,7.2,No,18-30,2921.3,High
+1506,27,Male,Pediatrics,Infection,3,97448.75,1.0,Yes,18-30,32482.92,Low
+1507,22,Female,Pediatrics,Migraine,1,23403.12,4.9,Yes,18-30,23403.12,Medium
+1508,76,Male,Orthopedics,Fracture,5,37853.71,2.8,Yes,61-80,7570.74,Low
+1509,27,Male,General Medicine,Diabetes,2,38994.91,9.2,No,18-30,19497.46,High
+1510,50,Female,Cardiology,Hypertension,11,5802.89,2.6,No,46-60,527.54,Low
+1511,71,Male,Pediatrics,Migraine,4,84724.76,3.6,No,61-80,21181.19,Low
+1512,55,Female,Pediatrics,Infection,1,8039.47,5.7,No,46-60,8039.47,Medium
+1513,30,Female,General Medicine,Fracture,9,94317.08,3.4,No,18-30,10479.68,Low
+1514,48,Female,Orthopedics,Hypertension,6,89747.06,2.9,No,46-60,14957.84,Low
+1515,64,Male,Cardiology,Infection,8,55874.58,6.4,No,61-80,6984.32,Medium
+1516,53,Female,Orthopedics,Infection,11,56641.58,1.8,No,46-60,5149.23,Low
+1517,62,Male,Orthopedics,Diabetes,4,67108.9,1.5,No,61-80,16777.22,Low
+1518,41,Female,Cardiology,Diabetes,9,41769.75,4.4,No,31-45,4641.08,Medium
+1519,69,Female,Cardiology,Hypertension,2,66486.12,7.5,No,61-80,33243.06,High
+1520,73,Female,Pediatrics,Infection,9,9253.0,6.0,No,61-80,1028.11,Medium
+1521,32,Male,Pediatrics,Diabetes,12,10134.52,4.8,No,31-45,844.54,Medium
+1522,46,Male,Cardiology,Fracture,5,48436.89,6.1,No,46-60,9687.38,Medium
+1523,25,Male,Neurology,Fracture,13,57214.12,4.3,No,18-30,4401.09,Medium
+1524,22,Female,Pediatrics,Infection,6,89342.68,9.4,Yes,18-30,14890.45,High
+1525,46,Female,Neurology,Diabetes,3,14942.76,1.5,No,46-60,4980.92,Low
+1526,64,Male,Cardiology,Hypertension,4,83151.55,7.1,Yes,61-80,20787.89,High
+1527,21,Male,Pediatrics,Hypertension,6,24954.5,9.0,No,18-30,4159.08,High
+1528,29,Male,Orthopedics,Hypertension,7,42437.95,8.2,No,18-30,6062.56,High
+1529,62,Male,Cardiology,Fracture,1,35077.23,2.7,No,61-80,35077.23,Low
+1530,19,Male,General Medicine,Diabetes,7,43014.75,3.7,No,18-30,6144.96,Low
+1531,44,Male,Neurology,Diabetes,1,19297.07,7.5,No,31-45,19297.07,High
+1532,48,Female,Cardiology,Fracture,5,52839.16,1.8,Yes,46-60,10567.83,Low
+1533,68,Male,Cardiology,Hypertension,6,81156.05,8.3,Yes,61-80,13526.01,High
+1534,68,Female,Pediatrics,Hypertension,13,46945.73,7.5,No,61-80,3611.21,High
+1535,53,Female,Pediatrics,Infection,2,51608.29,7.6,No,46-60,25804.14,High
+1536,53,Male,Pediatrics,Migraine,13,85632.92,1.9,No,46-60,6587.15,Low
+1537,43,Male,General Medicine,Diabetes,10,72075.52,7.5,Yes,31-45,7207.55,High
+1538,60,Female,Pediatrics,Diabetes,9,51593.17,7.1,No,46-60,5732.57,High
+1539,44,Male,Cardiology,Diabetes,14,29481.09,8.5,No,31-45,2105.79,High
+1540,22,Male,Pediatrics,Migraine,10,89068.04,1.4,Yes,18-30,8906.8,Low
+1541,37,Female,Orthopedics,Infection,6,59816.94,1.2,Yes,31-45,9969.49,Low
+1542,28,Female,Pediatrics,Migraine,7,26009.02,4.4,No,18-30,3715.57,Medium
+1543,79,Female,General Medicine,Hypertension,14,30566.38,2.3,No,61-80,2183.31,Low
+1544,27,Male,Orthopedics,Hypertension,10,81297.64,6.0,No,18-30,8129.76,Medium
+1545,57,Female,Cardiology,Diabetes,8,9193.83,9.3,No,46-60,1149.23,High
+1546,55,Male,Cardiology,Fracture,11,99248.76,4.5,No,46-60,9022.61,Medium
+1547,23,Female,Neurology,Diabetes,13,17383.41,8.6,No,18-30,1337.19,High
+1548,25,Female,Orthopedics,Fracture,10,80626.51,1.0,No,18-30,8062.65,Low
+1549,40,Female,Neurology,Migraine,1,42503.66,2.5,No,31-45,42503.66,Low
+1550,64,Male,Orthopedics,Hypertension,14,51760.54,1.3,Yes,61-80,3697.18,Low
+1551,43,Male,Orthopedics,Fracture,8,88661.8,4.0,No,31-45,11082.72,Low
+1552,63,Female,General Medicine,Migraine,4,44226.56,9.2,No,61-80,11056.64,High
+1553,60,Female,Neurology,Hypertension,10,56061.91,1.9,No,46-60,5606.19,Low
+1554,29,Female,General Medicine,Fracture,8,9683.47,6.5,No,18-30,1210.43,Medium
+1555,43,Male,Orthopedics,Diabetes,13,5223.01,5.1,No,31-45,401.77,Medium
+1556,30,Female,Cardiology,Diabetes,6,28255.99,9.4,No,18-30,4709.33,High
+1557,57,Male,Orthopedics,Diabetes,11,69655.39,2.1,No,46-60,6332.31,Low
+1558,79,Female,General Medicine,Migraine,9,16520.16,2.9,No,61-80,1835.57,Low
+1559,35,Female,Neurology,Diabetes,11,15807.39,1.3,No,31-45,1437.04,Low
+1560,42,Female,Neurology,Infection,4,44041.26,4.9,No,31-45,11010.32,Medium
+1561,50,Female,General Medicine,Hypertension,2,66544.52,3.5,No,46-60,33272.26,Low
+1562,64,Female,Neurology,Migraine,14,72646.84,8.8,No,61-80,5189.06,High
+1563,57,Female,Pediatrics,Diabetes,2,21952.81,6.4,Yes,46-60,10976.4,Medium
+1564,77,Male,Cardiology,Hypertension,5,12560.87,6.5,No,61-80,2512.17,Medium
+1565,60,Female,Cardiology,Fracture,10,94337.72,5.8,No,46-60,9433.77,Medium
+1566,29,Male,Cardiology,Diabetes,9,29763.31,1.8,No,18-30,3307.03,Low
+1567,61,Female,Neurology,Hypertension,12,86067.92,5.0,Yes,61-80,7172.33,Medium
+1568,53,Female,Neurology,Infection,3,87031.69,10.0,Yes,46-60,29010.56,High
+1569,65,Male,Orthopedics,Fracture,8,78389.65,8.5,No,61-80,9798.71,High
+1570,21,Female,Orthopedics,Infection,4,21039.19,9.0,No,18-30,5259.8,High
+1571,22,Male,Cardiology,Hypertension,6,83071.14,8.4,No,18-30,13845.19,High
+1572,73,Male,Pediatrics,Infection,10,78078.8,1.9,No,61-80,7807.88,Low
+1573,54,Female,Orthopedics,Hypertension,6,61688.68,3.0,Yes,46-60,10281.45,Low
+1574,25,Male,Orthopedics,Hypertension,3,37034.19,1.0,No,18-30,12344.73,Low
+1575,80,Male,Neurology,Infection,14,29938.32,3.7,No,61-80,2138.45,Low
+1576,59,Female,Pediatrics,Hypertension,5,16579.48,2.0,No,46-60,3315.9,Low
+1577,66,Male,Cardiology,Diabetes,12,53426.92,5.3,No,61-80,4452.24,Medium
+1578,45,Female,Orthopedics,Hypertension,3,60599.78,7.1,No,31-45,20199.93,High
+1579,48,Female,Pediatrics,Migraine,11,39137.2,8.9,Yes,46-60,3557.93,High
+1580,75,Female,Pediatrics,Hypertension,11,50159.11,7.7,No,61-80,4559.92,High
+1581,26,Female,Cardiology,Migraine,1,39533.87,9.4,Yes,18-30,39533.87,High
+1582,71,Male,Pediatrics,Hypertension,7,65895.58,1.5,Yes,61-80,9413.65,Low
+1583,68,Female,Pediatrics,Hypertension,4,90619.62,1.1,No,61-80,22654.9,Low
+1584,46,Female,Pediatrics,Infection,14,20572.42,7.0,No,46-60,1469.46,Medium
+1585,31,Male,Orthopedics,Diabetes,7,41233.84,3.6,No,31-45,5890.55,Low
+1586,57,Female,Cardiology,Diabetes,3,18382.52,3.3,No,46-60,6127.51,Low
+1587,58,Female,Pediatrics,Fracture,12,64369.66,4.0,No,46-60,5364.14,Low
+1588,39,Male,Pediatrics,Infection,11,74242.7,3.4,No,31-45,6749.34,Low
+1589,28,Male,Orthopedics,Infection,5,93531.71,5.6,No,18-30,18706.34,Medium
+1590,40,Male,Cardiology,Diabetes,5,31492.83,5.0,No,31-45,6298.57,Medium
+1591,18,Male,Neurology,Infection,13,95270.06,5.6,No,18-30,7328.47,Medium
+1592,63,Male,Orthopedics,Diabetes,2,11009.95,7.1,Yes,61-80,5504.98,High
+1593,54,Male,Cardiology,Infection,11,62286.32,4.5,Yes,46-60,5662.39,Medium
+1594,38,Male,Pediatrics,Hypertension,10,10427.61,3.3,No,31-45,1042.76,Low
+1595,43,Female,Cardiology,Diabetes,12,89908.55,2.5,No,31-45,7492.38,Low
+1596,63,Male,Cardiology,Diabetes,2,55331.86,4.1,No,61-80,27665.93,Medium
+1597,53,Male,Cardiology,Migraine,4,68588.09,7.7,No,46-60,17147.02,High
+1598,71,Male,Neurology,Infection,4,83999.52,7.8,No,61-80,20999.88,High
+1599,40,Female,Cardiology,Infection,4,19279.51,7.0,No,31-45,4819.88,Medium
+1600,74,Female,Neurology,Diabetes,6,8666.2,3.1,No,61-80,1444.37,Low
+1601,18,Male,Pediatrics,Hypertension,2,88493.71,6.3,No,18-30,44246.86,Medium
+1602,80,Male,Neurology,Hypertension,6,34918.66,6.1,No,61-80,5819.78,Medium
+1603,71,Male,Pediatrics,Hypertension,7,17253.0,5.4,No,61-80,2464.71,Medium
+1604,72,Female,Pediatrics,Infection,11,49503.82,5.9,No,61-80,4500.35,Medium
+1605,68,Female,Neurology,Migraine,10,61839.08,5.4,No,61-80,6183.91,Medium
+1606,57,Male,Orthopedics,Diabetes,3,7942.21,6.1,No,46-60,2647.4,Medium
+1607,32,Female,General Medicine,Fracture,11,31115.09,7.4,No,31-45,2828.64,High
+1608,38,Male,Cardiology,Migraine,12,8115.99,2.0,Yes,31-45,676.33,Low
+1609,64,Female,General Medicine,Fracture,8,44931.86,7.7,No,61-80,5616.48,High
+1610,26,Female,Cardiology,Migraine,2,90034.5,2.2,No,18-30,45017.25,Low
+1611,70,Male,Cardiology,Hypertension,11,98351.98,1.6,Yes,61-80,8941.09,Low
+1612,26,Male,Pediatrics,Infection,8,65519.52,9.8,No,18-30,8189.94,High
+1613,27,Male,Cardiology,Fracture,13,20355.58,9.6,No,18-30,1565.81,High
+1614,69,Male,Cardiology,Migraine,11,91055.69,1.5,No,61-80,8277.79,Low
+1615,74,Female,Neurology,Infection,5,54043.54,5.0,No,61-80,10808.71,Medium
+1616,70,Female,General Medicine,Fracture,2,19606.18,2.7,No,61-80,9803.09,Low
+1617,43,Female,Neurology,Diabetes,7,92564.03,5.4,No,31-45,13223.43,Medium
+1618,58,Male,Cardiology,Migraine,14,76959.56,8.5,No,46-60,5497.11,High
+1619,52,Female,Pediatrics,Diabetes,2,74512.0,9.6,No,46-60,37256.0,High
+1620,80,Male,Neurology,Hypertension,14,72372.17,6.7,No,61-80,5169.44,Medium
+1621,69,Female,Neurology,Diabetes,6,24032.28,4.2,Yes,61-80,4005.38,Medium
+1622,42,Male,Orthopedics,Diabetes,10,25045.64,6.4,Yes,31-45,2504.56,Medium
+1623,43,Male,Cardiology,Migraine,3,70387.83,3.8,No,31-45,23462.61,Low
+1624,28,Female,Pediatrics,Hypertension,9,25873.66,9.2,Yes,18-30,2874.85,High
+1625,55,Male,Neurology,Diabetes,3,46673.81,8.8,No,46-60,15557.94,High
+1626,19,Male,Neurology,Infection,11,79290.17,6.0,No,18-30,7208.2,Medium
+1627,24,Female,Pediatrics,Fracture,12,79475.49,3.9,No,18-30,6622.96,Low
+1628,35,Male,Cardiology,Diabetes,12,48059.87,3.6,No,31-45,4004.99,Low
+1629,44,Male,Orthopedics,Hypertension,3,80258.04,1.3,No,31-45,26752.68,Low
+1630,51,Male,Neurology,Diabetes,5,84669.07,8.3,No,46-60,16933.81,High
+1631,44,Female,Orthopedics,Fracture,7,67203.7,5.1,Yes,31-45,9600.53,Medium
+1632,34,Female,General Medicine,Hypertension,14,26700.46,3.9,No,31-45,1907.18,Low
+1633,60,Male,Cardiology,Migraine,8,31031.12,5.2,No,46-60,3878.89,Medium
+1634,76,Female,General Medicine,Hypertension,12,34909.91,8.4,Yes,61-80,2909.16,High
+1635,61,Male,General Medicine,Migraine,11,16096.39,2.1,No,61-80,1463.31,Low
+1636,76,Male,General Medicine,Hypertension,7,30950.16,8.7,Yes,61-80,4421.45,High
+1637,68,Male,Cardiology,Fracture,9,24904.33,9.1,No,61-80,2767.15,High
+1638,71,Male,Cardiology,Fracture,5,48256.23,9.5,No,61-80,9651.25,High
+1639,41,Male,Pediatrics,Hypertension,10,91301.57,4.6,No,31-45,9130.16,Medium
+1640,42,Female,Orthopedics,Diabetes,11,14925.63,3.0,No,31-45,1356.88,Low
+1641,24,Male,Orthopedics,Fracture,3,73425.45,4.4,No,18-30,24475.15,Medium
+1642,69,Female,Pediatrics,Migraine,6,70291.89,4.0,Yes,61-80,11715.32,Low
+1643,23,Female,Pediatrics,Migraine,5,14096.65,2.6,No,18-30,2819.33,Low
+1644,70,Male,General Medicine,Infection,12,92644.38,6.5,No,61-80,7720.37,Medium
+1645,41,Male,Pediatrics,Migraine,4,59004.86,5.3,No,31-45,14751.22,Medium
+1646,50,Female,Neurology,Infection,12,39553.92,8.8,No,46-60,3296.16,High
+1647,66,Female,Orthopedics,Hypertension,2,76871.17,1.3,No,61-80,38435.58,Low
+1648,46,Female,Pediatrics,Hypertension,7,29449.72,6.8,No,46-60,4207.1,Medium
+1649,80,Male,Neurology,Hypertension,13,70883.43,7.9,No,61-80,5452.57,High
+1650,60,Female,Neurology,Diabetes,5,8772.56,7.8,No,46-60,1754.51,High
+1651,39,Male,Neurology,Diabetes,4,84743.76,9.0,No,31-45,21185.94,High
+1652,43,Male,Neurology,Infection,12,47576.23,7.6,No,31-45,3964.69,High
+1653,45,Male,General Medicine,Migraine,14,65485.83,9.4,No,31-45,4677.56,High
+1654,67,Female,Neurology,Migraine,8,26017.59,4.0,No,61-80,3252.2,Low
+1655,38,Male,General Medicine,Hypertension,9,69322.0,5.5,No,31-45,7702.44,Medium
+1656,66,Male,General Medicine,Fracture,9,78362.83,1.1,No,61-80,8706.98,Low
+1657,24,Male,Neurology,Diabetes,3,49955.25,1.1,Yes,18-30,16651.75,Low
+1658,34,Male,Orthopedics,Diabetes,3,63684.06,3.2,No,31-45,21228.02,Low
+1659,37,Male,Neurology,Hypertension,5,48350.96,1.9,No,31-45,9670.19,Low
+1660,58,Female,Neurology,Diabetes,5,89938.68,3.3,Yes,46-60,17987.74,Low
+1661,66,Male,Neurology,Hypertension,10,52297.57,2.6,No,61-80,5229.76,Low
+1662,37,Male,Orthopedics,Infection,2,84971.83,1.3,No,31-45,42485.92,Low
+1663,71,Female,Cardiology,Migraine,1,81128.45,9.2,No,61-80,81128.45,High
+1664,39,Male,Cardiology,Fracture,8,43997.96,1.1,No,31-45,5499.74,Low
+1665,45,Female,General Medicine,Migraine,3,26858.03,7.6,No,31-45,8952.68,High
+1666,80,Male,General Medicine,Migraine,1,43577.8,2.4,Yes,61-80,43577.8,Low
+1667,78,Female,Orthopedics,Infection,1,83490.65,9.2,No,61-80,83490.65,High
+1668,57,Female,Pediatrics,Diabetes,11,26625.09,9.0,No,46-60,2420.46,High
+1669,66,Male,Cardiology,Fracture,2,54821.45,6.9,No,61-80,27410.72,Medium
+1670,24,Male,General Medicine,Diabetes,6,81579.19,7.1,No,18-30,13596.53,High
+1671,18,Male,Cardiology,Migraine,6,38580.36,1.0,No,18-30,6430.06,Low
+1672,49,Female,Orthopedics,Hypertension,14,66009.92,9.9,No,46-60,4714.99,High
+1673,30,Female,Orthopedics,Migraine,3,28335.0,8.9,No,18-30,9445.0,High
+1674,47,Female,Pediatrics,Diabetes,12,15381.55,9.1,No,46-60,1281.8,High
+1675,40,Male,Pediatrics,Migraine,4,80466.5,6.9,No,31-45,20116.62,Medium
+1676,68,Female,Orthopedics,Hypertension,12,14402.02,4.1,No,61-80,1200.17,Medium
+1677,76,Female,General Medicine,Infection,13,30781.23,9.0,No,61-80,2367.79,High
+1678,73,Male,Cardiology,Diabetes,2,86235.4,3.6,No,61-80,43117.7,Low
+1679,36,Female,Neurology,Migraine,2,37914.58,6.1,No,31-45,18957.29,Medium
+1680,79,Female,Pediatrics,Diabetes,7,97439.31,1.9,No,61-80,13919.9,Low
+1681,49,Male,Neurology,Infection,13,98074.76,9.3,No,46-60,7544.21,High
+1682,47,Female,General Medicine,Migraine,1,30486.22,2.3,No,46-60,30486.22,Low
+1683,46,Male,Pediatrics,Migraine,7,8892.93,3.0,No,46-60,1270.42,Low
+1684,66,Male,Neurology,Diabetes,14,71981.01,6.0,No,61-80,5141.5,Medium
+1685,62,Male,General Medicine,Diabetes,12,47843.72,7.9,No,61-80,3986.98,High
+1686,46,Male,Cardiology,Hypertension,14,14571.52,6.6,Yes,46-60,1040.82,Medium
+1687,47,Male,General Medicine,Infection,12,72214.67,3.1,No,46-60,6017.89,Low
+1688,33,Female,Pediatrics,Hypertension,14,7961.62,1.0,No,31-45,568.69,Low
+1689,57,Female,Orthopedics,Migraine,1,87668.69,7.8,No,46-60,87668.69,High
+1690,36,Male,Cardiology,Diabetes,14,18171.99,9.9,No,31-45,1298.0,High
+1691,35,Male,Neurology,Migraine,6,17094.63,8.3,No,31-45,2849.1,High
+1692,18,Female,Pediatrics,Migraine,3,21688.87,5.1,No,18-30,7229.62,Medium
+1693,31,Male,Orthopedics,Fracture,8,96225.3,9.1,No,31-45,12028.16,High
+1694,68,Male,General Medicine,Fracture,6,70851.09,4.7,No,61-80,11808.52,Medium
+1695,64,Male,Orthopedics,Migraine,11,81130.3,5.7,No,61-80,7375.48,Medium
+1696,67,Female,Pediatrics,Diabetes,2,42775.32,5.3,No,61-80,21387.66,Medium
+1697,19,Female,Pediatrics,Migraine,8,36949.71,5.0,No,18-30,4618.71,Medium
+1698,71,Male,Orthopedics,Fracture,5,27275.98,8.0,No,61-80,5455.2,High
+1699,45,Male,General Medicine,Diabetes,8,50661.56,5.7,Yes,31-45,6332.7,Medium
+1700,66,Female,Orthopedics,Migraine,8,57423.73,3.9,No,61-80,7177.97,Low
+1701,67,Female,Pediatrics,Infection,6,65018.61,3.3,No,61-80,10836.44,Low
+1702,47,Male,Pediatrics,Infection,2,29426.26,1.3,No,46-60,14713.13,Low
+1703,55,Male,Neurology,Migraine,8,95122.14,6.2,No,46-60,11890.27,Medium
+1704,68,Female,Neurology,Diabetes,11,21127.06,3.1,No,61-80,1920.64,Low
+1705,80,Female,Cardiology,Migraine,6,96737.05,2.3,No,61-80,16122.84,Low
+1706,21,Female,Pediatrics,Migraine,6,6411.33,6.9,No,18-30,1068.56,Medium
+1707,18,Male,Neurology,Fracture,8,50706.94,7.1,No,18-30,6338.37,High
+1708,25,Female,Orthopedics,Infection,1,36669.94,7.8,No,18-30,36669.94,High
+1709,46,Male,General Medicine,Fracture,2,47666.72,5.5,No,46-60,23833.36,Medium
+1710,72,Female,Orthopedics,Fracture,12,59213.14,9.0,No,61-80,4934.43,High
+1711,56,Female,General Medicine,Migraine,12,46380.97,9.4,No,46-60,3865.08,High
+1712,20,Female,Neurology,Fracture,9,44410.45,8.3,No,18-30,4934.49,High
+1713,49,Female,Cardiology,Infection,11,74608.72,6.7,Yes,46-60,6782.61,Medium
+1714,27,Male,Orthopedics,Fracture,12,70158.25,3.7,No,18-30,5846.52,Low
+1715,27,Male,Orthopedics,Infection,8,84160.77,9.8,No,18-30,10520.1,High
+1716,36,Female,Orthopedics,Fracture,12,28746.1,3.5,No,31-45,2395.51,Low
+1717,63,Male,General Medicine,Infection,7,62905.21,2.8,No,61-80,8986.46,Low
+1718,51,Female,Neurology,Fracture,7,60593.5,5.0,No,46-60,8656.21,Medium
+1719,77,Female,Orthopedics,Fracture,5,40125.09,1.5,Yes,61-80,8025.02,Low
+1720,50,Female,Orthopedics,Diabetes,2,51175.47,9.8,No,46-60,25587.74,High
+1721,40,Female,Cardiology,Infection,11,34809.3,6.3,No,31-45,3164.48,Medium
+1722,72,Male,Cardiology,Infection,6,18475.22,6.0,No,61-80,3079.2,Medium
+1723,45,Female,Neurology,Infection,10,25311.12,6.9,Yes,31-45,2531.11,Medium
+1724,49,Female,Neurology,Hypertension,3,15023.8,5.5,No,46-60,5007.93,Medium
+1725,67,Male,Pediatrics,Fracture,4,69891.61,1.3,Yes,61-80,17472.9,Low
+1726,24,Female,Cardiology,Infection,13,67769.1,6.5,No,18-30,5213.01,Medium
+1727,46,Female,Pediatrics,Hypertension,10,95307.61,7.4,No,46-60,9530.76,High
+1728,25,Female,General Medicine,Diabetes,12,74319.45,4.8,No,18-30,6193.29,Medium
+1729,18,Male,Pediatrics,Infection,11,9944.35,7.8,No,18-30,904.03,High
+1730,74,Female,Orthopedics,Infection,2,89003.29,3.0,No,61-80,44501.64,Low
+1731,72,Male,Pediatrics,Hypertension,14,86954.14,3.0,No,61-80,6211.01,Low
+1732,20,Female,Neurology,Fracture,2,47115.43,2.5,No,18-30,23557.72,Low
+1733,41,Female,General Medicine,Diabetes,12,60656.99,4.3,Yes,31-45,5054.75,Medium
+1734,40,Male,Orthopedics,Infection,8,97727.44,8.6,No,31-45,12215.93,High
+1735,76,Female,Pediatrics,Fracture,8,55568.91,8.5,No,61-80,6946.11,High
+1736,80,Female,General Medicine,Diabetes,10,91005.57,4.4,No,61-80,9100.56,Medium
+1737,78,Male,General Medicine,Migraine,6,12888.68,6.3,No,61-80,2148.11,Medium
+1738,25,Male,Orthopedics,Migraine,13,23149.93,7.5,No,18-30,1780.76,High
+1739,71,Male,Pediatrics,Diabetes,5,46871.72,3.2,No,61-80,9374.34,Low
+1740,74,Male,General Medicine,Hypertension,8,60551.9,2.5,No,61-80,7568.99,Low
+1741,64,Male,General Medicine,Diabetes,4,82541.65,9.7,No,61-80,20635.41,High
+1742,54,Female,Cardiology,Diabetes,11,98884.9,6.6,No,46-60,8989.54,Medium
+1743,20,Male,General Medicine,Hypertension,4,41940.89,9.8,No,18-30,10485.22,High
+1744,68,Female,Cardiology,Hypertension,5,9504.49,4.0,No,61-80,1900.9,Low
+1745,50,Female,Pediatrics,Fracture,1,81111.29,7.3,No,46-60,81111.29,High
+1746,45,Female,Pediatrics,Fracture,1,62416.17,3.0,No,31-45,62416.17,Low
+1747,64,Male,Pediatrics,Hypertension,2,23861.57,3.4,No,61-80,11930.78,Low
+1748,25,Male,Neurology,Migraine,14,52008.7,5.6,No,18-30,3714.91,Medium
+1749,51,Female,Pediatrics,Migraine,8,75519.47,3.9,No,46-60,9439.93,Low
+1750,52,Male,General Medicine,Diabetes,7,78189.12,2.5,No,46-60,11169.87,Low
+1751,49,Male,Orthopedics,Infection,10,52463.75,3.4,Yes,46-60,5246.38,Low
+1752,41,Male,Cardiology,Diabetes,9,33995.38,1.3,No,31-45,3777.26,Low
+1753,31,Male,Neurology,Diabetes,5,97505.55,7.3,No,31-45,19501.11,High
+1754,49,Female,Pediatrics,Infection,2,68019.45,5.4,No,46-60,34009.72,Medium
+1755,73,Female,Pediatrics,Hypertension,7,43782.56,1.8,No,61-80,6254.65,Low
+1756,63,Male,Orthopedics,Migraine,8,31644.01,2.5,Yes,61-80,3955.5,Low
+1757,60,Female,Orthopedics,Diabetes,12,74454.78,1.9,No,46-60,6204.56,Low
+1758,33,Male,Neurology,Infection,7,28007.43,6.5,No,31-45,4001.06,Medium
+1759,21,Male,Cardiology,Fracture,14,21312.45,1.8,No,18-30,1522.32,Low
+1760,69,Female,Pediatrics,Diabetes,7,55334.22,7.8,No,61-80,7904.89,High
+1761,54,Female,Neurology,Migraine,12,32548.8,1.2,No,46-60,2712.4,Low
+1762,71,Female,General Medicine,Hypertension,14,64745.99,3.2,No,61-80,4624.71,Low
+1763,38,Male,General Medicine,Diabetes,5,16204.17,9.0,No,31-45,3240.83,High
+1764,31,Female,Neurology,Diabetes,2,67219.4,7.5,No,31-45,33609.7,High
+1765,48,Male,Pediatrics,Infection,6,31913.17,1.7,No,46-60,5318.86,Low
+1766,72,Female,Neurology,Fracture,4,5023.08,8.4,No,61-80,1255.77,High
+1767,65,Female,Pediatrics,Fracture,10,17058.93,5.4,No,61-80,1705.89,Medium
+1768,35,Male,Orthopedics,Hypertension,2,93693.46,8.6,No,31-45,46846.73,High
+1769,24,Male,Neurology,Migraine,12,87398.69,6.4,No,18-30,7283.22,Medium
+1770,27,Male,Pediatrics,Hypertension,9,27192.86,7.1,No,18-30,3021.43,High
+1771,24,Male,Neurology,Diabetes,7,78945.33,9.9,No,18-30,11277.9,High
+1772,50,Male,Neurology,Diabetes,6,62814.3,3.1,No,46-60,10469.05,Low
+1773,40,Male,Pediatrics,Fracture,12,97235.95,6.6,No,31-45,8103.0,Medium
+1774,38,Male,Pediatrics,Migraine,5,40492.54,5.1,Yes,31-45,8098.51,Medium
+1775,36,Male,Cardiology,Infection,3,69738.76,1.4,Yes,31-45,23246.25,Low
+1776,65,Female,Neurology,Migraine,12,11035.89,1.1,No,61-80,919.66,Low
+1777,78,Male,General Medicine,Diabetes,10,42643.5,2.1,No,61-80,4264.35,Low
+1778,36,Male,Neurology,Infection,10,96562.68,6.8,No,31-45,9656.27,Medium
+1779,53,Female,Neurology,Migraine,4,56203.18,6.1,Yes,46-60,14050.8,Medium
+1780,46,Male,Pediatrics,Migraine,3,32348.55,6.0,No,46-60,10782.85,Medium
+1781,77,Female,Neurology,Infection,12,16425.74,1.3,No,61-80,1368.81,Low
+1782,35,Female,Neurology,Diabetes,11,71835.19,5.2,No,31-45,6530.47,Medium
+1783,19,Male,General Medicine,Migraine,8,66261.32,9.3,No,18-30,8282.67,High
+1784,18,Female,Pediatrics,Infection,3,40524.18,4.6,No,18-30,13508.06,Medium
+1785,64,Male,Neurology,Diabetes,7,95339.43,6.6,No,61-80,13619.92,Medium
+1786,22,Female,Orthopedics,Infection,7,7109.27,8.0,No,18-30,1015.61,High
+1787,37,Female,Cardiology,Infection,7,33853.77,8.1,Yes,31-45,4836.25,High
+1788,28,Female,General Medicine,Migraine,13,92501.6,5.7,Yes,18-30,7115.51,Medium
+1789,59,Male,Neurology,Diabetes,7,35488.87,8.7,Yes,46-60,5069.84,High
+1790,80,Male,Orthopedics,Migraine,14,28964.02,4.5,No,61-80,2068.86,Medium
+1791,19,Female,Neurology,Hypertension,2,55750.94,9.0,No,18-30,27875.47,High
+1792,20,Female,Neurology,Hypertension,10,83261.17,3.2,No,18-30,8326.12,Low
+1793,40,Male,Pediatrics,Diabetes,3,14798.94,3.5,Yes,31-45,4932.98,Low
+1794,72,Male,Pediatrics,Infection,10,94586.97,1.5,No,61-80,9458.7,Low
+1795,29,Female,Pediatrics,Migraine,9,80531.92,8.2,No,18-30,8947.99,High
+1796,37,Female,Orthopedics,Migraine,3,22218.77,4.8,No,31-45,7406.26,Medium
+1797,22,Male,Neurology,Diabetes,2,72640.76,3.1,Yes,18-30,36320.38,Low
+1798,54,Male,Cardiology,Diabetes,9,41571.08,3.1,Yes,46-60,4619.01,Low
+1799,55,Male,General Medicine,Hypertension,13,43217.99,9.1,No,46-60,3324.46,High
+1800,47,Male,Pediatrics,Fracture,10,79412.56,8.5,No,46-60,7941.26,High
+1801,26,Male,Pediatrics,Diabetes,9,96464.56,6.0,No,18-30,10718.28,Medium
+1802,51,Female,Neurology,Fracture,4,17032.31,6.5,No,46-60,4258.08,Medium
+1803,70,Male,Neurology,Diabetes,14,44959.87,5.3,No,61-80,3211.42,Medium
+1804,61,Female,Orthopedics,Infection,12,50689.45,4.5,No,61-80,4224.12,Medium
+1805,52,Male,Orthopedics,Infection,9,40749.62,9.2,No,46-60,4527.74,High
+1806,69,Female,Pediatrics,Hypertension,3,39502.97,2.1,No,61-80,13167.66,Low
+1807,75,Male,Neurology,Hypertension,7,9965.52,4.8,No,61-80,1423.65,Medium
+1808,39,Male,Cardiology,Fracture,7,70126.17,4.1,No,31-45,10018.02,Medium
+1809,61,Female,General Medicine,Diabetes,11,46440.37,5.5,No,61-80,4221.85,Medium
+1810,41,Female,Neurology,Migraine,8,23505.41,5.1,No,31-45,2938.18,Medium
+1811,34,Male,Neurology,Hypertension,10,82523.18,5.7,No,31-45,8252.32,Medium
+1812,27,Male,Orthopedics,Migraine,4,81243.27,2.3,No,18-30,20310.82,Low
+1813,47,Male,General Medicine,Migraine,3,51207.2,5.6,Yes,46-60,17069.07,Medium
+1814,73,Male,Pediatrics,Diabetes,3,33352.81,3.2,No,61-80,11117.6,Low
+1815,76,Male,Neurology,Fracture,12,65618.81,2.7,No,61-80,5468.23,Low
+1816,63,Female,Pediatrics,Diabetes,5,32374.45,1.6,No,61-80,6474.89,Low
+1817,40,Female,Neurology,Hypertension,11,27420.75,7.9,Yes,31-45,2492.8,High
+1818,49,Male,Pediatrics,Migraine,14,74398.89,4.8,No,46-60,5314.21,Medium
+1819,34,Female,General Medicine,Diabetes,1,8830.9,6.6,No,31-45,8830.9,Medium
+1820,67,Female,Orthopedics,Diabetes,10,14003.0,7.5,Yes,61-80,1400.3,High
+1821,68,Female,General Medicine,Diabetes,3,5644.88,7.1,No,61-80,1881.63,High
+1822,34,Male,Cardiology,Hypertension,14,19529.6,5.2,No,31-45,1394.97,Medium
+1823,31,Female,Orthopedics,Fracture,6,11554.05,4.5,No,31-45,1925.68,Medium
+1824,26,Male,General Medicine,Diabetes,3,99601.22,4.4,No,18-30,33200.41,Medium
+1825,57,Female,Cardiology,Hypertension,5,32436.95,6.8,Yes,46-60,6487.39,Medium
+1826,19,Male,Neurology,Migraine,9,19180.46,5.5,No,18-30,2131.16,Medium
+1827,62,Female,Neurology,Infection,2,27894.64,8.6,No,61-80,13947.32,High
+1828,42,Male,Pediatrics,Hypertension,11,93931.93,8.9,No,31-45,8539.27,High
+1829,56,Male,Orthopedics,Infection,2,54415.22,2.5,No,46-60,27207.61,Low
+1830,26,Female,Neurology,Diabetes,12,39657.72,2.2,No,18-30,3304.81,Low
+1831,71,Male,Orthopedics,Diabetes,6,87972.19,6.7,No,61-80,14662.03,Medium
+1832,39,Male,Neurology,Hypertension,6,42524.08,3.7,No,31-45,7087.35,Low
+1833,60,Male,Pediatrics,Infection,11,36825.81,1.2,No,46-60,3347.8,Low
+1834,63,Male,General Medicine,Diabetes,11,24691.84,9.0,No,61-80,2244.71,High
+1835,21,Male,Pediatrics,Migraine,8,40890.7,3.0,No,18-30,5111.34,Low
+1836,43,Male,Cardiology,Fracture,12,35085.01,9.4,No,31-45,2923.75,High
+1837,75,Male,Neurology,Fracture,13,69343.88,7.5,No,61-80,5334.14,High
+1838,46,Male,Cardiology,Diabetes,11,32510.36,7.9,No,46-60,2955.49,High
+1839,62,Female,Cardiology,Infection,14,59833.98,2.8,No,61-80,4273.86,Low
+1840,51,Female,Orthopedics,Diabetes,2,11259.76,3.1,No,46-60,5629.88,Low
+1841,40,Male,Neurology,Infection,9,23172.47,5.7,No,31-45,2574.72,Medium
+1842,54,Male,Cardiology,Migraine,2,43703.5,2.5,No,46-60,21851.75,Low
+1843,28,Female,General Medicine,Infection,13,94010.18,3.7,Yes,18-30,7231.55,Low
+1844,23,Female,Cardiology,Diabetes,1,40838.94,3.9,No,18-30,40838.94,Low
+1845,35,Female,General Medicine,Migraine,10,68087.04,2.4,Yes,31-45,6808.7,Low
+1846,38,Male,Orthopedics,Hypertension,2,29233.29,2.8,Yes,31-45,14616.64,Low
+1847,59,Female,Cardiology,Fracture,12,17068.19,8.1,No,46-60,1422.35,High
+1848,53,Male,Pediatrics,Diabetes,7,10560.98,2.5,No,46-60,1508.71,Low
+1849,58,Male,Orthopedics,Diabetes,8,34014.28,1.3,No,46-60,4251.78,Low
+1850,55,Female,General Medicine,Diabetes,5,19977.8,6.7,No,46-60,3995.56,Medium
+1851,51,Male,Orthopedics,Migraine,6,21530.99,9.8,No,46-60,3588.5,High
+1852,34,Male,Cardiology,Hypertension,12,77272.13,4.0,No,31-45,6439.34,Low
+1853,54,Male,Neurology,Infection,1,6504.62,2.1,No,46-60,6504.62,Low
+1854,42,Male,Neurology,Hypertension,6,57991.96,6.1,No,31-45,9665.33,Medium
+1855,55,Female,General Medicine,Migraine,12,41048.83,9.2,No,46-60,3420.74,High
+1856,75,Female,General Medicine,Diabetes,8,53122.25,8.1,No,61-80,6640.28,High
+1857,29,Male,Neurology,Fracture,13,58468.87,6.6,No,18-30,4497.61,Medium
+1858,40,Male,General Medicine,Diabetes,3,34769.93,3.8,No,31-45,11589.98,Low
+1859,70,Female,Orthopedics,Infection,11,33035.34,5.9,Yes,61-80,3003.21,Medium
+1860,59,Male,Pediatrics,Fracture,1,74673.18,1.8,No,46-60,74673.18,Low
+1861,39,Female,Pediatrics,Diabetes,11,87771.31,7.1,Yes,31-45,7979.21,High
+1862,38,Male,Orthopedics,Fracture,4,23295.26,7.5,Yes,31-45,5823.82,High
+1863,44,Male,Pediatrics,Hypertension,1,14273.78,9.7,No,31-45,14273.78,High
+1864,74,Female,Cardiology,Migraine,14,90290.6,3.3,No,61-80,6449.33,Low
+1865,48,Female,Orthopedics,Diabetes,8,38240.07,1.2,No,46-60,4780.01,Low
+1866,23,Female,General Medicine,Infection,5,57375.15,5.9,No,18-30,11475.03,Medium
+1867,44,Female,Orthopedics,Hypertension,1,39156.6,7.4,No,31-45,39156.6,High
+1868,57,Male,Neurology,Diabetes,14,16951.22,8.1,Yes,46-60,1210.8,High
+1869,51,Female,General Medicine,Hypertension,8,60986.51,2.7,No,46-60,7623.31,Low
+1870,29,Male,Neurology,Infection,9,54888.38,3.4,No,18-30,6098.71,Low
+1871,62,Female,General Medicine,Diabetes,10,24284.39,5.6,No,61-80,2428.44,Medium
+1872,74,Female,Pediatrics,Infection,2,47927.56,4.0,No,61-80,23963.78,Low
+1873,70,Male,Orthopedics,Fracture,9,80710.01,8.7,Yes,61-80,8967.78,High
+1874,24,Female,Cardiology,Infection,8,61090.48,5.3,No,18-30,7636.31,Medium
+1875,27,Female,General Medicine,Fracture,7,14207.15,8.2,No,18-30,2029.59,High
+1876,62,Female,General Medicine,Diabetes,3,57062.04,6.2,No,61-80,19020.68,Medium
+1877,34,Female,Neurology,Fracture,2,71760.14,8.0,No,31-45,35880.07,High
+1878,43,Male,Pediatrics,Diabetes,7,80306.82,4.0,No,31-45,11472.4,Low
+1879,38,Male,Neurology,Diabetes,5,64766.17,8.5,No,31-45,12953.23,High
+1880,45,Female,Neurology,Migraine,6,19502.53,3.5,No,31-45,3250.42,Low
+1881,79,Female,Pediatrics,Diabetes,4,72466.46,5.9,Yes,61-80,18116.62,Medium
+1882,75,Female,Cardiology,Fracture,2,69347.48,2.9,Yes,61-80,34673.74,Low
+1883,63,Male,Neurology,Migraine,9,7320.55,5.3,No,61-80,813.39,Medium
+1884,19,Male,Neurology,Migraine,3,44116.03,3.9,No,18-30,14705.34,Low
+1885,77,Male,General Medicine,Diabetes,12,36630.27,3.4,Yes,61-80,3052.52,Low
+1886,71,Male,Pediatrics,Infection,14,68594.15,9.7,Yes,61-80,4899.58,High
+1887,60,Female,Orthopedics,Infection,7,25532.9,2.4,Yes,46-60,3647.56,Low
+1888,18,Female,Cardiology,Migraine,14,61132.83,8.1,Yes,18-30,4366.63,High
+1889,68,Female,Cardiology,Diabetes,8,91754.57,9.9,No,61-80,11469.32,High
+1890,70,Male,Pediatrics,Infection,2,80791.23,1.2,No,61-80,40395.62,Low
+1891,53,Female,General Medicine,Diabetes,14,92538.48,7.3,No,46-60,6609.89,High
+1892,68,Male,General Medicine,Diabetes,6,97958.07,3.3,No,61-80,16326.34,Low
+1893,43,Male,Pediatrics,Migraine,11,6013.66,1.4,No,31-45,546.7,Low
+1894,46,Female,General Medicine,Migraine,8,64160.42,4.6,No,46-60,8020.05,Medium
+1895,38,Female,Cardiology,Hypertension,7,44219.74,9.4,No,31-45,6317.11,High
+1896,28,Female,Cardiology,Infection,11,86686.18,1.1,No,18-30,7880.56,Low
+1897,57,Male,Orthopedics,Infection,3,28922.4,6.3,No,46-60,9640.8,Medium
+1898,28,Male,Pediatrics,Infection,1,98197.8,5.5,No,18-30,98197.8,Medium
+1899,53,Female,Neurology,Fracture,14,63302.26,8.9,No,46-60,4521.59,High
+1900,66,Female,Neurology,Diabetes,6,80386.05,1.8,No,61-80,13397.68,Low
+1901,76,Male,Orthopedics,Migraine,8,13131.96,7.1,No,61-80,1641.5,High
+1902,56,Female,Orthopedics,Infection,6,22428.5,7.1,No,46-60,3738.08,High
+1903,57,Male,General Medicine,Hypertension,5,77048.35,7.0,No,46-60,15409.67,Medium
+1904,52,Male,Orthopedics,Infection,11,7088.72,9.5,Yes,46-60,644.43,High
+1905,71,Female,Orthopedics,Diabetes,12,82603.41,8.4,No,61-80,6883.62,High
+1906,51,Female,Neurology,Diabetes,8,6325.16,1.4,No,46-60,790.64,Low
+1907,72,Female,General Medicine,Migraine,2,67426.29,5.2,Yes,61-80,33713.14,Medium
+1908,64,Female,Orthopedics,Fracture,12,39683.92,4.6,No,61-80,3306.99,Medium
+1909,41,Male,Orthopedics,Migraine,1,63092.01,3.8,No,31-45,63092.01,Low
+1910,71,Male,General Medicine,Infection,1,71122.98,5.1,Yes,61-80,71122.98,Medium
+1911,39,Male,Pediatrics,Hypertension,14,37535.15,4.5,No,31-45,2681.08,Medium
+1912,22,Female,General Medicine,Migraine,4,15256.43,4.9,Yes,18-30,3814.11,Medium
+1913,73,Male,Neurology,Fracture,6,11616.36,9.8,No,61-80,1936.06,High
+1914,50,Female,Pediatrics,Migraine,13,60948.92,1.8,No,46-60,4688.38,Low
+1915,75,Female,Cardiology,Diabetes,9,54462.26,9.3,No,61-80,6051.36,High
+1916,53,Female,General Medicine,Infection,1,75509.1,5.3,No,46-60,75509.1,Medium
+1917,64,Female,Neurology,Infection,12,53424.87,6.6,No,61-80,4452.07,Medium
+1918,37,Female,Pediatrics,Infection,1,45132.35,8.5,No,31-45,45132.35,High
+1919,36,Female,General Medicine,Infection,13,42818.28,4.2,No,31-45,3293.71,Medium
+1920,52,Male,Orthopedics,Infection,13,7512.46,4.9,No,46-60,577.88,Medium
+1921,69,Female,General Medicine,Infection,5,36877.93,4.7,No,61-80,7375.59,Medium
+1922,60,Male,Cardiology,Hypertension,10,97721.91,4.4,No,46-60,9772.19,Medium
+1923,34,Male,General Medicine,Fracture,5,87987.78,9.3,No,31-45,17597.56,High
+1924,79,Female,Pediatrics,Infection,5,36290.92,8.5,No,61-80,7258.18,High
+1925,76,Female,Pediatrics,Fracture,10,60840.56,2.0,No,61-80,6084.06,Low
+1926,62,Female,General Medicine,Infection,6,85493.19,2.0,No,61-80,14248.86,Low
+1927,60,Male,Pediatrics,Migraine,8,46921.06,4.9,No,46-60,5865.13,Medium
+1928,51,Female,Orthopedics,Infection,3,6706.0,1.9,No,46-60,2235.33,Low
+1929,26,Male,General Medicine,Diabetes,9,12078.49,6.6,Yes,18-30,1342.05,Medium
+1930,43,Female,Orthopedics,Hypertension,13,53487.31,2.3,Yes,31-45,4114.41,Low
+1931,19,Female,Orthopedics,Migraine,1,97096.74,5.7,No,18-30,97096.74,Medium
+1932,70,Male,Neurology,Migraine,4,70854.91,1.1,No,61-80,17713.73,Low
+1933,26,Male,General Medicine,Diabetes,9,11737.04,3.8,No,18-30,1304.12,Low
+1934,26,Female,Pediatrics,Infection,14,22989.28,7.1,No,18-30,1642.09,High
+1935,57,Male,Orthopedics,Hypertension,8,78275.7,5.4,No,46-60,9784.46,Medium
+1936,34,Male,Neurology,Migraine,10,84936.78,9.8,No,31-45,8493.68,High
+1937,18,Male,General Medicine,Hypertension,9,63680.99,8.9,No,18-30,7075.67,High
+1938,42,Male,General Medicine,Migraine,1,66220.2,4.2,No,31-45,66220.2,Medium
+1939,78,Male,Cardiology,Infection,9,7692.06,1.4,Yes,61-80,854.67,Low
+1940,60,Female,Cardiology,Migraine,3,83710.37,8.6,No,46-60,27903.46,High
+1941,57,Female,Orthopedics,Migraine,11,79886.14,9.2,No,46-60,7262.38,High
+1942,59,Male,Cardiology,Fracture,12,29608.34,8.4,No,46-60,2467.36,High
+1943,42,Female,Orthopedics,Infection,10,72324.29,2.2,No,31-45,7232.43,Low
+1944,56,Female,Pediatrics,Diabetes,9,25411.19,10.0,No,46-60,2823.47,High
+1945,52,Male,Orthopedics,Diabetes,1,8831.37,3.3,No,46-60,8831.37,Low
+1946,20,Female,Cardiology,Infection,1,24107.97,7.5,No,18-30,24107.97,High
+1947,67,Male,Pediatrics,Diabetes,9,21969.74,9.2,No,61-80,2441.08,High
+1948,54,Male,Cardiology,Infection,11,37086.06,3.1,No,46-60,3371.46,Low
+1949,61,Female,Orthopedics,Diabetes,14,44752.7,9.2,No,61-80,3196.62,High
+1950,61,Male,Neurology,Fracture,6,53311.19,3.8,No,61-80,8885.2,Low
+1951,68,Male,General Medicine,Diabetes,4,50291.62,9.8,No,61-80,12572.9,High
+1952,47,Male,Cardiology,Migraine,7,30714.09,3.5,No,46-60,4387.73,Low
+1953,55,Male,Orthopedics,Infection,5,7771.21,9.6,No,46-60,1554.24,High
+1954,51,Male,Pediatrics,Hypertension,10,62484.65,1.5,No,46-60,6248.46,Low
+1955,29,Female,Cardiology,Hypertension,14,42595.76,7.4,No,18-30,3042.55,High
+1956,36,Female,Cardiology,Infection,7,33373.85,5.8,No,31-45,4767.69,Medium
+1957,54,Male,General Medicine,Fracture,8,87359.4,5.3,No,46-60,10919.92,Medium
+1958,61,Male,Orthopedics,Diabetes,8,75940.61,3.0,No,61-80,9492.58,Low
+1959,76,Female,Neurology,Fracture,1,86487.73,7.4,Yes,61-80,86487.73,High
+1960,76,Male,Pediatrics,Hypertension,8,52023.37,2.7,No,61-80,6502.92,Low
+1961,66,Female,Orthopedics,Infection,6,17438.47,6.0,No,61-80,2906.41,Medium
+1962,78,Male,Pediatrics,Infection,4,71141.04,3.3,No,61-80,17785.26,Low
+1963,34,Male,Cardiology,Fracture,13,24577.01,9.6,Yes,31-45,1890.54,High
+1964,27,Male,General Medicine,Fracture,14,46916.82,1.3,No,18-30,3351.2,Low
+1965,74,Male,General Medicine,Diabetes,12,11175.07,2.8,No,61-80,931.26,Low
+1966,72,Male,Neurology,Migraine,8,83404.3,3.2,No,61-80,10425.54,Low
+1967,66,Male,General Medicine,Migraine,3,16964.36,4.7,No,61-80,5654.79,Medium
+1968,64,Male,Cardiology,Diabetes,13,90794.26,3.1,Yes,61-80,6984.17,Low
+1969,29,Female,Neurology,Migraine,4,87101.91,5.4,No,18-30,21775.48,Medium
+1970,79,Female,Orthopedics,Hypertension,6,49135.36,8.9,No,61-80,8189.23,High
+1971,33,Female,General Medicine,Migraine,11,75714.98,7.4,No,31-45,6883.18,High
+1972,41,Male,Neurology,Diabetes,7,63847.28,6.2,No,31-45,9121.04,Medium
+1973,36,Male,Cardiology,Migraine,4,81292.19,1.8,No,31-45,20323.05,Low
+1974,25,Male,Pediatrics,Infection,4,46021.48,7.2,No,18-30,11505.37,High
+1975,48,Male,Pediatrics,Fracture,7,79651.81,2.5,No,46-60,11378.83,Low
+1976,38,Male,Cardiology,Hypertension,6,48933.4,8.1,Yes,31-45,8155.57,High
+1977,34,Male,Cardiology,Infection,13,94391.75,3.3,No,31-45,7260.9,Low
+1978,40,Male,Pediatrics,Infection,11,51205.35,4.8,No,31-45,4655.03,Medium
+1979,54,Female,Neurology,Diabetes,8,48948.83,4.2,No,46-60,6118.6,Medium
+1980,71,Male,Pediatrics,Fracture,1,79581.83,8.7,No,61-80,79581.83,High
+1981,33,Female,Cardiology,Fracture,10,83049.88,2.1,No,31-45,8304.99,Low
+1982,23,Female,General Medicine,Hypertension,13,57676.47,6.1,No,18-30,4436.65,Medium
+1983,25,Male,Orthopedics,Diabetes,11,22080.79,2.3,No,18-30,2007.34,Low
+1984,42,Male,General Medicine,Hypertension,7,49437.03,7.3,No,31-45,7062.43,High
+1985,35,Female,General Medicine,Migraine,12,96966.89,9.1,No,31-45,8080.57,High
+1986,42,Female,Cardiology,Infection,7,76533.69,4.9,No,31-45,10933.38,Medium
+1987,29,Male,Pediatrics,Hypertension,11,82060.45,5.4,No,18-30,7460.04,Medium
+1988,32,Male,Neurology,Infection,7,8118.42,9.3,No,31-45,1159.77,High
+1989,76,Female,General Medicine,Diabetes,7,49446.65,5.7,Yes,61-80,7063.81,Medium
+1990,43,Male,Pediatrics,Migraine,10,66429.01,5.4,No,31-45,6642.9,Medium
+1991,58,Male,Neurology,Diabetes,14,83853.1,6.2,No,46-60,5989.51,Medium
+1992,62,Male,General Medicine,Migraine,10,9681.0,7.2,No,61-80,968.1,High
+1993,43,Female,Neurology,Migraine,8,85981.69,2.0,No,31-45,10747.71,Low
+1994,64,Female,Pediatrics,Infection,9,57098.09,8.4,No,61-80,6344.23,High
+1995,49,Female,Orthopedics,Diabetes,9,23744.83,4.9,No,46-60,2638.31,Medium
+1996,27,Male,Pediatrics,Diabetes,2,35139.25,1.7,No,18-30,17569.62,Low
+1997,33,Male,Cardiology,Hypertension,13,31783.31,8.1,No,31-45,2444.87,High
+1998,24,Female,Neurology,Diabetes,13,55431.61,4.4,No,18-30,4263.97,Medium
+1999,34,Female,Orthopedics,Hypertension,7,9910.14,1.9,Yes,31-45,1415.73,Low
+2000,40,Female,Neurology,Fracture,7,20060.94,6.7,No,31-45,2865.85,Medium
